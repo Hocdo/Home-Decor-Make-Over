@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1406954778
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: remake_livingroom_ab
+      Dependencies: {}
+    Info_1:
+      Name: workplace_ab
+      Dependencies: {}
+    Info_2:
+      Name: bar_ab
+      Dependencies: {}
+    Info_3:
+      Name: modern_kitchen_ab
+      Dependencies: {}
+    Info_4:
+      Name: sky_restaurant_ab
+      Dependencies: {}
+    Info_5:
+      Name: restaurant_ab
+      Dependencies: {}
+    Info_6:
+      Name: kid_room_ab
+      Dependencies: {}
+    Info_7:
+      Name: new_bedroom_ab
+      Dependencies: {}
+    Info_8:
+      Name: exhibition_ab
+      Dependencies: {}
+    Info_9:
+      Name: apmai_room_ab
+      Dependencies: {}
+    Info_10:
+      Name: phongtam_ab
+      Dependencies: {}

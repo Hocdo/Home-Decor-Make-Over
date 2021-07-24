@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca8eb9f1b3f15148bfe32bc878a2adc, type: 3}
+  m_Name: 4_Bedroom
+  m_EditorClassIdentifier: 
+  assetBundleName: new_bedroom_ab
+  id: 4
+  nextRoomId: 5
+  amountOfItemToUnlockNextRoom: 10
+  name: room_name_2
+  maxItemCount: 18
+  circleSprite: {fileID: 21300000, guid: 94aa302db98567c43a87937a30c6cfc9, type: 3}
+  description: room_desc_2
+  startDialogs: []
+  completeDialogs:
+  - content: room1_end_dialog_1
+    size: 0
+    avatarFlipped: 0
+    speakerData: {fileID: 0}

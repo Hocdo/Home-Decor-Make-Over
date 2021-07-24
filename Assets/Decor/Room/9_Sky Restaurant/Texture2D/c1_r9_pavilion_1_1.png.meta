@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 8e831c2107c67694d8e6f6e3d698bebf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: 135.5, y: 372.5}
+      - {x: -357.5, y: 372.5}
+      - {x: -429.5, y: 299.5}
+      - {x: -429.5, y: -372.5}
+      - {x: -325.5, y: -372.5}
+      - {x: -69.5, y: 7.5}
+      - {x: 8.5, y: -372.5}
+      - {x: 398.5, y: -372.5}
+      - {x: 429.5, y: -297.5}
+      - {x: 429.5, y: 354.5}
+    physicsShape:
+    - - {x: 345.5, y: -226.5}
+      - {x: 350.5, y: -81.5}
+      - {x: 267.5, y: 159.5}
+      - {x: 193.5, y: 152.5}
+      - {x: 138.5, y: -174.5}
+      - {x: 149.95178, y: -353.40512}
+      - {x: 26.5, y: -351.5}
+      - {x: 31.5, y: -181.5}
+      - {x: -43.5, y: 144.5}
+      - {x: -265.5, y: 151.5}
+      - {x: -353.5, y: -124.5}
+      - {x: -352.7226, y: -283.3429}
+      - {x: -418.5, y: -276.5}
+      - {x: -419.5, y: 187.5}
+      - {x: -327.4598, y: 332.5}
+      - {x: 350.5, y: 332.5}
+      - {x: 411.5, y: 221.5}
+      - {x: 425.5, y: -218.5}
+    bones: []
+    spriteID: 658534ea184ccb54491bff4b275eebc4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: sky_restaurant_ab
+  assetBundleVariant: 

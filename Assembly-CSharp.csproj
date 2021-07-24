@@ -1,0 +1,1604 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{2E18800A-E1A1-9043-9FD4-7D6A1FE2FFAD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>.</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\Bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_2_7;UNITY_2020_2;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;UNITY_ASTC_ONLY_DECOMPRESS;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoConfig>true</NoConfig>
+    <NoStdLib>true</NoStdLib>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
+    <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <UnityProjectGenerator>Package</UnityProjectGenerator>
+    <UnityProjectGeneratorVersion>2.0.7</UnityProjectGeneratorVersion>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>Android:13</UnityBuildTarget>
+    <UnityVersion>2020.2.7f1</UnityVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Match3\Scripts\CandyChip.cs" />
+    <Compile Include="Assets\Match3\Scripts\SpriteDrink.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\InputFocus.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Primitives\UILineTextureRenderer.cs" />
+    <Compile Include="Assets\Scripts\Timer.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\02_CellEventHandling\Example02Scene.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\PaginationManager.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceMediationSettings.cs" />
+    <Compile Include="Assets\MultiLanguage\CustomLocalization.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\ToolTips\ToolTip.cs" />
+    <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenProShortcuts.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\MenuSystem\MenuManager.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\HSS-VSS-ScrollSnap\PaginationScript.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\VerticalScrollSnap.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\RescalingPanels\RescaleDragPanel.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoardPosition.cs" />
+    <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenTextMeshPro.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\ColorSliderImage.cs" />
+    <Compile Include="Assets\Unity-Logs-Viewer\Reporter\Test\Rotate.cs" />
+    <Compile Include="Assets\Match3\Scripts\PathologicalGames\PrefabPool.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Primitives\UILineRendererList.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\Events\HSVChangedEvent.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\RoomElement.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ReorderableList\ReorderableListContent.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\CurvedText.cs" />
+    <Compile Include="Assets\Match3\Scripts\NetRequestLoadGameData.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupGameOutOfMoves.cs" />
+    <Compile Include="Assets\Match3\Scripts\SimpleHBombMixEffect.cs" />
+    <Compile Include="Assets\Loading\LoadingScreenController.cs" />
+    <Compile Include="Assets\Match3\Scripts\RockCandy.cs" />
+    <Compile Include="Assets\Match3\Scripts\SpawnStringGamePlayingType.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ScrollRectEx.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\04_FocusOn\Example04ScrollView.cs" />
+    <Compile Include="Assets\Match3\Scripts\IBlockType.cs" />
+    <Compile Include="Assets\Match3\Scripts\NetRequestLanguage.cs" />
+    <Compile Include="Assets\Test\TestingScene.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ComboBox\DropDownList.cs" />
+    <Compile Include="Assets\Match3\Scripts\MapDataRotationSlot.cs" />
+    <Compile Include="Assets\Decor\Scripts\PostDecorCompleteEffect.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Primitives\UICornerCut.cs" />
+    <Compile Include="Assets\Match3\Scripts\Side.cs" />
+    <Compile Include="Assets\Scripts\ThrowCollectItem.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Scripts\LogView.cs" />
+    <Compile Include="Assets\Match3\Scripts\Ribbon.cs" />
+    <Compile Include="Assets\Match3\Scripts\IPacketBaseError.cs" />
+    <Compile Include="Assets\Match3\Scripts\AudioAssistant.cs" />
+    <Compile Include="Assets\Match3\Scripts\ReqPacketLanguage.cs" />
+    <Compile Include="Assets\Match3\Scripts\RainbowBombMixEffect.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\03_InfiniteScroll\Example03ScrollViewCell.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\HSS-VSS-ScrollSnap\UpdateScrollSnap.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\FlexibleUIComponent.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\NicerOutline.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\CLZF2.cs" />
+    <Compile Include="Assets\Match3\Scripts\SoundDuckingSetting.cs" />
+    <Compile Include="Assets\Unity-Logs-Viewer\Reporter\ReporterGUI.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\InputFieldEnterSubmit.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\SetPropertyUtility.cs" />
+    <Compile Include="Assets\Scripts\Popup\JewelUnlockView.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\Stepper.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupSelectJewel.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\RoomPageElement.cs" />
+    <Compile Include="Assets\Scripts\Match3Tut\TutorialController.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\Accordion\Tweening\ITweenValue.cs" />
+    <Compile Include="Assets\Decor\Scripts\CameraSetup.cs" />
+    <Compile Include="Assets\Match3\Scripts\EnableEpisodeCollect.cs" />
+    <Compile Include="Assets\Scripts\ThrownCollectLiteChip.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\CurvedLayout.cs" />
+    <Compile Include="Assets\Match3\Scripts\AnimationBringdownEntry.cs" />
+    <Compile Include="Assets\Match3\Scripts\LevelBallJSON.cs" />
+    <Compile Include="Assets\IronSource\DemoScene\IronSourceDemoScript.cs" />
+    <Compile Include="Assets\Match3\Scripts\IPopupButtonLayout.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\IScrollSnap.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\ShaderEffects\UIScreenEffect.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\SVBoxSlider.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\MenuExample\Scripts\Menus\GameMenu.cs" />
+    <Compile Include="Assets\Match3\Scripts\ServerDataTable.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoosterShuffle.cs" />
+    <Compile Include="Assets\Scripts\HeadStartBoosterView.cs" />
+    <Compile Include="Assets\Match3\Scripts\SimpleChipSubType.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoosterVBomb.cs" />
+    <Compile Include="Assets\Match3\Scripts\ColorVBomb.cs" />
+    <Compile Include="Assets\Match3\Scripts\ParticleEffectIncChildren.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\MonoSpacing.cs" />
+    <Compile Include="Assets\Match3\Scripts\antilunchbox\AudioSourceStandardEvent.cs" />
+    <Compile Include="Assets\Scripts\AdvertisementManager.cs" />
+    <Compile Include="Assets\Scripts\Popup\Core\PopupBase.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\FancyScrollView.cs" />
+    <Compile Include="Assets\Scripts\PlayerMatch3Data.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\Accordion\Tweening\FloatTween.cs" />
+    <Compile Include="Assets\Match3\Scripts\MilkCarton.cs" />
+    <Compile Include="Assets\Decor\Scripts\CurrencyDataTable.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ReorderableList\ReorderableListElement.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ExtensionsToggleGroup.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourcePlacement.cs" />
+    <Compile Include="Assets\Match3\Scripts\FruitsBoxDragEnable.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupType.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\Events\ColorChangedEvent.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\Gradient.cs" />
+    <Compile Include="Assets\Match3\Scripts\ScoreType.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\Gradient2.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\VR Extensions\VRInputModule.cs" />
+    <Compile Include="Assets\Match3\Scripts\NetRequestBase.cs" />
+    <Compile Include="Assets\Match3\Scripts\SideCheckFill.cs" />
+    <Compile Include="Assets\Scripts\Popup\BundlePack.cs" />
+    <Compile Include="Assets\Match3\Scripts\ChocolateJail.cs" />
+    <Compile Include="Assets\Match3\Scripts\SoundConnection.cs" />
+    <Compile Include="Assets\Match3\Scripts\Slot.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\Accordion\Accordion.cs" />
+    <Compile Include="Assets\Match3\Scripts\NetRequestSaveGameData.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceIAgent.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\DialogShare.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\ToolTips\HoverTooltip.cs" />
+    <Compile Include="Assets\Match3\Scripts\Chip.cs" />
+    <Compile Include="Assets\Match3\Scripts\ButtonActiveGameobject.cs" />
+    <Compile Include="Assets\Match3\Scripts\SlotForChip.cs" />
+    <Compile Include="Assets\Match3\Scripts\GameProgressInfoView.cs" />
+    <Compile Include="Assets\Match3\Scripts\RainbowBomb.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ReorderableList\ReorderableList.cs" />
+    <Compile Include="Assets\Unity-Logs-Viewer\Reporter\MultiKeyDictionary.cs" />
+    <Compile Include="Assets\Match3\Scripts\StringIndex.cs" />
+    <Compile Include="Assets\Match3\Scripts\ResPacketBase.cs" />
+    <Compile Include="Assets\Match3\Scripts\LocalDataString.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoosterHBomb.cs" />
+    <Compile Include="Assets\Match3\Scripts\DropDirection.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\NonDrawingGraphic.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\04_FocusOn\Example04CellDto.cs" />
+    <Compile Include="Assets\Scripts\PoolingSystem.cs" />
+    <Compile Include="Assets\Match3\Scripts\VSTurn.cs" />
+    <Compile Include="Assets\Scripts\PreventDestroyingOnLoad.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\04_FocusOn\Example04Scene.cs" />
+    <Compile Include="Assets\Scripts\IAPManager.cs" />
+    <Compile Include="Assets\Test\PiggyBankTest.cs" />
+    <Compile Include="Assets\Decor\Scripts\DesignItemViewExtension.cs" />
+    <Compile Include="Assets\Match3\Scripts\RealTimeOptionData.cs" />
+    <Compile Include="Assets\Decor\Scripts\PlayerData.cs" />
+    <Compile Include="Assets\Decor\Scripts\ItemEffectType.cs" />
+    <Compile Include="Assets\Match3\Scripts\AnimationProperty.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupBlurEffect.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupGameMessageStart.cs" />
+    <Compile Include="Assets\Unity-Logs-Viewer\Reporter\Reporter.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\CurrencyUIView.cs" />
+    <Compile Include="Assets\Match3\Scripts\GameScene.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\SoftMaskScript.cs" />
+    <Compile Include="Assets\Match3\Scripts\Crunky.cs" />
+    <Compile Include="Assets\Match3\Scripts\IntVector2.cs" />
+    <Compile Include="Assets\Match3\Scripts\PacketGameLevelData.cs" />
+    <Compile Include="Assets\Match3\Scripts\ReqPacketLoadGameTable.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupGameStart.cs" />
+    <Compile Include="Assets\Decor\Scripts\DesignItemEffectController.cs" />
+    <Compile Include="Assets\Match3\Scripts\Powerup.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupLanguage.cs" />
+    <Compile Include="Assets\Match3\Scripts\GameFailResultReason.cs" />
+    <Compile Include="Assets\Match3\Scripts\ByteKeyComparer.cs" />
+    <Compile Include="Assets\Match3\Scripts\Wall.cs" />
+    <Compile Include="Assets\MultiLanguage\LocalizationText.cs" />
+    <Compile Include="Assets\Scripts\CollectBlockByGameOver.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\MenuExample\Scripts\Menus\PauseMenu.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoosterType.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\CardUI\2D Cards\CardStack2D.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupRequireChallenge.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\TextPic.cs" />
+    <Compile Include="Assets\Match3\Scripts\SimpleChip.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\ToolTips\TooltipTrigger.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestTriggerSpecialBombConfig.cs" />
+    <Compile Include="Assets\Scripts\Booster\BoosterUtility.cs" />
+    <Compile Include="Assets\Match3\Scripts\PastryBag.cs" />
+    <Compile Include="Assets\Match3\Scripts\RescueFriend.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\SelectionBox\SelectionBox.cs" />
+    <Compile Include="Assets\Decor\Scripts\WellDoneEffectController.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\ToolTips\BoundTooltip\BoundTooltipTrigger.cs" />
+    <Compile Include="Assets\Test\PlayerDataPreview.cs" />
+    <Compile Include="Assets\Match3\Scripts\AnimationRailPortal.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ComboBox\ComboBox.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\Cooldown\CooldownEffect_SAUIM.cs" />
+    <Compile Include="Assets\Match3\Scripts\IAppEventAdWatchingFunnel.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AppRequests.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupReward.cs" />
+    <Compile Include="Assets\Match3\Scripts\SpawnStringEffect.cs" />
+    <Compile Include="Assets\Scripts\CollectBlockPlayView.cs" />
+    <Compile Include="Assets\Scripts\PrefabPool.cs" />
+    <Compile Include="Assets\Decor\Scripts\TutorialManager.cs" />
+    <Compile Include="Assets\MultiLanguage\LanguageType.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\RadialSlider\UpdateRadialValue.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Primitives\UICircle.cs" />
+    <Compile Include="Assets\Match3\Scripts\EnumComparer.cs" />
+    <Compile Include="Assets\Match3\Scripts\antilunchbox\Singleton`1.cs" />
+    <Compile Include="Assets\Match3\Scripts\AnimationObject.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\CardUI\3D Cards\CardExpanding3D.cs" />
+    <Compile Include="Assets\Decor\Scripts\Singleton.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\MenuSystem\Menu.cs" />
+    <Compile Include="Assets\Scripts\Notification\GameNotificationManager.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\UIScrollToSelection.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\UIHighlightable.cs" />
+    <Compile Include="Assets\Scripts\Reward\RewardItemParticle.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupMonthlyPack.cs" />
+    <Compile Include="Assets\Match3\Scripts\cookapps\ConvertFormat.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoardOutlineType.cs" />
+    <Compile Include="Assets\Match3\Scripts\SlotTeleport.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\EditRoomUIView.cs" />
+    <Compile Include="Assets\Scripts\Reward\RewardItemTable.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\MonthlyPackButton.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\ContentScrollSnapHorizontal.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\ScrollSnapBase.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupGameGiveup.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\FlyingCoinsController.cs" />
+    <Compile Include="Assets\Match3\Scripts\SoundManager.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Primitives\UILineRenderer.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\SelectedItemInfoUIView.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\WeeklyPackButton.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\ShaderEffects\UISoftAdditiveEffect.cs" />
+    <Compile Include="Assets\Match3\Scripts\SimpleVBombMixEffect.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\MultiTouchScrollRect.cs" />
+    <Compile Include="Assets\Decor\Scripts\TutorialTask.cs" />
+    <Compile Include="Assets\Match3\Scripts\Utils.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupRating.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\RescalingPanels\RescalePanel.cs" />
+    <Compile Include="Assets\Match3\Scripts\ReqPacketClearAllMapData.cs" />
+    <Compile Include="Assets\Scripts\PiggyBank\PiggyBankUtility.cs" />
+    <Compile Include="Assets\Decor\Scripts\DesignItemTouchTrigger.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ReturnKeyTriggersButton.cs" />
+    <Compile Include="Assets\Match3\Scripts\ContentAssistant.cs" />
+    <Compile Include="Assets\Match3\Scripts\PropertyBinding.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\UILineRenderer\TestAddingPointsList.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\02_CellEventHandling\Example02ScrollViewContext.cs" />
+    <Compile Include="Assets\Match3\Scripts\CandyFactory.cs" />
+    <Compile Include="Assets\Match3\Scripts\ChipType.cs" />
+    <Compile Include="Assets\Match3\Scripts\MapDataMovingSlot.cs" />
+    <Compile Include="Assets\Match3\Scripts\BlockInterface.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\UI_TweenScale.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\ColorLabel.cs" />
+    <Compile Include="Assets\Match3\Scripts\MapDataCollectBlock.cs" />
+    <Compile Include="Assets\Match3\Scripts\Crow.cs" />
+    <Compile Include="Assets\Match3\Scripts\Pocket.cs" />
+    <Compile Include="Assets\Match3\Scripts\HVBombMixEffect.cs" />
+    <Compile Include="Assets\Match3\Scripts\Singleton.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\UIParticleSystem.cs" />
+    <Compile Include="Assets\Scripts\ThrownCollectCandy.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupGemStore.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestUtility.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\Segment.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceUtils.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\PPIViewer.cs" />
+    <Compile Include="Assets\Match3\Scripts\ConfigJson.cs" />
+    <Compile Include="Assets\Match3\Scripts\GameMain.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoosterCandyPack.cs" />
+    <Compile Include="Assets\Scripts\Popup\TextEffectLevelComplete.cs" />
+    <Compile Include="Assets\Unity-Logs-Viewer\Reporter\ReporterMessageReceiver.cs" />
+    <Compile Include="Assets\Match3\Scripts\antilunchbox\ClipType.cs" />
+    <Compile Include="Assets\MultiLanguage\BetterList.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\UIVerticalScroller.cs" />
+    <Compile Include="Assets\Scripts\CollectBlockView.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\BackgroundFitCamera.cs" />
+    <Compile Include="Assets\Scripts\ParticlesFollowTarget.cs" />
+    <Compile Include="Assets\Decor\Scripts\AudioManager.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceImpressionData.cs" />
+    <Compile Include="Assets\Match3\Scripts\PathologicalGames\PoolManager.cs" />
+    <Compile Include="Assets\Match3\Scripts\NetRequestSaveMapData.cs" />
+    <Compile Include="Assets\Match3\Scripts\ResPacketSaveMapData.cs" />
+    <Compile Include="Assets\Match3\Scripts\cookapps\Util.cs" />
+    <Compile Include="Assets\Match3\Scripts\InternetReachabilityVerifier.cs" />
+    <Compile Include="Assets\Match3\Scripts\NetRequestLoadGameTable.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupPiggyBankCollect.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\ColorPickerPresets.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\03_InfiniteScroll\Example03CellDto.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\MenuSystem\SimpleMenu.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupLiteMessage.cs" />
+    <Compile Include="Assets\Match3\Scripts\PacketGameMapData.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\RoomScrollPageView.cs" />
+    <Compile Include="Assets\Scripts\ThrownCollectGinger.cs" />
+    <Compile Include="Assets\Match3\Scripts\OreoCracker.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestGemChangeConfig.cs" />
+    <Compile Include="Assets\Match3\Scripts\ParticleEffect.cs" />
+    <Compile Include="Assets\Scripts\Reward\RewardType.cs" />
+    <Compile Include="Assets\Match3\Scripts\LogJson.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\UIFlippable.cs" />
+    <Compile Include="Assets\Match3\Scripts\MagicalCrow.cs" />
+    <Compile Include="Assets\IronSource\Scripts\UnsupportedPlatformAgent.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceJSON.cs" />
+    <Compile Include="Assets\Shining\Shining.cs" />
+    <Compile Include="Assets\Decor\Scripts\RoomAssetBundleManager.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\ColorSampler.cs" />
+    <Compile Include="Assets\Match3\Scripts\RainbowBombTestEffect.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupWeeklyPack.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ScrollRectExtensions.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\FreeGemAdsButton.cs" />
+    <Compile Include="Assets\Decor\Scripts\AudioClipId.cs" />
+    <Compile Include="Assets\Match3\Scripts\AnimationSweetRoadExit.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoosterPanelView.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\TiltWindow.cs" />
+    <Compile Include="Assets\Match3\Scripts\ColorHBomb.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\SpinButton.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\RadialSlider\ReportRadialTouch.cs" />
+    <Compile Include="Assets\Match3\Scripts\PacketDataOption.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\04_FocusOn\Example04ScrollViewCell.cs" />
+    <Compile Include="Assets\Scripts\JewelPack.cs" />
+    <Compile Include="Assets\Match3\Scripts\LocalDataManager.cs" />
+    <Compile Include="Assets\Match3\Scripts\IAppEventPurchaseFunnel.cs" />
+    <Compile Include="Assets\Match3\Scripts\ResPacketLoadMapData.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\UIScrollToSelectionXY.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\HSVUtil.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Scripts\MenuBase.cs" />
+    <Compile Include="Assets\Scripts\JewelPackManager.cs" />
+    <Compile Include="Assets\Match3\Scripts\ReqPacketReloadGameData.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\UI_Knob.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ReadOnlyAttribute.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\CurlyUI\CUIMisc.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupPiggyBank.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\DecompressedDesignItem.cs" />
+    <Compile Include="Assets\Scripts\Popup\Core\MonoSingleton.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\StepperSide.cs" />
+    <Compile Include="Assets\Match3\Scripts\ReqPacketLoadMapData.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\HorizontalScrollSnap.cs" />
+    <Compile Include="Assets\Match3\Scripts\IntKeyComparer.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\DialogueView.cs" />
+    <Compile Include="Assets\Scripts\Popup\Core\PopupOpenBuilder.cs" />
+    <Compile Include="Assets\Decor\Scripts\RoomFitScreen.cs" />
+    <Compile Include="Assets\Decor\Scripts\DesignItemEffect.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\02_CellEventHandling\Example02ScrollView.cs" />
+    <Compile Include="Assets\Decor\Scripts\DialogueSpeakerData.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupGetMoreGems.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ScrollRectTweener.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\ComboBox\ComboBoxChanged.cs" />
+    <Compile Include="Assets\Match3\Scripts\NetRequestLoadMapData.cs" />
+    <Compile Include="Assets\Match3\Scripts\ChipAnimationEvent.cs" />
+    <Compile Include="Assets\Match3\Scripts\AnimationMilk.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupRemoveAds.cs" />
+    <Compile Include="Assets\Match3\Scripts\GreenSlimeParent.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\SelectionBox\IBoxSelectable.cs" />
+    <Compile Include="Assets\Match3\Scripts\NGUITools.cs" />
+    <Compile Include="Assets\Match3\Scripts\AnimationBringdownExit.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\ToolTips\BoundTooltip\BoundTooltipItem.cs" />
+    <Compile Include="Assets\Match3\Scripts\ScoreManager.cs" />
+    <Compile Include="Assets\Match3\Scripts\ReqPacketReloadMapData.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\CurlyUI\CUIGraphic.cs" />
+    <Compile Include="Assets\Decor\Scripts\GlobalEventId.cs" />
+    <Compile Include="Assets\Match3\Scripts\AssetBundles\Utility.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />
+    <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenAnimation.cs" />
+    <Compile Include="Assets\Match3\Scripts\NGUIMath.cs" />
+    <Compile Include="Assets\Scripts\CollectBlockType.cs" />
+    <Compile Include="Assets\Match3\Scripts\PacketDataSpecItem.cs" />
+    <Compile Include="Assets\IronSource\Scripts\AndroidAgent.cs" />
+    <Compile Include="Assets\Match3\Scripts\MonoSingleton.cs" />
+    <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenTk2d.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestUseInGameBoosterConfig.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\01_Basic\Example01ScrollView.cs" />
+    <Compile Include="Assets\Scripts\Popup\TextEffectVictory.cs" />
+    <Compile Include="Assets\Decor\Scripts\RemoveAdsButton.cs" />
+    <Compile Include="Assets\Decor\Scripts\CurrencyType.cs" />
+    <Compile Include="Assets\Match3\Scripts\NumberChocolateBlock.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupSpin.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\UIExtensionMethods.cs" />
+    <Compile Include="Assets\Match3\Scripts\SoundManagerTools.cs" />
+    <Compile Include="Assets\Match3\Scripts\RealTime.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\DailyQuestButton.cs" />
+    <Compile Include="Assets\Match3\Scripts\ProxyEventAttribute.cs" />
+    <Compile Include="Assets\Scripts\DateTimeUtility.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\TestCompression.cs" />
+    <Compile Include="Assets\Match3\Scripts\AppEventManager.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupDarkEffect.cs" />
+    <Compile Include="Assets\Scripts\TempData.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSource.cs" />
+    <Compile Include="Assets\Match3\Scripts\SmallCandyHVBombMixEffect.cs" />
+    <Compile Include="Assets\Match3\Scripts\PathologicalGames\SpawnPoolsDict.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\UICircleProgress\UICircleChangeColor.cs" />
+    <Compile Include="Assets\Scripts\DecorBlurImageManager.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\VariantSelectingUIView.cs" />
+    <Compile Include="Assets\Match3\Scripts\NativeReviewRequest.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Primitives\UIPolygon.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\ShaderEffects\UILinearDodgeEffect.cs" />
+    <Compile Include="Assets\Unity-Logs-Viewer\Reporter\Test\TestReporter.cs" />
+    <Compile Include="Assets\Match3\Scripts\EnableEpisodeBlockType.cs" />
+    <Compile Include="Assets\Scripts\Popup\Core\PopupAnimationUtility.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\BestFitOutline.cs" />
+    <Compile Include="Assets\Scripts\AudioSettingInterface.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupQuest.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\CurlyUI\CUIBezierCurve.cs" />
+    <Compile Include="Assets\Match3\Scripts\SlotGravity.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\ColorPickerControl.cs" />
+    <Compile Include="Assets\Match3\Scripts\ReqPacketLoadGameData.cs" />
+    <Compile Include="Assets\Match3\Scripts\Yarn.cs" />
+    <Compile Include="Assets\Match3\Scripts\ControlAssistant.cs" />
+    <Compile Include="Assets\Match3\Scripts\EventLogger.cs" />
+    <Compile Include="Assets\Match3\Scripts\BombPair.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ComboBox\DropDownListItem.cs" />
+    <Compile Include="Assets\MultiLanguage\LanguageUpdater.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\SelectionBox\ExampleSelectable.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\CurlyUI\CUIImage.cs" />
+    <Compile Include="Assets\Match3\Scripts\DigBlank.cs" />
+    <Compile Include="Assets\Match3\Scripts\SFXIndex.cs" />
+    <Compile Include="Assets\Match3\Scripts\DoTweenLoopAnimation.cs" />
+    <Compile Include="Assets\Match3\Scripts\ReqPacketLevelClearRateLog.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoosterGuideView.cs" />
+    <Compile Include="Assets\Match3\Scripts\AESWrapper.cs" />
+    <Compile Include="Assets\Decor\Scripts\Dialogue.cs" />
+    <Compile Include="Assets\Scripts\Reward\IRewardCollectPositionProvider.cs" />
+    <Compile Include="Assets\Decor\Scripts\DesignItemDialogue.cs" />
+    <Compile Include="Assets\Match3\Scripts\Dig.cs" />
+    <Compile Include="Assets\Scripts\Quest\Quest.cs" />
+    <Compile Include="Assets\Match3\Scripts\ConnectionObj.cs" />
+    <Compile Include="Assets\Match3\Scripts\RainbowRainbowMixEffect.cs" />
+    <Compile Include="Assets\Decor\Scripts\DesignItemData.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoosterInfoTable.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\UISelectableExtension.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupPurchaseBooster.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\BezierPath.cs" />
+    <Compile Include="Assets\Match3\Scripts\SpawnStringBlock.cs" />
+    <Compile Include="Assets\Match3\Scripts\LevelInputField.cs" />
+    <Compile Include="Assets\Match3\Scripts\ReqPacketBase.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\InputModules\AimerInputModule.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ScrollRectLinker.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\DirectUIView.cs" />
+    <Compile Include="Assets\Match3\Scripts\NetRequestResume.cs" />
+    <Compile Include="Assets\IronSource\Scripts\iOSAgent.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\ColorValues.cs" />
+    <Compile Include="Assets\Match3\Scripts\ResPacketCheckTableVersion.cs" />
+    <Compile Include="Assets\Match3\Scripts\SFXPoolInfo.cs" />
+    <Compile Include="Assets\Match3\Scripts\RainbowChipMixEffect.cs" />
+    <Compile Include="Assets\Scripts\Popup\TextEffectDecorComplete.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\CylinderText.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\CardUI\2D Cards\CardPopup2D.cs" />
+    <Compile Include="Assets\Scripts\Reward\RewardItemController.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\DragCorrector.cs" />
+    <Compile Include="Assets\Match3\Scripts\AppEventTempBox.cs" />
+    <Compile Include="Assets\Match3\Scripts\BringDownChip.cs" />
+    <Compile Include="Assets\Match3\Scripts\ResPacketLoadGameTable.cs" />
+    <Compile Include="Assets\Decor\Scripts\TutorialController.cs" />
+    <Compile Include="Assets\Decor\Scripts\Model.cs" />
+    <Compile Include="Assets\Scripts\SerializeEventHandler.cs" />
+    <Compile Include="Assets\Match3\Scripts\SoundPocket.cs" />
+    <Compile Include="Assets\Match3\Scripts\LargeCandyMixEffect.cs" />
+    <Compile Include="Assets\Match3\Scripts\ButtonBooster.cs" />
+    <Compile Include="Assets\Match3\Scripts\MapDataDropBlock.cs" />
+    <Compile Include="Assets\Match3\Scripts\ResPacketSaveGameData.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\UICircleProgress\UICircleChangeDensity.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupStaminaStore.cs" />
+    <Compile Include="Assets\Match3\Scripts\EventDelegate.cs" />
+    <Compile Include="Assets\Match3\Scripts\PacketDataSpecItemData.cs" />
+    <Compile Include="Assets\Scripts\Popup\Core\BlockingImage.cs" />
+    <Compile Include="Assets\Match3\Scripts\MapBoardData.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\TextMeshAnimationController.cs" />
+    <Compile Include="Assets\Match3\Scripts\RescueGingerManSize.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestData.cs" />
+    <Compile Include="Assets\Decor\Scripts\CreateAssetBundles.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\ScrollSnapScrollbarHelper.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\switchToRectTransform.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\SelectableScaler.cs" />
+    <Compile Include="Assets\Match3\Scripts\GreenSlimeChild.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestUseHeadStartBoosterConfig.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\CooldownButton.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\Circle.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceSegment.cs" />
+    <Compile Include="Assets\Decor\Scripts\GameDecorController.cs" />
+    <Compile Include="Assets\Decor\Scripts\UIUtility.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\ShineEffector.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupSetting.cs" />
+    <Compile Include="Assets\Match3\Scripts\ScoreEffect.cs" />
+    <Compile Include="Assets\Scripts\Popup\Core\SingletonMonoBehaviour.cs" />
+    <Compile Include="Assets\Match3\Scripts\SlotGenerator.cs" />
+    <Compile Include="Assets\Decor\Scripts\Stamina.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\VR Extensions\VRCursor.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\03_InfiniteScroll\Example03ScrollViewContext.cs" />
+    <Compile Include="Assets\Match3\Scripts\SwapDiagonalType.cs" />
+    <Compile Include="Assets\Scripts\ServiceUtility.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\03_InfiniteScroll\Example03ScrollView.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\ColorPickerTester.cs" />
+    <Compile Include="Assets\Decor\Scripts\ExecuteUtility.cs" />
+    <Compile Include="Assets\Decor\Scripts\PlayRoomData.cs" />
+    <Compile Include="Assets\Match3\Scripts\PathologicalGames\SpawnPool.cs" />
+    <Compile Include="Assets\Match3\Scripts\ReqPacketSaveGameData.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\CardUI\Superellipse Creation\Triangulator.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ReorderableList\ReorderableListDebug.cs" />
+    <Compile Include="Assets\Match3\Scripts\EnableEpisodeChip.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\ShineEffect.cs" />
+    <Compile Include="Assets\Match3\Scripts\SpawnStringGamePlaying.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestPool.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Scripts\ConsoleBase.cs" />
+    <Compile Include="Assets\Scripts\CameraTargetDelegate.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoosterMagicHammer.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\FancyScrollViewCell.cs" />
+    <Compile Include="Assets\Match3\Scripts\PropertyReference.cs" />
+    <Compile Include="Assets\Match3\Scripts\SmallCandySimpleBombMixEffect.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\RadialLayout.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceInitilizer.cs" />
+    <Compile Include="Assets\Match3\Scripts\AnimationGingermanUnderTile.cs" />
+    <Compile Include="Assets\Decor\Scripts\DialogueController.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\SegmentedControl.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />
+    <Compile Include="Assets\Match3\Scripts\LocalizingText.cs" />
+    <Compile Include="Assets\Scripts\CollectBlockGameOverView.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\ScrollPositionController.cs" />
+    <Compile Include="Assets\Match3\Scripts\PacketDataLanguage.cs" />
+    <Compile Include="Assets\Match3\Scripts\PathologicalGames\PreRuntimePoolItem.cs" />
+    <Compile Include="Assets\Match3\Scripts\int2.cs" />
+    <Compile Include="Assets\Match3\Scripts\ReqPacketSaveMapData.cs" />
+    <Compile Include="Assets\Loading\LoadSceneManager.cs" />
+    <Compile Include="Assets\Match3\Scripts\MapDataDropProbBlock.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceConstants.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\GraphRequest.cs" />
+    <Compile Include="Assets\Scripts\Match3Tut\TutorialView.cs" />
+    <Compile Include="Assets\Test\ReduceItemCost.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\01_Basic\Example01CellDto.cs" />
+    <Compile Include="Assets\Match3\Scripts\SimpleBomb.cs" />
+    <Compile Include="Assets\Match3\Scripts\NumberChocolateChip.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\01_Basic\Example01Scene.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceEvents.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\UILineRenderer\LineRendererOrbit.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\FlowLayoutGroup.cs" />
+    <Compile Include="Assets\Match3\Scripts\DropWall.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
+    <Compile Include="Assets\Match3\Scripts\SmallCandyAfterMixEffect.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Primitives\UIGridRenderer.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\UILineConnector.cs" />
+    <Compile Include="Assets\Match3\Scripts\MapDataGeneratorSpecialDrop.cs" />
+    <Compile Include="Assets\Match3\Scripts\SimpleSimpleMixEffect.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AccessTokenMenu.cs" />
+    <Compile Include="Assets\Match3\Scripts\PathologicalGames\PrefabsDict.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AppLinks.cs" />
+    <Compile Include="Assets\Match3\Scripts\TweeningPopupObject.cs" />
+    <Compile Include="Assets\Match3\Scripts\cookapps\DataEncryption.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupGameComplete.cs" />
+    <Compile Include="Assets\Match3\Scripts\Lightning.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
+    <Compile Include="Assets\Match3\Scripts\ResPacketLanguage.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\InvertMaskImage.cs" />
+    <Compile Include="Assets\Match3\Scripts\DictEnumKeyGenericVal.cs" />
+    <Compile Include="Assets\Scripts\GameStartController.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ExtentionMethods.cs" />
+    <Compile Include="Assets\Match3\Scripts\cookapps\TransformExtension.cs" />
+    <Compile Include="Assets\Scripts\Quest\GlobalEventObserver.cs" />
+    <Compile Include="Assets\Scripts\Popup\UIFreeGemAdReward.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\CardUI\Superellipse Creation\MeshCreator.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\UILineRenderer\LineRendererOrbitList.cs" />
+    <Compile Include="Assets\Match3\Scripts\BombMixEffect.cs" />
+    <Compile Include="Assets\Decor\Scripts\RoomDialog.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ComboBox\AutoCompleteComboBox.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\MainMenu.cs" />
+    <Compile Include="Assets\Test\UtilityWindow.cs" />
+    <Compile Include="Assets\Match3\Scripts\SmallCandyRainbowBombMixEffect.cs" />
+    <Compile Include="Assets\Decor\Scripts\DesignItemView.cs" />
+    <Compile Include="Assets\Match3\Scripts\Match3GameUI.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\ShaderEffects\UIImageCrop.cs" />
+    <Compile Include="Assets\Match3\Scripts\SpawnStringBlockType.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\01_Basic\Example01ScrollViewCell.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ComboBox\DropDownListButton.cs" />
+    <Compile Include="Assets\Scripts\SpriteControllerSimpleChip.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\CardUI\Superellipse Creation\SuperellipsePoints.cs" />
+    <Compile Include="Assets\Match3\Scripts\PacketDataLanguageData.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\ColorSlider.cs" />
+    <Compile Include="Assets\Match3\Scripts\GameCameraSetup.cs" />
+    <Compile Include="Assets\Match3\Scripts\SmallCandyMixEffect.cs" />
+    <Compile Include="Assets\Match3\Scripts\ResPacketLoadGameData.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupStarterPack.cs" />
+    <Compile Include="Assets\Scripts\AppTempData.cs" />
+    <Compile Include="Assets\Scripts\CollectGem\CollectParticles.cs" />
+    <Compile Include="Assets\Scripts\Popup\UIDailyBonusPack.cs" />
+    <Compile Include="Assets\Match3\Scripts\WebCommand.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupGameWin.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\TextEffects\AnimateEffects.cs" />
+    <Compile Include="Assets\Match3\Scripts\PacketDataTableVersion.cs" />
+    <Compile Include="Assets\Match3\Scripts\SoundPocketType.cs" />
+    <Compile Include="Assets\Scripts\ThrownBonusCoin.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupDailyBonus.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupUtility.cs" />
+    <Compile Include="Assets\Match3\Scripts\GoalTarget.cs" />
+    <Compile Include="Assets\Scripts\CollectEffectDirector.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupFreeGemAds.cs" />
+    <Compile Include="Assets\Scripts\ThrownCollectBringdown.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\CardUI\2D Cards\CardExpanding2D.cs" />
+    <Compile Include="Assets\Match3\Scripts\PathologicalGames\InstanceHandler.cs" />
+    <Compile Include="Assets\Decor\Scripts\DialogueData.cs" />
+    <Compile Include="Assets\MultiLanguage\ByteReader.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\TextEffects\testHref.cs" />
+    <Compile Include="Assets\Scripts\Popup\GemStorePack.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\RescalingPanels\ResizePanel.cs" />
+    <Compile Include="Assets\Decor\Scripts\LevelCompleteEffectController.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupLiteTutorial.cs" />
+    <Compile Include="Assets\Decor\Scripts\EventDispatcher.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\VariantElementUIView.cs" />
+    <Compile Include="Assets\Match3\Scripts\SFXGroup.cs" />
+    <Compile Include="Assets\Match3\Scripts\SpawnStringEffectType.cs" />
+    <Compile Include="Assets\Decor\Scripts\RoomDataTable.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\PointerDownTrigger.cs" />
+    <Compile Include="Assets\Scripts\PiggyBank\PiggyBankData.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\UIVerticalScrollerDemo\Scripts\ScrollingCalendar.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ExtensionsToggle.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\TileSizeFitter.cs" />
+    <Compile Include="Assets\Match3\Scripts\AnimationAssistant.cs" />
+    <Compile Include="Assets\Scripts\RewardData.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\ShaderEffects\UIAdditiveEffect.cs" />
+    <Compile Include="Assets\Match3\Scripts\SoundSFX.cs" />
+    <Compile Include="Assets\Decor\Scripts\IconTouchHandler.cs" />
+    <Compile Include="Assets\Decor\Scripts\TutorialView.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\UIWindowBase.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\BoxSlider.cs" />
+    <Compile Include="Assets\Match3\Scripts\AnimationBoardLine.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\HexColorField.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\CableCurve.cs" />
+    <Compile Include="Assets\Decor\Scripts\DesignController.cs" />
+    <Compile Include="Assets\Decor\Scripts\PlayerHomeDesignData.cs" />
+    <Compile Include="Assets\Scripts\RemoteConfig.cs" />
+    <Compile Include="Assets\Match3\Scripts\LanguageCode.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\LetterSpacing.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\Pay.cs" />
+    <Compile Include="Assets\MultiLanguage\LanguageFontTable.cs" />
+    <Compile Include="Assets\Scripts\Popup\QuestUIView.cs" />
+    <Compile Include="Assets\Scripts\Popup\PopupQuitGame.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestLevelFinishConfig.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\02_CellEventHandling\Example02ScrollViewCell.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceError.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
+    <Compile Include="Assets\Match3\Scripts\LobbyIconType.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\RaycastMask.cs" />
+    <Compile Include="Assets\Match3\Scripts\SpringPosition.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\RadialSlider.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\StarterPackButton.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\InputModules\GamePadInputModule.cs" />
+    <Compile Include="Assets\Scripts\Reward\RewardItemAligner.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ScrollConflictManager.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\CurlyUI\CUIText.cs" />
+    <Compile Include="Assets\Match3\Scripts\antilunchbox\AudioSourceAction.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\Cooldown\CooldownEffect_Image.cs" />
+    <Compile Include="Assets\Match3\Scripts\PacketDataSpecCoin.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\UILineRenderer\TestAddingPoints.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceConfig.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestConfig.cs" />
+    <Compile Include="Assets\Scripts\BonusScaleAnimation.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\PiggyBankButton.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\MenuExample\Scripts\Menus\OptionsMenu.cs" />
+    <Compile Include="Assets\Match3\Scripts\PacketDataBase.cs" />
+    <Compile Include="Assets\Match3\Scripts\FruitsBox.cs" />
+    <Compile Include="Assets\Decor\Scripts\RoomData.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\Accordion\Tweening\TweenRunner.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\TabNavigationHelper.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\UI_ScrollRectOcclusion.cs" />
+    <Compile Include="Assets\Match3\Scripts\AdNetworkState.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\MenuExample\Scripts\Menus\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\CollectIconTable.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\ShaderEffects\UIMultiplyEffect.cs" />
+    <Compile Include="Assets\Decor\Scripts\AudioClipTable.cs" />
+    <Compile Include="Assets\Match3\Scripts\Booster.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Primitives\DiamondGraph.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\UI_InfiniteScroll.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\Accordion\AccordionElement.cs" />
+    <Compile Include="Assets\Match3\Scripts\NetworkManager.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\02_CellEventHandling\Example02CellDto.cs" />
+    <Compile Include="Assets\Match3\Scripts\Gradient.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\03_InfiniteScroll\Example03Scene.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\MenuExample\Scripts\Menus\AwesomeMenu.cs" />
+    <Compile Include="Assets\Match3\Scripts\UIManager.cs" />
+    <Compile Include="Assets\Match3\Scripts\MapDataGeneratorDrop.cs" />
+    <Compile Include="Assets\Match3\Scripts\AnimationController.cs" />
+    <Compile Include="Assets\Match3\Scripts\BoardManager.cs" />
+    <Compile Include="Assets\Match3\Scripts\PacketBase.cs" />
+    <Compile Include="Assets\Scripts\Popup\Core\PopupBackgroundEffect.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\04_FocusOn\Example04ScrollViewContext.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\GameUITransitionDirector.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Primitives\UIPrimitiveBase.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestDecorConfig.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\TableLayoutGroup.cs" />
+    <Compile Include="Assets\Scripts\Popup\Core\PopupSystem.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\ColorImage.cs" />
+    <Compile Include="Assets\Match3\Scripts\cookapps\ServerProtocolEncryption.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AppEvents.cs" />
+    <Compile Include="Assets\Match3\Scripts\MapData.cs" />
+    <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\ScrollSnap.cs" />
+    <Compile Include="Assets\Match3\Scripts\WebCommandBase.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\ContactusButton.cs" />
+  </ItemGroup>
+  <ItemGroup>
+     <None Include="Assets\Materials\UIBright.shader" />
+     <None Include="Assets\Firebase\Plugins\iOS\Firebase.Messaging.dll" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UIAdditive.shader" />
+     <None Include="Assets\Resources\table\LevelData.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
+     <None Include="Assets\Spine\version.txt" />
+     <None Include="Assets\Resources\revision_log.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\Scripts\CollectGem\LightingGem.shader" />
+     <None Include="Assets\Resources\table_original\TableVersion.txt" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UI Particle Add.shader" />
+     <None Include="Assets\Firebase\Plugins\Firebase.Messaging.dll" />
+     <None Include="Assets\FacebookSDK\link.xml" />
+     <None Include="Assets\FacebookSDK\Plugins\iOS\Facebook.Unity.IOS.dll" />
+     <None Include="Assets\Firebase\Plugins\Firebase.Analytics.dll" />
+     <None Include="Assets\Resources\table\Option.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UIScreen.shader" />
+     <None Include="Assets\Test\Logo.shader" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UI Particle Multiply.shader" />
+     <None Include="Assets\Resources\table_decrypt\MapData.txt" />
+     <None Include="Assets\Firebase\Plugins\iOS\Firebase.Analytics.dll" />
+     <None Include="Assets\Match3\Materials\SpriteBlue.shader" />
+     <None Include="Assets\Materials\Flash.shader" />
+     <None Include="Assets\Decor\Materials\CharacterBright.shader" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UIMultiply.shader" />
+     <None Include="Assets\Resources\table_original\MapData.txt" />
+     <None Include="Assets\Firebase\Plugins\Firebase.App.dll" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UILinearDodge.shader" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UI Particle Alpha Blend.shader" />
+     <None Include="Assets\Resources\gitlasthash.txt" />
+     <None Include="Assets\Decor\Materials\StarTrail.shader" />
+     <None Include="Assets\Shining\Shining.shader" />
+     <None Include="Assets\Demigiant\readme_DOTweenPro.txt" />
+     <None Include="Assets\Demigiant\DOTween\DOTween.XML" />
+     <None Include="Assets\Demigiant\DemiLib\Core\DemiLib.dll" />
+     <None Include="Assets\Decor\Prefabs\TilingOffsetSprite.shader" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\SoftMaskShader.shader" />
+     <None Include="Assets\Materials\StarTrail.shader" />
+     <None Include="Assets\Firebase\Plugins\x86_64\FirebaseCppAnalytics.dll" />
+     <None Include="Assets\Test\SpriteMask.shader" />
+     <None Include="Assets\Materials\SpriteBright.shader" />
+     <None Include="Assets\FacebookSDK\Plugins\Settings\Facebook.Unity.Settings.dll" />
+     <None Include="Assets\Firebase\Plugins\iOS\Firebase.RemoteConfig.dll" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UI Particle Premultiply Blend.shader" />
+     <None Include="Assets\Resources\table_decrypt\LangEN.txt" />
+     <None Include="Assets\Firebase\Plugins\x86_64\FirebaseCppMessaging.dll" />
+     <None Include="Assets\Decor\Materials\Mobile-Particle-Alpha.shader" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UI Particle VertexLit Blended.shader" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\Resources\BillingMode.txt" />
+     <None Include="Assets\Test\TestToggle.shader" />
+     <None Include="Assets\FacebookSDK\Plugins\Canvas\Facebook.Unity.Canvas.dll" />
+     <None Include="Assets\Firebase\Plugins\Firebase.TaskExtension.dll" />
+     <None Include="Assets\JsonDotNet\link.xml" />
+     <None Include="Assets\JsonDotNet\Assemblies\Windows\Newtonsoft.Json.XML" />
+     <None Include="Assets\Firebase\Plugins\x86_64\FirebaseCppApp-7_2_0.dll" />
+     <None Include="Assets\Scripts\Match3Tut\AdditiveSpriteSlot.shader" />
+     <None Include="Assets\Test\MaskPanel.shader" />
+     <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml" />
+     <None Include="Assets\JsonDotNet\Assemblies\Standalone\Newtonsoft.Json.XML" />
+     <None Include="Assets\Materials\Mobile-Particle-Alpha.shader" />
+     <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-messaging-unity\maven-metadata.xml" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UI Particle MultiplyDouble.shader" />
+     <None Include="Assets\Materials\EdgeFilter.shader" />
+     <None Include="Assets\JsonDotNet\Assemblies\Standalone\Newtonsoft.Json.dll" />
+     <None Include="Assets\Scripts\Booster\Materials\UIGray.shader" />
+     <None Include="Assets\MultiLanguage\Resources\language.xml" />
+     <None Include="Assets\Decor\Materials\TextureColorTransparent.shader" />
+     <None Include="Assets\Resources\table_decrypt\SpecCoin.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
+     <None Include="Assets\FacebookSDK\Plugins\Facebook.Unity.dll" />
+     <None Include="Assets\Resources\table\SpecCoin.txt" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UI Particle AddMultiply.shader" />
+     <None Include="Assets\Characters\Female_new\export\female.atlas.txt" />
+     <None Include="Assets\Resources\table_original\LevelData.txt" />
+     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\Resources\table\SpecItem.txt" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UI Particle Blend.shader" />
+     <None Include="Assets\Demigiant\DOTween\DOTween.dll" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\Characters\Character_Male\export\male.atlas.txt" />
+     <None Include="Assets\Loading\UILoadingBg.shader" />
+     <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-config-unity\maven-metadata.xml" />
+     <None Include="Assets\Resources\table_decrypt\LevelData.txt" />
+     <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-analytics-unity\maven-metadata.xml" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\Scripts\Popup\BlurShader.shader" />
+     <None Include="Assets\FacebookSDK\Plugins\Gameroom\Facebook.Unity.Gameroom.dll" />
+     <None Include="Assets\Resources\table_original\SpecCoin.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
+     <None Include="Assets\Resources\table_decrypt\Option.txt" />
+     <None Include="Assets\Firebase\Plugins\Firebase.Crashlytics.dll" />
+     <None Include="Assets\JsonDotNet\Assemblies\AOT\Newtonsoft.Json.dll" />
+     <None Include="Assets\Materials\CharacterBright.shader" />
+     <None Include="Assets\JsonDotNet\Assemblies\AOT\Newtonsoft.Json.XML" />
+     <None Include="Assets\Demigiant\DOTweenPro\DOTweenPro.dll" />
+     <None Include="Assets\Demigiant\DOTweenPro\readme.txt" />
+     <None Include="Assets\Match3\Materials\TextureColor.shader" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\Decor\Materials\SpriteBright.shader" />
+     <None Include="Assets\Decor\Materials\EdgeFilter.shader" />
+     <None Include="Assets\Demigiant\DemiLib\Core\DemiLib.xml" />
+     <None Include="Assets\JsonDotNet\Assemblies\Windows\Newtonsoft.Json.dll" />
+     <None Include="Assets\Scripts\CollectGem\TextureGem.shader" />
+     <None Include="Assets\Resources\revision.txt" />
+     <None Include="Assets\Demigiant\DOTweenPro\DOTweenPro.XML" />
+     <None Include="Assets\FacebookSDK\Plugins\Android\Facebook.Unity.Android.dll" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UISoftAdditive.shader" />
+     <None Include="Assets\Firebase\Plugins\iOS\Firebase.Crashlytics.dll" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UI Particle AddSmooth.shader" />
+     <None Include="Assets\Decor\Materials\Flash.shader" />
+     <None Include="Assets\IronSource\Plugins\Android\IronSource.plugin\AndroidManifest.xml" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UIImageCrop.shader" />
+     <None Include="Assets\Demigiant\DOTween\readme.txt" />
+     <None Include="Assets\Materials\TextureColorTransparent.shader" />
+     <None Include="Assets\Parse\Plugins\dotNet45\Unity.Compat.dll" />
+     <None Include="Assets\Resources\buildversion.txt" />
+     <None Include="Assets\Test\Flare.shader" />
+     <None Include="Assets\Firebase\Plugins\Firebase.Platform.dll" />
+     <None Include="Assets\Match3\Materials\Blur.shader" />
+     <None Include="Assets\Firebase\Plugins\x86_64\FirebaseCppRemoteConfig.dll" />
+     <None Include="Assets\Decor\Materials\UIBright.shader" />
+     <None Include="Assets\Firebase\Plugins\Firebase.RemoteConfig.dll" />
+     <None Include="Assets\Parse\Plugins\dotNet45\Unity.Tasks.dll" />
+     <None Include="Assets\Resources\table\MapData.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
+     <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-crashlytics-unity\maven-metadata.xml" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
+     <None Include="Assets\Firebase\Plugins\Google.MiniJson.dll" />
+     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <None Include="Assets\Resources\table_decrypt\SpecItem.txt" />
+     <None Include="Assets\Resources\table_original\Option.txt" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
+     <None Include="Assets\Resources\table_original\SpecItem.txt" />
+     <None Include="Assets\Resources\table\TableVersion.txt" />
+     <None Include="Assets\Firebase\Plugins\iOS\Firebase.App.dll" />
+     <None Include="Assets\Scripts\Match3Tut\TutMask.shader" />
+     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
+     <None Include="Assets\unity-ui-extensions\Resources\Shaders\UIParticleHidden.shader" />
+     <None Include="Assets\FacebookSDK\Plugins\Gameroom\FacebookNamedPipeClient.dll" />
+     <None Include="Assets\Firebase\Plugins\Crashlytics\link.xml" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AccessibilityModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AndroidJNIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.AndroidJNIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClothModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CrashReportingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.CrashReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DSPGraphModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.DSPGraphModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.DirectorModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.GIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.GameCenterModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GridModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.GridModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HotReloadModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.HotReloadModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.LocalizationModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.LocalizationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PerformanceReportingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.PerformanceReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ProfilerModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.ProfilerModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.ScreenCaptureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.SharedInternalsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteMaskModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteMaskModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteShapeModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteShapeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StreamingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.StreamingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubsystemsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubsystemsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TLSModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextCoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.TilemapModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsNativeModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsNativeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UNETModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UNETModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UmbraModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityConnectModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityCurlModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityCurlModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityTestProtocolModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VFXModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.VFXModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VRModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VehiclesModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.WindModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XRModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.CoreModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEditor.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.GraphViewModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEditor.GraphViewModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.PackageManagerUIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEditor.PackageManagerUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.SceneTemplateModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEditor.SceneTemplateModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UIElementsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UIElementsSamplesModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsSamplesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UIServiceModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIServiceModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UnityConnectModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Facebook.Unity.Gameroom">
+      <HintPath>Assets\FacebookSDK\Plugins\Gameroom\Facebook.Unity.Gameroom.dll</HintPath>
+    </Reference>
+    <Reference Include="winrt">
+      <HintPath>Assets\Plugins\UnityPurchasing\winrt\winrt.dll</HintPath>
+    </Reference>
+    <Reference Include="Purchasing.Common">
+      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Purchasing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Apple">
+      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Apple\Apple.dll</HintPath>
+    </Reference>
+    <Reference Include="Editor">
+      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.TaskExtension">
+      <HintPath>Assets\Firebase\Plugins\Firebase.TaskExtension.dll</HintPath>
+    </Reference>
+    <Reference Include="FacebookStore">
+      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Facebook\FacebookStore.dll</HintPath>
+    </Reference>
+    <Reference Include="FacebookNamedPipeClient">
+      <HintPath>Assets\FacebookSDK\Plugins\Gameroom\FacebookNamedPipeClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.RemoteConfig">
+      <HintPath>Assets\Firebase\Plugins\Firebase.RemoteConfig.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Analytics">
+      <HintPath>Assets\Firebase\Plugins\Firebase.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Facebook.Unity.Settings">
+      <HintPath>Assets\FacebookSDK\Plugins\Settings\Facebook.Unity.Settings.dll</HintPath>
+    </Reference>
+    <Reference Include="AppleMacos">
+      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Apple\AppleMacos.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.MiniJson">
+      <HintPath>Assets\Firebase\Plugins\Google.MiniJson.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Crashlytics">
+      <HintPath>Assets\Firebase\Plugins\Firebase.Crashlytics.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Demigiant\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.App">
+      <HintPath>Assets\Firebase\Plugins\Firebase.App.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets\JsonDotNet\Assemblies\Standalone\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Messaging">
+      <HintPath>Assets\Firebase\Plugins\Firebase.Messaging.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenPro">
+      <HintPath>Assets\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
+    </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>Assets\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Tasks">
+      <HintPath>Assets\Parse\Plugins\dotNet45\Unity.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="Security">
+      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Security\live\Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Stores">
+      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Stores.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Platform">
+      <HintPath>Assets\Firebase\Plugins\Firebase.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Compat">
+      <HintPath>Assets\Parse\Plugins\dotNet45\Unity.Compat.dll</HintPath>
+    </Reference>
+    <Reference Include="AppleCore">
+      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Apple\AppleCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Facebook.Unity">
+      <HintPath>Assets\FacebookSDK\Plugins\Facebook.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Runtime.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Xml.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Microsoft.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\Microsoft.Win32.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="netstandard">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\netstandard.dll</HintPath>
+    </Reference>
+    <Reference Include="System.AppContext">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.AppContext.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Concurrent">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Collections.Concurrent.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.NonGeneric">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Collections.NonGeneric.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Specialized">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Collections.Specialized.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ComponentModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.EventBasedAsync">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ComponentModel.EventBasedAsync.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ComponentModel.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.TypeConverter">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ComponentModel.TypeConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Console">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Console.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.Common">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Data.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Contracts">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Debug">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.Debug.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.FileVersionInfo">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.FileVersionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Process">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.Process.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.StackTrace">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.StackTrace.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TextWriterTraceListener">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.TextWriterTraceListener.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tools">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.TraceSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Drawing.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Dynamic.Runtime">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Dynamic.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Globalization.Calendars.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Globalization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Globalization.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.ZipFile">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.Compression.ZipFile.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.DriveInfo">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.FileSystem.DriveInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Watcher">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.FileSystem.Watcher.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.IsolatedStorage">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.IsolatedStorage.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.MemoryMappedFiles">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.MemoryMappedFiles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipes">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.Pipes.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.UnmanagedMemoryStream">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.UnmanagedMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Expressions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Linq.Expressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Parallel">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Linq.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Queryable">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Linq.Queryable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Rtc">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Http.Rtc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NameResolution">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.NameResolution.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NetworkInformation">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.NetworkInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Ping">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Ping.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Requests">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Requests.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Security">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Sockets">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Sockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebHeaderCollection">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.WebHeaderCollection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets.Client">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.WebSockets.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.WebSockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ObjectModel">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.Emit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.ILGeneration">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.Emit.ILGeneration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.Lightweight">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.Emit.Lightweight.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Reader">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Resources.Reader.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.ResourceManager">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Resources.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Writer">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Resources.Writer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.VisualC">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.CompilerServices.VisualC.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Handles">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Handles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.InteropServices.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.WindowsRuntime">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.InteropServices.WindowsRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Numerics">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Serialization.Formatters.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Json">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Serialization.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Serialization.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Xml">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Serialization.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Claims">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Claims.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Cryptography.Algorithms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Csp">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Cryptography.Csp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Cryptography.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Cryptography.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Cryptography.X509Certificates.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Principal.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.SecureString">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.SecureString.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Duplex">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ServiceModel.Duplex.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Http">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ServiceModel.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.NetTcp">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ServiceModel.NetTcp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ServiceModel.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Security">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ServiceModel.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Text.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Text.Encoding.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.RegularExpressions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Text.RegularExpressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Overlapped">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.Overlapped.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Parallel">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.Tasks.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Thread">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.Thread.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.ThreadPool">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.ThreadPool.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Timer">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.Timer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.ReaderWriter">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.ReaderWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XDocument">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlDocument">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XmlDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlSerializer">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XmlSerializer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XPath.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath.XDocument">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.AssetBundleBrowser.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.AssetBundleBrowser.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Notifications">
+      <HintPath>Library\ScriptAssemblies\Unity.Notifications.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Notifications.Android">
+      <HintPath>Library\ScriptAssemblies\Unity.Notifications.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Notifications.iOS">
+      <HintPath>Library\ScriptAssemblies\Unity.Notifications.iOS.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{CEC078E0-361F-7895-2B71-94EEA1C91970}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity-examples-editor.csproj">
+      <Project>{6F1C23CE-9B9F-4018-E646-863A9E34D8DF}</Project>
+      <Name>spine-unity-examples-editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity.csproj">
+      <Project>{5418BE41-949D-DF3C-1151-322D2E16B8D0}</Project>
+      <Name>spine-unity</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity-examples.csproj">
+      <Project>{9D2E1B6D-7273-3B7F-39F4-07E8C4BDC6BE}</Project>
+      <Name>spine-unity-examples</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity-editor.csproj">
+      <Project>{AE39C265-FCB7-C78A-3618-7AF17F19D150}</Project>
+      <Name>spine-unity-editor</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

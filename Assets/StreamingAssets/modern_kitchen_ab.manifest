@@ -1,0 +1,204 @@
+ManifestFileVersion: 0
+CRC: 1211210306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e62b0072c1dec09051d99af11b918b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2555ba4a87ed3adea0c8064b34faff5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 904b210ae183487489b96e3c9e1fa71e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_pan_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_floor_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_rangehood_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_floor_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_cabinet_2_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_table_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_seasoning_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_window_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_soup_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_seasoning_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_oven_2.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_floor_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_refrigerator_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_wall_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_oven_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_cart_2.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_cart_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_pan_2_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_seasoning_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_cabinet_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_oven_1.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_oven_3.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_pan_1_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_floor_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_cabinet_1_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_table_0.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_pan_1_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_cabinet_1_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_top_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_refrigerator_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_table_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_dishes_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_pan_2_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_stoves_3.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_wall_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_wall_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_trash_1.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_rangehood_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_trash_3.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_cabinet_2_3.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_fruit_3.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_stoves_0.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_cart_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_plate_2.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_shelf_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_top_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_table_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_cart_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_plate_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_top_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_cart_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_bread_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_rangehood_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_oven_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_trash_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_soup_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_dishes_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_pan_1_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_refrigerator_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_cart_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_wall_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_floor_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_pan_2_3.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_window_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_shelf_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_window_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_seasoning_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_window_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_oven_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_fruit_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_top_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_stoves_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_trash_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_shelf_2.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_cabinet_1_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_bread_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_refrigerator_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_rangehood_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_stoves_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_pan_2_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_window_2.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_plate_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_bread_2.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_soup_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_soup_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_dishes_3.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_dishes_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_shelf_1.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_plate_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_table_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_rangehood_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_dishes_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_pan_1_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_trash_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_cart_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_trash_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_pan_1_1.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_top_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_cabinet_1_2.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_stoves_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_floor_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_cabinet_1_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_oven_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_table_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_window_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_fruit_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_top_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_window_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_wall_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_stoves_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_bread_1.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_refrigerator_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_cabinet_2_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_soup_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_table_2.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_cabinet_2_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_cabinet_2_1.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_seasoning_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_stoves_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_soup_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_refrigerator_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_fruit_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_pan_2_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_cabinet_2_0.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_bread_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_dishes_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_bread_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_fruit_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_floor_0.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_bread_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_rangehood_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_dishes_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_window_0.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_plate_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_soup_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_shelf_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_pan_2_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_table_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_cabinet_1_0.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_wall_1.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_seasoning_1_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_seasoning_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_shelf_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_floor_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_cabinet_1_3.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_wall_0.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_pan_1_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_fruit_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_cabinet_2_2.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_rangehood_3.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_top_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/room.prefab
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_trash_icon.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_plate_3_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_refrigerator_2.png
+- Assets/Decor/Room/8_Modern Kitchen/UI/c1_r8_fruit_2_mini.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_shelf_3.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_stoves_1.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_plate_3.png
+- Assets/Decor/Room/8_Modern Kitchen/Texture2D/c1_r8_wall_2.png
+Dependencies: []

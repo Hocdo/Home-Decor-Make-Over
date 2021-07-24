@@ -1,0 +1,27 @@
+public enum ScoreType
+{
+	None = -1,
+	Match3,
+	ChipCrushByItemBlock,
+	MakeItem2x2,
+	MakeItem3x3,
+	MakeItem4x1,
+	MakeItem5x1,
+	CrushItem2x2,
+	CrushItem3x3,
+	CrushItem4x1,
+	CrushItem5x1,
+	MixItem2x2to2x2,
+	MixItem2x2to4x1,
+	MixItem2x2to3x3,
+	MixItem2x2to5x1,
+	MixItem4x1to3x3,
+	MixItem4x1to4x1,
+	MixItem4x1to5x1,
+	MixItem3x3to3x3,
+	MixItem3x3to5x1,
+	MixItem5x1to5x1,
+	RemainMove,
+	CollectItem,
+	Max
+}

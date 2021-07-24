@@ -1,0 +1,113 @@
+ManifestFileVersion: 0
+CRC: 4187294082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b5f95c528a4ac279469325cbf9174d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3b58b4e43708147efb2459692db34d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/CHILDROOM/Sprite/curtain_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/carpet_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_bed_0.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_rem_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_san_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/doll_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_toy_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_cua_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tran_0.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tuong_0.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tham_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_san_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_rem_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tuong_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_decor3_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_decor4_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/leftsofa_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/bed_decor_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_cuaso_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_ghebet_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_bed_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tab_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_decor_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/cabinet_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tuquanao_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_san_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tranh_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_cay_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/top_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/plant_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_cuaso_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_ghebet_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_decor4_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_cua_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_decor4_0.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tham_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_cay_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tranh_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tran_3.png
+- Assets/Decor/Room/CHILDROOM/room.prefab
+- Assets/Decor/Room/CHILDROOM/Sprite/bedside_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/wall_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/window_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/bed_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_rem_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tham_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tuquanao_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_bed_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tab_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tuquanao_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_san_0.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_toy_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tuong_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_cua_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_decor_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_cay_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tranh_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tuong_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_decor3_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_decor3_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tran_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tuquanao_0.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_cuaso_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/floor_icon.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tran_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_tab_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_toy_2.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_ghebet_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_decor_1.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_decor4_3.png
+- Assets/Decor/Room/CHILDROOM/Sprite/kid_room_bed_1.png
+Dependencies: []

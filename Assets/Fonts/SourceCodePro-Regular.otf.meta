@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f3ff6756d6a84d00bf8ecb0ab323c371
+timeCreated: 1566652708
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "SourceCodePro-Regular"
+  fontNames:
+  - Source Code Pro
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

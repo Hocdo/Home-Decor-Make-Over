@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Eff_Bomb_Block_Green"
+  m_Controller: {fileID: 9100000, guid: f39c2ac2daa14af4b00aafd77ba3e2ee, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 09e7b469dd164d3f981095711857f975, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 09e7b469dd164d3f981095711857f975, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3ee647c6607f4f2288d4b1297911b24f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 680fd1039dea44d9b1b86a1435928d19, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ec6dfc3ae970456099bc795a7375e763, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ec6dfc3ae970456099bc795a7375e763, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9eca970e10834332bff2e36c56bc24a4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9eca970e10834332bff2e36c56bc24a4, type: 2}

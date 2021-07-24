@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2671a13801083d4abc9e1dc0c97228e, type: 3}
+  m_Name: CollectIconTable
+  m_EditorClassIdentifier: 
+  elements:
+  - id: B
+    sprite: {fileID: 21300000, guid: 23a6324e47324ad8a8ccbe193f43296a, type: 3}
+  - id: J
+    sprite: {fileID: 21300000, guid: 023b6e8ef3f04667a682066dfc402149, type: 3}
+  - id: N0B
+    sprite: {fileID: 21300000, guid: 956ddb99562448b29e7e4b101ea429eb, type: 3}
+  - id: N0D
+    sprite: {fileID: 21300000, guid: 4325bf7332ce40a78089599742b55888, type: 3}
+  - id: N0H
+    sprite: {fileID: 21300000, guid: fe065a2c6fe147d3b34c81dd970f85cc, type: 3}
+  - id: N0L
+    sprite: {fileID: 21300000, guid: fd8fa4f61db34c3da2d44614c96e360e, type: 3}
+  - id: N0V
+    sprite: {fileID: 21300000, guid: 8f22557ad76545ff8e19a98e224ec649, type: 3}
+  - id: N0W
+    sprite: {fileID: 21300000, guid: 61e16a86ab724eaa886ca0f120c3feca, type: 3}
+  - id: O1
+    sprite: {fileID: 21300000, guid: 3493d514d9c04e7992b1b1120ed5ff18, type: 3}
+  - id: O2
+    sprite: {fileID: 21300000, guid: a080397e08594852a37377456c709149, type: 3}
+  - id: O2.1
+    sprite: {fileID: 21300000, guid: c28c09e0c5b0480a9ea0acd397f6a3d0, type: 3}
+  - id: O2.2
+    sprite: {fileID: 21300000, guid: cfbdbb42b2ca4ae19075827368280490, type: 3}
+  - id: O2.3
+    sprite: {fileID: 21300000, guid: d104cf26cb75486d9797941f22860153, type: 3}
+  - id: O5
+    sprite: {fileID: 21300000, guid: 6a9a0a3c19414dea91d535370265d9f7, type: 3}
+  - id: O8
+    sprite: {fileID: 21300000, guid: d616eee1138c44deb8bf2eb69be55773, type: 3}
+  - id: O8.H1
+    sprite: {fileID: 21300000, guid: 4f1421dcccb140e0944870a52c7272f6, type: 3}
+  - id: O8.H1.C1
+    sprite: {fileID: 21300000, guid: 0bdc3a6126f44ad7b56e7408611aaf70, type: 3}
+  - id: O8.H2
+    sprite: {fileID: 21300000, guid: baf61a84aeb54c2a90e3b46200b69bbb, type: 3}
+  - id: O8.H2.C1
+    sprite: {fileID: 21300000, guid: 4de89d4ed73d407b9d37d7f8c9114a51, type: 3}
+  - id: O8.H3
+    sprite: {fileID: 21300000, guid: 65048b85dfce4a689f9f778fb0e26d11, type: 3}
+  - id: O8.H3.C1
+    sprite: {fileID: 21300000, guid: 830cff65c81c401e9609dc7f3cc69171, type: 3}
+  - id: RB
+    sprite: {fileID: 21300000, guid: 4496417a489946ef80ac36f49b170e26, type: 3}
+  - id: N1_jp
+    sprite: {fileID: 21300000, guid: 126d1a6826f44725a39da8a2276daa47, type: 3}
+  - id: N2_jp
+    sprite: {fileID: 21300000, guid: 5bc0383c71fd4bf3ad7112bcd2b6d3e7, type: 3}
+  - id: N3_jp
+    sprite: {fileID: 21300000, guid: 1bbe77e58b7f49e485462ae6e225bbc6, type: 3}
+  - id: N4_jp
+    sprite: {fileID: 21300000, guid: 898b7c8006df4108bbf6e904d2a19e94, type: 3}
+  - id: N5_jp
+    sprite: {fileID: 21300000, guid: 70e1a3d6b2494783b9a41a52641a4ab1, type: 3}
+  - id: N6_jp
+    sprite: {fileID: 21300000, guid: e07b528494ff41b481a2f0d6cb28bbab, type: 3}
+  - id: N1_jp2
+    sprite: {fileID: 21300000, guid: 36ed106aeb47c5047b444c4a7c5938c4, type: 3}
+  - id: N2_jp2
+    sprite: {fileID: 21300000, guid: be8c03173efdd6849af0f7603d2735c2, type: 3}
+  - id: N3_jp2
+    sprite: {fileID: 21300000, guid: a0c7f3427144fbb46951fabb85713ff4, type: 3}
+  - id: N4_jp2
+    sprite: {fileID: 21300000, guid: 30818e03701f3d844b76de625dcc18c7, type: 3}
+  - id: N5_jp2
+    sprite: {fileID: 21300000, guid: 41444b14383d8994eb850150bea8886f, type: 3}
+  - id: N6_jp2
+    sprite: {fileID: 21300000, guid: 2ffc2edee0af9204b846cb9741e54376, type: 3}
+  - id: N1_jp3
+    sprite: {fileID: 21300000, guid: 9575ddf0a4c739849948f5df6a23686a, type: 3}
+  - id: N2_jp3
+    sprite: {fileID: 21300000, guid: 7ea81102e62d99f42998855c269b5d0b, type: 3}
+  - id: N3_jp3
+    sprite: {fileID: 21300000, guid: c0d5b9b477d470d4e8265703bec6d972, type: 3}
+  - id: N4_jp3
+    sprite: {fileID: 21300000, guid: 65de4c74c113d8745bf9f34b1b0a9e8d, type: 3}
+  - id: N5_jp3
+    sprite: {fileID: 21300000, guid: 8d01fda6f236995428601a9ea2836770, type: 3}
+  - id: N6_jp3
+    sprite: {fileID: 21300000, guid: 22fca5fb3a1023f4da0df18c690d5147, type: 3}

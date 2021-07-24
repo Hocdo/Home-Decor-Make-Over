@@ -1,0 +1,214 @@
+ManifestFileVersion: 0
+CRC: 774141851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35f6016d83b85b4b53cd69c430083787
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2555ba4a87ed3adea0c8064b34faff5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 904b210ae183487489b96e3c9e1fa71e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_light_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_lamp_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_floor_2.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_food_2.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_tree_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_bg_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_handrail_0.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_flower_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_grass_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_vase_2.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_sidetable_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_candle_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_vase_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_flower_1_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_light_2_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_chairs_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_1_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_floor_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_2_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_lamp_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_light_1_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_vase_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_bg_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_light_2_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_2_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_handrail_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_1_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_sidetable_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_pan_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_floor_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_2_2.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_table_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_1_0.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_music_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_handrail_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_sidetable_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_1_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_candle_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_flower_1_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_parasol_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_sidetable_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_light_1_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_bg_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_grass_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_sofa_1_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_sidetable_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_balloon_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_flower_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_flower_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_1_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_light_1_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_food_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_tree_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_table_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_pan_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_chairs_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_grass_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_pan_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_balloon_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_balloon_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_2_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_bg_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_1_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_candle_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_music_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_balloon_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_parasol_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_2_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_bg_0.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_flower_2_2.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_sidetable_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_grass_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_floor_0.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_parasol_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_music_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_table_2.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_parasol_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_grass_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_music_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_food_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_floor_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_lamp_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_handrail_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_grass_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_balloon_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_2_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_chairs_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_vase_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_1_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_flower_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_sofa_1_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_floor_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_balloon_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_pavilion_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_parasol_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_tree_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_tree_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_food_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_grass_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_flower_2_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_lamp_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_light_2_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_food_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_2_2.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_food_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_candle_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_candle_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_balloon_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_table_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_tree_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_pan_2.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_2_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_flower_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_pan_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_lamp_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_1_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_floor_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_parasol_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_chairs_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_bg_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_sidetable_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_bg_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_light_2_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_tree_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_flower_2.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_flower_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_vase_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_table_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/room.prefab
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_light_1_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_sofa_2_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_pavilion_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_table_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_handrail_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_vase_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_floor_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_light_1_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_sofa_2_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_light_1_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_music_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_sofa_2_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_light_2_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_flower_1_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_music_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_sofa_1_2_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_music_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_sofa_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_2_0.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_lamp_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_tree_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_bg_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_pan_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_flower_2_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_vase_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_handrail_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_pavilion_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_light_2_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_pan_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_candle_1.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_candle_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_pavilion_1_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_1_3.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_handrail_1.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_handrail_3_mini.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_lamp_2.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_parasol_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_2_3.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_table_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/UI/c1_r9_food_icon.png
+- Assets/Decor/Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_1_1.png
+Dependencies: []

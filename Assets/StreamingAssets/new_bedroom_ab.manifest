@@ -1,0 +1,118 @@
+ManifestFileVersion: 0
+CRC: 2873111859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc07ebbd168a567b7c069dd64b471396
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3b58b4e43708147efb2459692db34d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_picture_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_window_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_lamp_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_mini_decoration_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_tree_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_picture_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_sofa_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r8_top_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_carpet_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_carpet_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_bedside_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r9_sidetable_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_window_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_curtain_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_tree_left_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_mini_decoration_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_table_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_light_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_curtain_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_lamp_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_light_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_table_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_table_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_bed_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_curtain_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_decoration_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_decoration_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_wall_0.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_mini_decoration_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r1_plant_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_lamp_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_floor_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r3_floor_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_tree_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_mini_light_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_lamp_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r3_cupboard_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_table_0.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_table_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r10_wall_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_wall_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_wall_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_sofa_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_floor_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_carpet_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_bed_3.png
+- Assets/Decor/Room/2_NewBedRoom/room.prefab
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_top_0.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_top_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_picture_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_mini_light_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_bed_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_bedside_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_light_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_top_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_decoration_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r1_rightsofa_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_window_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_mini_light_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_bedside_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_floor_0.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_wall_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_bed_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r1_curtain_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_carpet_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_bed_0.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_tree_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_tree_left_3.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_sofa_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_picture_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_window_icon 1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_decoration_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_light_1.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_top_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_tree_left_2.png
+- Assets/Decor/Room/2_NewBedRoom/Texture2D/c1_r2_floor_2.png
+Dependencies: []

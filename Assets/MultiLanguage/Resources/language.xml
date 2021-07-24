@@ -1,0 +1,2693 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Translations>
+<Translation key="KEY">
+<Language>English</Language>
+<Language>Vietnamese</Language>
+<Language>French</Language>
+<Language>Japanese</Language>
+<Language>Korean</Language>
+<Language>Chinese</Language>
+<Language>Dutch</Language>
+<Language>German</Language>
+<Language>Italian</Language>
+<Language>Portuguese</Language>
+<Language>Russian</Language>
+<Language>Spanish</Language>
+</Translation>
+<!--      DEFALT TRANSLATE       -->
+	<Translation key="play">
+		<Value>Play</Value>
+		<Value>Chơi</Value>
+		<Value>Jouer</Value>
+		<Value>演奏する</Value>
+		<Value>플레이</Value>
+		<Value>玩</Value>
+		<Value>Speel</Value>
+		<Value>abspielen</Value>
+		<Value>Giocare</Value>
+		<Value>Toque</Value>
+		<Value>Играть в</Value>
+		<Value>Tocar</Value>
+	</Translation>
+	<Translation key="starter_pack">
+		<Value>Starter Pack</Value>
+		<Value>Gói bắt đầu</Value>
+		<Value>Kit de départ</Value>
+		<Value>スターターパック</Value>
+		<Value>스타터 팩</Value>
+		<Value>入门包</Value>
+		<Value>Starterspakket</Value>
+		<Value>Anfänger Packet</Value>
+		<Value>Starter pack</Value>
+		<Value>Pacote de iniciante</Value>
+		<Value>Стартовый пакет</Value>
+		<Value>Paquete de inicio</Value>
+	</Translation>
+	<Translation key="weekend_sale">
+		<Value>Weekend Sale</Value>
+		<Value>Gói tuần</Value>
+		<Value>Vente week-end</Value>
+		<Value>週末の販売</Value>
+		<Value>주말 세일</Value>
+		<Value>周末销售</Value>
+		<Value>weekend Sale</Value>
+		<Value>Räumungsverkauf</Value>
+		<Value>Weekend Sale</Value>
+		<Value>Venda fim de semana</Value>
+		<Value>Продажа выходные</Value>
+		<Value>Venta de fin de semana</Value>
+	</Translation>
+	<Translation key="monthly_pack">
+		<Value>Monthly Pack</Value>
+		<Value>Gói tháng</Value>
+		<Value>Paquet mensuel</Value>
+		<Value>月刊パック</Value>
+		<Value>월간 팩</Value>
+		<Value>每月包</Value>
+		<Value>Maandelijks Pack</Value>
+		<Value>Monatspaket</Value>
+		<Value>Confezione mensile</Value>
+		<Value>Pacote mensal</Value>
+		<Value>Ежемесячный пакет</Value>
+		<Value>mensile confezione</Value>
+	</Translation>
+	<Translation key="full">
+		<Value>Full</Value>
+		<Value>Đầy</Value>
+		<Value>Complet</Value>
+		<Value>いっぱい</Value>
+		<Value>완전한</Value>
+		<Value>满的</Value>
+		<Value>vol</Value>
+		<Value>Voll</Value>
+		<Value>Pieno</Value>
+		<Value>Completo</Value>
+		<Value>Полный</Value>
+		<Value>pieno</Value>
+	</Translation>
+	<Translation key="continue">
+		<Value>Tap to continue</Value>
+		<Value>Nhấn để tiếp tục</Value>
+		<Value>Appuyez sur pour continuer</Value>
+		<Value>続けるにはタップ</Value>
+		<Value>계속 눌러</Value>
+		<Value>点击继续</Value>
+		<Value>Tik op om door te gaan</Value>
+		<Value>Tippen um fortzufahren</Value>
+		<Value>Tocca per continuare</Value>
+		<Value>Clique para continuar</Value>
+		<Value>Нажмите, чтобы продолжить</Value>
+		<Value>Tocca por continuare</Value>
+	</Translation>
+	<Translation key="setting">
+		<Value>Setting</Value>
+		<Value>Cài đặt</Value>
+		<Value>Réglage</Value>
+		<Value>セッティング</Value>
+		<Value>환경</Value>
+		<Value>环境</Value>
+		<Value>omgeving</Value>
+		<Value>Rahmen</Value>
+		<Value>Ambientazione</Value>
+		<Value>Contexto</Value>
+		<Value>Параметр</Value>
+		<Value>ambientazione</Value>
+	</Translation>
+	<Translation key="loading">
+		<Value>Loading...</Value>
+		<Value>Đang tải...</Value>
+		<Value>Chargement...</Value>
+		<Value>読み込んでいます...</Value>
+		<Value>로드 중 ...</Value>
+		<Value>载入中...</Value>
+		<Value>Bezig met laden...</Value>
+		<Value>Wird geladen...</Value>
+		<Value>Caricamento in corso...</Value>
+		<Value>Carregando...</Value>
+		<Value>Loading ...</Value>
+		<Value>Cargando ... Iniciar</Value>
+	</Translation>
+	<Translation key="no_thank">
+		<Value>No, thanks</Value>
+		<Value>Không, cám ơn</Value>
+		<Value>Non merci</Value>
+		<Value>結構です</Value>
+		<Value>고맙지 만 사양 할게</Value>
+		<Value>不用了，谢谢</Value>
+		<Value>Nee bedankt</Value>
+		<Value>Nein danke</Value>
+		<Value>No grazie</Value>
+		<Value>Não, obrigado</Value>
+		<Value>Спасибо, не надо</Value>
+		<Value>no grazie</Value>
+	</Translation>
+	<Translation key="or">
+		<Value>Or</Value>
+		<Value>Hoặc</Value>
+		<Value>Ou</Value>
+		<Value>若しくは</Value>
+		<Value>또는</Value>
+		<Value>或者</Value>
+		<Value>Of</Value>
+		<Value>Oder</Value>
+		<Value>O</Value>
+		<Value>Ou</Value>
+		<Value>Или же</Value>
+		<Value>O</Value>
+	</Translation>
+	<Translation key="skip">
+		<Value>Skip</Value>
+		<Value>Bỏ qua</Value>
+		<Value>Sauter</Value>
+		<Value>スキップ</Value>
+		<Value>건너 뛰기</Value>
+		<Value>跳过</Value>
+		<Value>Overspringen</Value>
+		<Value>Überspringen</Value>
+		<Value>Salta</Value>
+		<Value>Pular</Value>
+		<Value>Пропускать</Value>
+		<Value>Salta</Value>
+	</Translation>
+	<Translation key="room">
+		<Value>Room</Value>
+		<Value>Phòng</Value>
+		<Value>Salle</Value>
+		<Value>ルーム</Value>
+		<Value>방</Value>
+		<Value>房间</Value>
+		<Value>Kamer</Value>
+		<Value>Zimmer</Value>
+		<Value>Room</Value>
+		<Value>Quarto</Value>
+		<Value>Комната</Value>
+		<Value>Room</Value>
+	</Translation>
+	<Translation key="room_name_1">
+		<Value>Living Room</Value>
+		<Value>Phòng khách</Value>
+		<Value>Le salon</Value>
+		<Value>リビングルーム</Value>
+		<Value>거실</Value>
+		<Value>客厅</Value>
+		<Value>Woonkamer</Value>
+		<Value>Wohnzimmer</Value>
+		<Value>Soggiorno</Value>
+		<Value>Sala de estar</Value>
+		<Value>Гостинная</Value>
+		<Value>soggiorno</Value>
+	</Translation>
+	<Translation key="room_desc_1">
+		<Value>Start with a lovely and stylish living room</Value>
+		<Value>Bắt đầu với một phòng khách đáng yêu và phong cách</Value>
+		<Value>Commencez avec un salon agréable et élégant</Value>
+		<Value>素敵でスタイリッシュなリビングルームでスタート</Value>
+		<Value>사랑스러운하고 세련된 거실로 시작</Value>
+		<Value>首先得有个可爱而时尚的客厅</Value>
+		<Value>Begin met een mooie en stijlvolle woonkamer</Value>
+		<Value>Beginnen Sie mit einem schönen und stilvollen Wohnzimmer</Value>
+		<Value>Inizia con un soggiorno gradevole e di classe</Value>
+		<Value>Comece com uma adorável e elegante sala de estar</Value>
+		<Value>Начните с прекрасной и стильной гостиной</Value>
+		<Value>Inizia con un soggiorno gradevole e di classe</Value>
+	</Translation>
+	<Translation key="room_name_2">
+		<Value>Bedroom</Value>
+		<Value>Phòng ngủ</Value>
+		<Value>Chambre à coucher</Value>
+		<Value>ベッドルーム</Value>
+		<Value>침실</Value>
+		<Value>卧室</Value>
+		<Value>Slaapkamer</Value>
+		<Value>Schlafzimmer</Value>
+		<Value>Camera da letto</Value>
+		<Value>Quarto</Value>
+		<Value>Спальня</Value>
+		<Value>Camera da letto</Value>
+	</Translation>
+	<Translation key="room_desc_2">
+		<Value>Lovely bedroom with sunlight shining through the window</Value>
+		<Value>phòng ngủ đáng yêu với ánh sáng mặt trời chiếu xuyên qua cửa sổ</Value>
+		<Value>Belle chambre avec la lumière du soleil qui brille à travers la fenêtre</Value>
+		<Value>窓から輝く太陽の光と素敵なベッドルーム</Value>
+		<Value>햇빛이 창을 통해 빛나는 사랑스러운 침실</Value>
+		<Value>可爱的卧室，阳光透过窗户照</Value>
+		<Value>Mooie slaapkamer met zonlicht schijnt door het raam</Value>
+		<Value>Schöner Schlafzimmer mit Sonnenlicht durch das Fenster scheint</Value>
+		<Value>Bella camera da letto con la luce del sole che splende attraverso la finestra</Value>
+		<Value>Adorável quarto com a luz solar que brilha através da janela</Value>
+		<Value>Прекрасная спальня с солнечного света, попадающего через окно</Value>
+		<Value>Bella camera da letto con la luce del sole che splende attraverso la finestra</Value>
+	</Translation>
+	<Translation key="room_name_3">
+		<Value>Attic Bedroom</Value>
+		<Value>Phòng ngủ gác mái</Value>
+		<Value>Chambre à coucher</Value>
+		<Value>屋根裏部屋</Value>
+		<Value>다락방 침실</Value>
+		<Value>阁楼卧室</Value>
+		<Value>Zolder slaapkamer</Value>
+		<Value>Dachboden-Schlafzimmer</Value>
+		<Value>Camera da letto attico</Value>
+		<Value>Quarto sótão</Value>
+		<Value>Хедиская спальня</Value>
+		<Value>Cámara da letto attico</Value>
+	</Translation>
+	<Translation key="room_desc_3">
+		<Value>Help clients explore and design an amazing "Attic Room".  A place where love flourishes</Value>
+		<Value>Giúp khách hàng khám phá và thiết kế một "căn gác" tuyệt vời ". Một nơi tình yêu thăng hoa</Value>
+		<Value>Aidez les clients à explorer et à concevoir une étonnante "chambre grenière". Un endroit où l'amour fleurit</Value>
+		<Value>クライアントが素晴らしい「屋根裏部屋」を探索して設計するのを手伝ってください。 愛が栄える場所</Value>
+		<Value>클라이언트가 놀라운 "다락방 룸"을 탐험하고 디자인하도록 돕습니다. 사랑이 번지르는 곳</Value>
+		<Value>帮助客户探索和设计一个惊人的“阁楼室”。一个爱蓬勃发展的地方</Value>
+		<Value>Help cliënten een geweldige "zolderkamer" verkennen en ontwerpen. Een plek waar liefde bloeit</Value>
+		<Value>Helfen Sie Kunden, einen erstaunlichen "Dachgeschoss" zu erkunden und zu entwerfen. Ein Ort, an dem die Liebe blüht</Value>
+		<Value>Aiuta i clienti a esplorare e progettare un'incredibile "stanza mansarda". Un luogo in cui l'amore fiorisce</Value>
+		<Value>Ajudar os clientes a explorar e projetar uma incrível "sala de sótão". Um lugar onde o amor floresce</Value>
+		<Value>Помогите клиентам исследовать и разработать удивительную «чердачную комнату». Место, где любовь процветает</Value>
+		<Value>Aiuta I Clienti A ESPLORARE E PROGETTARE UN'InCredIBILE "ESTANZA MANSARDA". ONU Luogo en Cui L'Amore Fiorisce</Value>
+	</Translation>
+	<Translation key="room_name_4">
+		<Value>Exhibition Room</Value>
+		<Value>Phòng triển lãm</Value>
+		<Value>Salle d'exposition</Value>
+		<Value>展示室</Value>
+		<Value>전시실</Value>
+		<Value>展览室</Value>
+		<Value>tentoonstelling Room</Value>
+		<Value>Ausstellungsraum</Value>
+		<Value>Sala esposizioni</Value>
+		<Value>Sala de Exposições</Value>
+		<Value>Выставочный зал</Value>
+		<Value>Sala esposizioni</Value>
+	</Translation>
+	<Translation key="room_desc_4">
+		<Value>A modern gallery embodies the personality of its designer</Value>
+		<Value>Một bộ sưu tập hiện đại là hiện thân của những cá tính của nhà thiết kế của nó</Value>
+		<Value>Une galerie d'art moderne incarne la personnalité de son créateur</Value>
+		<Value>近代的なギャラリーは、そのデザイナーの個性を体現します</Value>
+		<Value>현대 갤러리는 디자이너의 개성을 구현</Value>
+		<Value>现代画廊体现了设计师的个性</Value>
+		<Value>Een moderne galerie belichaamt de persoonlijkheid van de ontwerper</Value>
+		<Value>Eine moderne Galerie verkörpert die Persönlichkeit des Designers</Value>
+		<Value>Una galleria moderna incarna la personalità del suo progettista</Value>
+		<Value>A galeria de arte moderna encarna a personalidade do seu criador</Value>
+		<Value>Современная галерея воплощает в себе личность его создателя</Value>
+		<Value>Una galería moderna Incarna La personalità del suo progettista</Value>
+	</Translation>
+	<Translation key="room_name_5">
+		<Value>Work Place</Value>
+		<Value>Phòng làm việc</Value>
+		<Value>Lieu de travail</Value>
+		<Value>職場</Value>
+		<Value>일터</Value>
+		<Value>工作地点</Value>
+		<Value>work Place</Value>
+		<Value>Arbeitsplatz</Value>
+		<Value>Posto di lavoro</Value>
+		<Value>Ambiente de trabalho</Value>
+		<Value>Рабочее место</Value>
+		<Value>Posto di lavoro</Value>
+	</Translation>
+	<Translation key="room_desc_5">
+		<Value>Experience the office of a creative designer</Value>
+		<Value>Trải nghiệm văn phòng của một nhà thiết kế sáng tạo</Value>
+		<Value>L'expérience du bureau d'un designer créatif</Value>
+		<Value>創造的なデザイナーの事務所を体験</Value>
+		<Value>창조적 인 디자이너의 사무실을 경험</Value>
+		<Value>体验创意设计师的办公室</Value>
+		<Value>Ervaar het kantoor van een creatief ontwerper</Value>
+		<Value>Erleben Sie das Büro eines kreativen Designer</Value>
+		<Value>Provate l'ufficio di un designer creativo</Value>
+		<Value>Experimente a cargo de um designer criativo</Value>
+		<Value>Опыт работы в офисе творческого дизайнера</Value>
+		<Value>Provate l'Ufficio di un creativo diseñador</Value>
+	</Translation>
+	<Translation key="room_name_6">
+		<Value>Modern Bar</Value>
+		<Value>Bar hiện đại</Value>
+		<Value>Modern Bar</Value>
+		<Value>モダンなバー</Value>
+		<Value>현대 바</Value>
+		<Value>现代酒吧</Value>
+		<Value>modern Bar</Value>
+		<Value>moderne Bar</Value>
+		<Value>Bar moderno</Value>
+		<Value>Bar Modern</Value>
+		<Value>Современный бар</Value>
+		<Value>bar Moderno</Value>
+	</Translation>
+	<Translation key="room_desc_6">
+		<Value>A charming bar designed in a modern style</Value>
+		<Value>Một thanh quyến rũ thiết kế theo phong cách hiện đại</Value>
+		<Value>Un charmant bar dans un style moderne</Value>
+		<Value>モダンなスタイルで設計された魅力的なバー</Value>
+		<Value>현대적인 스타일로 디자인 된 매력적인 바</Value>
+		<Value>迷人的酒吧以现代风格设计</Value>
+		<Value>Een gezellige bar ontworpen in een moderne stijl</Value>
+		<Value>Eine charmante Bar in einem modernen Stil</Value>
+		<Value>Un affascinante bar progettato in stile moderno</Value>
+		<Value>Um charmoso bar projetado em estilo moderno</Value>
+		<Value>Очаровательный бар оформлен в современном стиле</Value>
+		<Value>Un affascinante barra progettato en estilo moderno</Value>
+	</Translation>
+	<Translation key="room_name_7">
+		<Value>Restaurant</Value>
+		<Value>Nhà hàng</Value>
+		<Value>Le restaurant</Value>
+		<Value>レストラン</Value>
+		<Value>레스토랑</Value>
+		<Value>餐厅</Value>
+		<Value>Restaurant</Value>
+		<Value>Restaurant</Value>
+		<Value>Ristorante</Value>
+		<Value>Restaurante</Value>
+		<Value>Ресторан</Value>
+		<Value>Ristorante</Value>
+	</Translation>
+	<Translation key="room_desc_7">
+		<Value>Designing a luxury restaurant will give you a very enjoyable experience</Value>
+		<Value>Thiết kế một nhà hàng sang trọng sẽ cho bạn một trải nghiệm rất thú vị</Value>
+		<Value>La conception d'un restaurant de luxe vous donnera une expérience très agréable</Value>
+		<Value>高級レストランの設計はあなたに非常に楽しい経験を与えます</Value>
+		<Value>고급 레스토랑을 디자인하는 것은 당신에게 매우 즐거운 경험을 줄 것이다</Value>
+		<Value>设计一间豪华餐厅会给你一个非常愉快的经历</Value>
+		<Value>Het ontwerpen van een luxe restaurant geeft je een zeer plezierige ervaring</Value>
+		<Value>ein Luxusrestaurant Gestaltung finden Sie eine sehr angenehme Erfahrung geben</Value>
+		<Value>La progettazione di un ristorante di lusso vi darà un'esperienza molto piacevole</Value>
+		<Value>Projetando um restaurante de luxo vai dar-lhe uma experiência muito agradável</Value>
+		<Value>Проектирование роскошного ресторана даст вам очень приятный опыт</Value>
+		<Value>La progettazione di un ristorante di Lusso vi darà un'esperienza molto piacevole</Value>
+	</Translation>
+	<Translation key="room_name_8">
+		<Value>Modern Kitchen</Value>
+		<Value>Bếp hiện đại</Value>
+		<Value>Cuisine moderne</Value>
+		<Value>モダンなキッチン</Value>
+		<Value>현대 부엌</Value>
+		<Value>现代厨房</Value>
+		<Value>Moderne keuken</Value>
+		<Value>Moderne Küche</Value>
+		<Value>Cucina moderna</Value>
+		<Value>Cozinha moderna</Value>
+		<Value>Современная кухня</Value>
+		<Value>Moderna cucina</Value>
+	</Translation>
+	<Translation key="room_desc_8">
+		<Value>Show off your creativity with a modern, luxurious kitchen</Value>
+		<Value>Khoe sự sáng tạo của bạn với một nhà bếp hiện đại, sang trọng</Value>
+		<Value>Montrez votre créativité avec une cuisine moderne, luxueuse</Value>
+		<Value>近代的な、豪華なキッチンであなたの創造性を披露</Value>
+		<Value>현대, 고급스러운 주방과 창의력을보기</Value>
+		<Value>秀出你的创意与现代，豪华的厨房</Value>
+		<Value>Pronk met uw creativiteit met een moderne, luxe keuken</Value>
+		<Value>Führen Sie Ihre Kreativität mit einer modernen, luxuriösen Küche</Value>
+		<Value>Mostra il tuo creatività di una cucina moderna, lussuosa</Value>
+		<Value>Mostrar sua criatividade com uma cozinha moderna, luxuoso</Value>
+		<Value>Показать свой творческий потенциал с современной, роскошной кухней</Value>
+		<Value>Mostra di il tuo creatività una cucina moderna, lussuosa</Value>
+	</Translation>
+	<Translation key="room_name_9">
+		<Value>Sky Restaurant</Value>
+		<Value>Nhà hàng Sky</Value>
+		<Value>Sky restaurant</Value>
+		<Value>スカイレストラン</Value>
+		<Value>스카이 레스토랑</Value>
+		<Value>天空餐厅</Value>
+		<Value>Sky Restaurant</Value>
+		<Value>Sky Restaurant</Value>
+		<Value>Sky Restaurant</Value>
+		<Value>Sky Restaurant</Value>
+		<Value>Sky Restaurant</Value>
+		<Value>Sky Restaurant</Value>
+	</Translation>
+	<Translation key="room_desc_9">
+		<Value>Sky restaurant is a romantic place for evening parties</Value>
+		<Value>nhà hàng Sky là một nơi lãng mạn cho các buổi tiệc tối</Value>
+		<Value>restaurant Sky est un endroit romantique pour les fêtes du soir</Value>
+		<Value>スカイレストランでは、夜のパーティーのためのロマンチックな場所です</Value>
+		<Value>스카이 레스토랑은 저녁 파티를위한 로맨틱 한 장소입니다</Value>
+		<Value>空中餐厅是晚会一个浪漫的地方</Value>
+		<Value>Sky restaurant is een romantische plek om 's avonds partijen</Value>
+		<Value>Sky Restaurant ist ein romantischer Ort für Abendveranstaltungen</Value>
+		<Value>ristorante Sky è un luogo romantico per le feste serali</Value>
+		<Value>restaurante céu é um lugar romântico para festas à noite</Value>
+		<Value>В ресторане Sky романтическое место для вечеринок</Value>
+		<Value>è un ristorante Cielo del local romantico per le feste serali</Value>
+	</Translation>
+	<Translation key="room_name_10">
+		<Value>Kid Room</Value>
+		<Value>Phòng trẻ em</Value>
+		<Value>Chambre enfant</Value>
+		<Value>キッドルーム</Value>
+		<Value>아이 방</Value>
+		<Value>儿童房</Value>
+		<Value>kid Room</Value>
+		<Value>Kind-Raum</Value>
+		<Value>Kid camera</Value>
+		<Value>Quarto Kid</Value>
+		<Value>Kid номер</Value>
+		<Value>cámara Kid</Value>
+	</Translation>
+	<Translation key="room_desc_10">
+		<Value>Lovely pink children's room</Value>
+		<Value>Phòng cho trẻ em màu hồng rất đáng yêu</Value>
+		<Value>chambre enfants belle rose</Value>
+		<Value>ラブリーピンクの子ども部屋</Value>
+		<Value>사랑스러운 핑크 어린이 방</Value>
+		<Value>可爱的粉色儿童房</Value>
+		<Value>Mooi roze kinderkamer</Value>
+		<Value>Schöne rosa Kinderzimmer</Value>
+		<Value>bella camera per bambini rosa</Value>
+		<Value>Linda rosa quarto das crianças</Value>
+		<Value>Прекрасная детская комната розовой</Value>
+		<Value>cámara bella rosa por bambini</Value>
+	</Translation>
+	<Translation key="more_stamina">
+		<Value>Get more stamina</Value>
+		<Value>Nhận thêm mạng</Value>
+		<Value>Plus d'endurance</Value>
+		<Value>もっとスタミナを取得</Value>
+		<Value>더 많은 체력을 얻기</Value>
+		<Value>获取更多的精力</Value>
+		<Value>Haal meer uithoudingsvermogen</Value>
+		<Value>Mehr Ausdauer</Value>
+		<Value>Più capacità di resistenza</Value>
+		<Value>Obter mais resistência</Value>
+		<Value>Получить больше выносливости</Value>
+		<Value>Più di capacità resistenza</Value>
+	</Translation>
+	<Translation key="new_life_in">
+		<Value>New Life in:</Value>
+		<Value>Mạng mới trong:</Value>
+		<Value>Nouvelle vie en:</Value>
+		<Value>ニューライフで：</Value>
+		<Value>새로운 생활에 :</Value>
+		<Value>新生活：</Value>
+		<Value>New Life in:</Value>
+		<Value>Neues Leben in:</Value>
+		<Value>Nuova vita in:</Value>
+		<Value>New Life in:</Value>
+		<Value>Новая жизнь в:</Value>
+		<Value>Nuova vita en:</Value>
+	</Translation>
+	<Translation key="ads_for_life">
+		<Value>Watch a video to receive a life</Value>
+		<Value>Xem video để nhận 1 mạng</Value>
+		<Value>Regardez une vidéo pour recevoir une vie</Value>
+		<Value>命を受けるためにビデオを見ます</Value>
+		<Value>인생을받을 동영상보기</Value>
+		<Value>观看视频接收生活</Value>
+		<Value>Bekijk een video om een ​​leven te ontvangen</Value>
+		<Value>Sehen Sie ein Video, ein Leben zu erhalten</Value>
+		<Value>Guarda un video per ricevere una vita</Value>
+		<Value>Assista a um vídeo para receber uma vida</Value>
+		<Value>Смотрите видео, чтобы получить жизнь</Value>
+		<Value>Guarda la ONU de vídeo por ricevere una vita</Value>
+	</Translation>
+	<Translation key="refill">
+		<Value>Refill</Value>
+		<Value>Hồi phục</Value>
+		<Value>Recharge</Value>
+		<Value>リフィル</Value>
+		<Value>다시 채우다</Value>
+		<Value>笔芯</Value>
+		<Value>hervullen</Value>
+		<Value>Nachfüllung</Value>
+		<Value>Ricarica</Value>
+		<Value>reabastecer</Value>
+		<Value>Пополнение</Value>
+		<Value>ricarica</Value>
+	</Translation>
+	<Translation key="more_coins">
+		<Value>More Coins</Value>
+		<Value>Nhiều vàng hơn</Value>
+		<Value>plus de pièces</Value>
+		<Value>多くのコイン</Value>
+		<Value>더 많은 동전</Value>
+		<Value>更多的硬币</Value>
+		<Value>meer Munten</Value>
+		<Value>Weitere Münzen</Value>
+		<Value>più monete</Value>
+		<Value>mais moedas</Value>
+		<Value>Другие монеты</Value>
+		<Value>più Monete</Value>
+	</Translation>
+	<Translation key="complete_level_coin">
+		<Value>Complete the level to get coins</Value>
+		<Value>Hoàn thành các cấp độ để nhận vàng</Value>
+		<Value>Terminez le niveau pour obtenir des pièces de monnaie</Value>
+		<Value>コインを取得するためにレベルを完了</Value>
+		<Value>동전을 얻을 수있는 수준을 완료</Value>
+		<Value>完成关卡获得金币</Value>
+		<Value>Voltooi het level om munten te krijgen</Value>
+		<Value>Füllen Sie die Ebene Münzen zu erhalten</Value>
+		<Value>Completa il livello per ottenere monete</Value>
+		<Value>Complete o nível para obter moedas</Value>
+		<Value>Завершите уровень, чтобы получить монеты</Value>
+		<Value>Completa il livello por ottenere Monete</Value>
+	</Translation>
+	<Translation key="remove_ad">
+		<Value>Remove Ads</Value>
+		<Value>Xóa quảng cáo</Value>
+		<Value>Supprimez la pub</Value>
+		<Value>広告を削除</Value>
+		<Value>광고를 제거하다</Value>
+		<Value>移除广告</Value>
+		<Value>Verwijder advertenties</Value>
+		<Value>Anzeigen entfernen</Value>
+		<Value>Rimuovere gli annunci</Value>
+		<Value>Remover propagandas</Value>
+		<Value>Удалить объявления</Value>
+		<Value>Rimuovere gli annunci</Value>
+	</Translation>
+	<Translation key="hate_ad">
+		<Value>Hate interrupted by ads? Remove it now</Value>
+		<Value>Bạn ghét quảng cáo? Xóa nó ngay bây giờ</Value>
+		<Value>La haine interrompue par des annonces? Retirer maintenant</Value>
+		<Value>広告によって中断嫌い？今、それを削除します</Value>
+		<Value>광고에 의해 중단 싫어? 지금 제거</Value>
+		<Value>讨厌的广告打断？现在将其删除</Value>
+		<Value>Haat onderbroken door advertenties? Verwijder het nu</Value>
+		<Value>Hass durch Anzeigen unterbrochen? Entfernen Sie es jetzt</Value>
+		<Value>Odio interrotti da annunci? Rimuovere subito</Value>
+		<Value>Odeio interrompidos por anúncios? Removê-lo agora</Value>
+		<Value>Ненависть прерываться рекламой? Удалить сейчас</Value>
+		<Value>Odio interrotti da annunci? subito Rimuovere</Value>
+	</Translation>
+	<Translation key="fun">
+		<Value>Having fun?</Value>
+		<Value>Bạn thấy vui không?</Value>
+		<Value>S'amuser?</Value>
+		<Value>楽しんでますか？</Value>
+		<Value>재미?</Value>
+		<Value>正玩得开心？</Value>
+		<Value>Plezier hebben?</Value>
+		<Value>Spaß haben?</Value>
+		<Value>Divertirsi?</Value>
+		<Value>Se divertindo?</Value>
+		<Value>Веселиться?</Value>
+		<Value>Divertirsi?</Value>
+	</Translation>
+	<Translation key="rate">
+		<Value>Do you like this game? Give us 5 stars to support us!</Value>
+		<Value>Bạn thích game này chứ? Hãy ủng hộ chúng tôi với 5 sao!</Value>
+		<Value>Aimez-vous ce jeu? Donnez-nous 5 étoiles pour nous soutenir!</Value>
+		<Value>あなたはこのゲームが好きですか？私たちに私たちをサポートするために5つ星を与えます！</Value>
+		<Value>당신은이 게임을 좋아합니까? 우리에게 우리를 지원하기 위해 5 점을 줘!</Value>
+		<Value>你喜欢这个游戏吗？给我们5星支持我们！</Value>
+		<Value>Vind je dit spelletje leuk? Geef ons 5 sterren om ons te steunen!</Value>
+		<Value>Magst du dieses Spiel? Geben Sie uns 5 Sterne, uns zu unterstützen!</Value>
+		<Value>Ti piace questo gioco? Dacci 5 stelle per sostenerci!</Value>
+		<Value>Você gosta deste jogo? Dá-nos 5 estrelas para nos apoiar!</Value>
+		<Value>Тебе нравится эта игра? Дайте нам 5 звезд, чтобы поддержать нас!</Value>
+		<Value>Ti piace questo gioco? Dacci 5 Stelle por sostenerci!</Value>
+	</Translation>
+	<Translation key="14star">
+		<Value>1-4 stars</Value>
+		<Value>1-4 sao</Value>
+		<Value>1-4 étoiles</Value>
+		<Value>1-4星</Value>
+		<Value>1-4 별</Value>
+		<Value>1-4颗</Value>
+		<Value>1-4 sterren</Value>
+		<Value>1-4 Sterne</Value>
+		<Value>1-4 stelle</Value>
+		<Value>1-4 estrelas</Value>
+		<Value>1-4 звезды</Value>
+		<Value>1-4 Stelle</Value>
+	</Translation>
+	<Translation key="5star">
+		<Value>5 stars</Value>
+		<Value>5 sao</Value>
+		<Value>5 étoiles</Value>
+		<Value>5つ星</Value>
+		<Value>별 5 개</Value>
+		<Value>5星</Value>
+		<Value>5 sterren</Value>
+		<Value>5 Sterne</Value>
+		<Value>5 stelle</Value>
+		<Value>5 estrelas</Value>
+		<Value>5 звезд</Value>
+		<Value>5 Stelle</Value>
+	</Translation>
+	<Translation key="quit_game">
+		<Value>Quit game</Value>
+		<Value>Thoát trò chơi</Value>
+		<Value>Quitter le jeu</Value>
+		<Value>ゲームをやめる</Value>
+		<Value>게임을 종료</Value>
+		<Value>退出游戏</Value>
+		<Value>Quit spel</Value>
+		<Value>Spiel verlassen</Value>
+		<Value>Abbandonare il gioco</Value>
+		<Value>Desistir do jogo</Value>
+		<Value>Выйти из игры</Value>
+		<Value>Abbandonare il gioco</Value>
+	</Translation>
+	<Translation key="ask_quit">
+		<Value>Are you sure you want to quit this awesome game?</Value>
+		<Value>Bạn có chắc muốn thoát trò chơi tuyệt với này?</Value>
+		<Value>Etes-vous sûr de vouloir quitter ce jeu génial?</Value>
+		<Value>あなたは、この素晴らしいゲームを終了してもよろしいですか？</Value>
+		<Value>이 멋진 게임을 종료 하시겠습니까?</Value>
+		<Value>你确定要退出这个真棒游戏？</Value>
+		<Value>Bent u zeker dat u dit geweldige spel stoppen?</Value>
+		<Value>Sind Sie sicher, dass Sie dieses tolle Spiel zu beenden?</Value>
+		<Value>Sei sicuro di voler uscire da questo gioco fantastico?</Value>
+		<Value>Tem certeza de que deseja sair este jogo incrível?</Value>
+		<Value>Вы уверены, что хотите бросить эту удивительную игру?</Value>
+		<Value>¿Estás seguro di voler uscire da questo gioco Fantastico?</Value>
+	</Translation>
+	<Translation key="resume">
+		<Value>Continue</Value>
+		<Value>Tiếp tục</Value>
+		<Value>Continuez</Value>
+		<Value>継続する</Value>
+		<Value>계속하다</Value>
+		<Value>继续</Value>
+		<Value>Doorgaan met</Value>
+		<Value>Fortsetzen</Value>
+		<Value>Continua</Value>
+		<Value>Continuar</Value>
+		<Value>Продолжать</Value>
+		<Value>Continua</Value>
+	</Translation>
+	<Translation key="quit">
+		<Value>Quit</Value>
+		<Value>Thoát</Value>
+		<Value>Quitter</Value>
+		<Value>終了する</Value>
+		<Value>떠나다</Value>
+		<Value>辞职</Value>
+		<Value>ophouden</Value>
+		<Value>Verlassen</Value>
+		<Value>Smettere</Value>
+		<Value>Desistir</Value>
+		<Value>Покидать</Value>
+		<Value>smettere</Value>
+	</Translation>
+	<Translation key="daily_task">
+		<Value>Daily Task</Value>
+		<Value>Nhiệm vụ hàng ngày</Value>
+		<Value>Tâche quotidienne</Value>
+		<Value>毎日の仕事</Value>
+		<Value>일별 작업</Value>
+		<Value>每日任务</Value>
+		<Value>Dagelijkse taak</Value>
+		<Value>Tägliche Aufgabe</Value>
+		<Value>Compito giornaliero</Value>
+		<Value>Tarefa diária</Value>
+		<Value>Ежедневное задание</Value>
+		<Value>Giornaliero Compito</Value>
+	</Translation>
+	<Translation key="reset_in">
+		<Value>Reset in:</Value>
+		<Value>Thiết lập lại trong:</Value>
+		<Value>Remise à zéro:</Value>
+		<Value>にリセット：</Value>
+		<Value>리셋 :</Value>
+		<Value>复位：</Value>
+		<Value>Reset in:</Value>
+		<Value>Zurücksetzen in:</Value>
+		<Value>Ripristina in:</Value>
+		<Value>Repor em:</Value>
+		<Value>Сброс в:</Value>
+		<Value>Ripristina en:</Value>
+	</Translation>
+	<Translation key="complete_task">
+		<Value>Complete all tasks to get special rewards</Value>
+		<Value>Hoàn thành tất cả các nhiệm vụ để có được phần thưởng đặc biệt</Value>
+		<Value>Terminez toutes les tâches pour obtenir des récompenses spéciales</Value>
+		<Value>特別な報酬を得るためにすべてのタスクを完了します</Value>
+		<Value>특별한 보상을 얻을 수있는 모든 작업을 완료</Value>
+		<Value>完成所有任务获得特殊奖励</Value>
+		<Value>Voltooi alle taken aan speciale beloningen</Value>
+		<Value>Füllen Sie alle Aufgaben besondere Belohnungen zu erhalten</Value>
+		<Value>Completare tutte le attività per ottenere premi speciali</Value>
+		<Value>Completar todas as tarefas para obter recompensas especiais</Value>
+		<Value>Выполните все задания, чтобы получить специальные награды</Value>
+		<Value>Completare tutte le attività por ottenere premi Speciali</Value>
+	</Translation>
+	<Translation key="task_point">
+		<Value>Task Point</Value>
+		<Value>Mốc nhiệm vụ</Value>
+		<Value>point de tâche</Value>
+		<Value>タスクのポイント</Value>
+		<Value>작업 포인트</Value>
+		<Value>任务点</Value>
+		<Value>Task Point</Value>
+		<Value>Aufgabe Punkt</Value>
+		<Value>Task Point</Value>
+		<Value>Ponto tarefa</Value>
+		<Value>Точка задачи</Value>
+		<Value>Punto de tareas</Value>
+	</Translation>
+	<Translation key="task_use_move">
+		<Value>Use xxx +3 move boosters</Value>
+		<Value>Sử dụng xxx +3move booster</Value>
+		<Value>Utilisez xxx +3 boosters de mouvement</Value>
+		<Value>使用して、3つの移動ブースターをxxxは</Value>
+		<Value>사용 +3 이동 부스터 xxx는</Value>
+		<Value>中使用XXX +3移动的助推器</Value>
+		<Value>Gebruik xxx 3 move boosters</Value>
+		<Value>Verwenden Sie xxx 3 bewegen Booster</Value>
+		<Value>XXX +3 booster move</Value>
+		<Value>Use xxx +3 boosters movimento</Value>
+		<Value>Использование ххх +3 перемещения бустеров</Value>
+		<Value>XXX 3 de refuerzo movimiento</Value>
+	</Translation>
+	<Translation key="task_use_rocket">
+		<Value>Use xxx rocket booster</Value>
+		<Value>Sử dụng xxx rocket booster</Value>
+		<Value>Utilisez le booster de fusée</Value>
+		<Value>使用XXXロケットブースター</Value>
+		<Value>사용 XXX 로켓 부스터</Value>
+		<Value>使用XXX火箭助推器</Value>
+		<Value>Gebruik xxx aanjaagraket</Value>
+		<Value>Verwenden Sie xxx Raketenbooster</Value>
+		<Value>Usa xxx razzo</Value>
+		<Value>Use xxx foguete</Value>
+		<Value>Используйте ххх ракета-носитель</Value>
+		<Value>Razzo EE.UU. xxx</Value>
+	</Translation>
+	<Translation key="task_use_bomb">
+		<Value>Use xxx bomb boosters</Value>
+		<Value>Sự dụng xxx bomb booster</Value>
+		<Value>Utilisez les boosters à la bombe</Value>
+		<Value>使用XXX爆弾ブースター</Value>
+		<Value>사용 XXX 폭탄 부스터</Value>
+		<Value>使用XXX炸弹助推器</Value>
+		<Value>Gebruik xxx bom boosters</Value>
+		<Value>Verwenden Sie xxx Bombe Booster</Value>
+		<Value>Utilizzare xxx booster bomba</Value>
+		<Value>Use xxx boosters bomba</Value>
+		<Value>Используйте ххх бомбы бустеры</Value>
+		<Value>Utilizzare xxx refuerzo bomba</Value>
+	</Translation>
+	<Translation key="task_use_headstart">
+		<Value>Use xxx starter boosters</Value>
+		<Value>Sự dụng xxx headstart booster</Value>
+		<Value>Utilisez xxx boosters de démarrage</Value>
+		<Value>使用xxxのスターターブースター</Value>
+		<Value>사용 스타터 부스터 xxx는</Value>
+		<Value>中使用XXX起动助推器</Value>
+		<Value>Gebruik xxx starter boosters</Value>
+		<Value>Verwenden Sie xxx Starter-Booster</Value>
+		<Value>XXX booster di avviamento</Value>
+		<Value>Use xxx boosters arranque</Value>
+		<Value>Использование ххх стартера бустеры</Value>
+		<Value>XXX refuerzo di avviamento</Value>
+	</Translation>
+	<Translation key="task_use_shuffle">
+		<Value>Use xxx shuffle</Value>
+		<Value>Sự dung xxx booster trộn</Value>
+		<Value>Utiliser xxx aléatoire</Value>
+		<Value>使用xxxのシャッフル</Value>
+		<Value>사용 XXX 셔플</Value>
+		<Value>使用XXX洗牌</Value>
+		<Value>Gebruik xxx shuffle</Value>
+		<Value>Verwenden Sie xxx Shuffle</Value>
+		<Value>Usa xxx riordino</Value>
+		<Value>Use xxx Shuffle</Value>
+		<Value>Использование хой перетасовка</Value>
+		<Value>riordino EE.UU. xxx</Value>
+	</Translation>
+	<Translation key="task_use_hammer">
+		<Value>Use xxx Magic Hammer</Value>
+		<Value>Sử dụng xxx Búa phép thuật</Value>
+		<Value>Utilisez Magic Marteau</Value>
+		<Value>使用XXXマジックハン​​マー</Value>
+		<Value>사용 XXX 매직 해머</Value>
+		<Value>使用XXX魔法锤</Value>
+		<Value>Gebruik xxx Magic Hammer</Value>
+		<Value>Verwenden Sie xxx Magie Hammer</Value>
+		<Value>Usa xxx Magia Hammer</Value>
+		<Value>Use xxx martelo mágico</Value>
+		<Value>Используйте ххх Волшебный молот</Value>
+		<Value>EE.UU. xxx Magia martillo</Value>
+	</Translation>
+	<Translation key="task_use_vrocket">
+		<Value>Use xxx Vertical Rocket</Value>
+		<Value>Sử dụng xxx rocket dọc</Value>
+		<Value>Utiliser xxx verticale Rocket</Value>
+		<Value>使用XXX垂直ロケット</Value>
+		<Value>사용 XXX 수직 로켓</Value>
+		<Value>使用XXX垂直火箭</Value>
+		<Value>Gebruik xxx Vertical Rocket</Value>
+		<Value>Verwenden Sie xxx Vertikale Rakete</Value>
+		<Value>Rocket Usa xxx verticale</Value>
+		<Value>Foguete Use xxx Vertical</Value>
+		<Value>Использование ххх Vertical Rocket</Value>
+		<Value>Usa cohete xxx verticale</Value>
+	</Translation>
+	<Translation key="task_use_hrocket">
+		<Value>Use xxx Horizontal Rocket</Value>
+		<Value>Sử dụng xxx rocket ngang</Value>
+		<Value>Utiliser xxx Rocket horizontal</Value>
+		<Value>使用XXX水平ロケット</Value>
+		<Value>사용 XXX 수평 로켓</Value>
+		<Value>使用XXX卧式火箭</Value>
+		<Value>Gebruik xxx Horizontale Rocket</Value>
+		<Value>Verwenden Sie xxx Horizontal Rakete</Value>
+		<Value>Rocket Usa xxx orizzontale</Value>
+		<Value>Foguete Use xxx Horizontal</Value>
+		<Value>Использование ххх Горизонтальные Rocket</Value>
+		<Value>Usa cohete orizzontale xxx</Value>
+	</Translation>
+	<Translation key="task_use_candy">
+		<Value>Use xxx Candy Bomb</Value>
+		<Value>Sử dụng xxx bomb</Value>
+		<Value>Utilisez xxx bonbons bombe</Value>
+		<Value>使用XXXキャンディ爆弾</Value>
+		<Value>사용 XXX 캔디 폭탄</Value>
+		<Value>使用XXX糖果炸弹</Value>
+		<Value>Gebruik xxx Candy Bomb</Value>
+		<Value>Verwenden Sie xxx Süßigkeit Bombe</Value>
+		<Value>Usa xxx Candy Bomb</Value>
+		<Value>Use xxx Doce bomba</Value>
+		<Value>Используйте ххх Candy Bomb</Value>
+		<Value>EE.UU. xxx caramelo Bomba</Value>
+	</Translation>
+	<Translation key="task_trigger_vrocket">
+		<Value>Trigger xxx Vertical Rocket</Value>
+		<Value>Kích hoạt xxx rocket dọc</Value>
+		<Value>Trigger xxx vertical Rocket</Value>
+		<Value>トリガーXXX垂直ロケット</Value>
+		<Value>트리거 XXX 수직 로켓</Value>
+		<Value>触发XXX垂直火箭</Value>
+		<Value>Trigger xxx Vertical Rocket</Value>
+		<Value>Trigger xxx Vertikale Rakete</Value>
+		<Value>Rocket trigger xxx verticale</Value>
+		<Value>Foguete gatilho xxx Vertical</Value>
+		<Value>Trigger ххх Вертикальная Ракетно</Value>
+		<Value>Rocket gatillo xxx verticale</Value>
+	</Translation>
+	<Translation key="task_trigger_hrocket">
+		<Value>Trigger xxx Horizontal Rocket</Value>
+		<Value>Kích hoạt xxx rocket ngang</Value>
+		<Value>Trigger Rocket horizontale</Value>
+		<Value>トリガーxxxの水平ロケット</Value>
+		<Value>트리거 XXX 수평 로켓</Value>
+		<Value>触发XXX卧式火箭</Value>
+		<Value>Trigger xxx Horizontale Rocket</Value>
+		<Value>Trigger xxx Horizontal Rakete</Value>
+		<Value>Trigger xxx Rocket orizzontale</Value>
+		<Value>Foguete Horizontal gatilho xxx</Value>
+		<Value>Триггер ххх Горизонтальные Ракетно</Value>
+		<Value>Gatillo xxx orizzontale Rocket</Value>
+	</Translation>
+	<Translation key="task_trigger_bomb">
+		<Value>Trigger xxx Bomb</Value>
+		<Value>Kích hoạt xxx bomb</Value>
+		<Value>Bomb Trigger</Value>
+		<Value>トリガーxxxの爆弾</Value>
+		<Value>트리거 XXX 폭탄</Value>
+		<Value>触发XXX炸弹</Value>
+		<Value>Trigger xxx Bomb</Value>
+		<Value>Trigger xxx Bomb</Value>
+		<Value>Trigger xxx Bomb</Value>
+		<Value>Bomba gatilho xxx</Value>
+		<Value>Триггер ххх бомба</Value>
+		<Value>Bomba gatillo xxx</Value>
+	</Translation>
+	<Translation key="task_trigger_rainbow">
+		<Value>Trigger xxx Rainbow</Value>
+		<Value>Kích hoạt xxx Rainbow</Value>
+		<Value>Rainbow Trigger</Value>
+		<Value>トリガーxxxの虹</Value>
+		<Value>트리거 XXX 레인보우</Value>
+		<Value>触发XXX彩虹</Value>
+		<Value>Trigger xxx Rainbow</Value>
+		<Value>Trigger xxx Regenbogen</Value>
+		<Value>Grilletto xxx arcobaleno</Value>
+		<Value>Gatilho xxx do arco-íris</Value>
+		<Value>Триггер ххх Радуга</Value>
+		<Value>Grilletto xxx arcobaleno</Value>
+	</Translation>
+	<Translation key="task_clear_level">
+		<Value>Clear xxx Levels</Value>
+		<Value>Chiến thắng xxx cấp độ</Value>
+		<Value>Niveaux Effacer xxx</Value>
+		<Value>クリアxxxのレベル</Value>
+		<Value>클리어 XXX 수준</Value>
+		<Value>清除XXX级别</Value>
+		<Value>Clear xxx Levels</Value>
+		<Value>Klar xxx Levels</Value>
+		<Value>Livelli xxx Cancella</Value>
+		<Value>Níveis de xxx claras</Value>
+		<Value>Очистить Уровни ххх</Value>
+		<Value>Livelli xxx Cancelar</Value>
+	</Translation>
+	<Translation key="task_earn_gem">
+		<Value>Earn xxx Gems</Value>
+		<Value>Kiếm xxx gem</Value>
+		<Value>Gagnez Gems xxx</Value>
+		<Value>xxxの宝石を獲得</Value>
+		<Value>XXX 보석을 창출</Value>
+		<Value>赚取XXX宝石</Value>
+		<Value>Verdien xxx Gems</Value>
+		<Value>Verdienen xxx Gems</Value>
+		<Value>Guadagna Gems xxx</Value>
+		<Value>Ganhe Gems xxx</Value>
+		<Value>Заработать ххх Gems</Value>
+		<Value>xxx Guadagna Gems</Value>
+	</Translation>
+	<Translation key="task_decor">
+		<Value>Decor xxx Items</Value>
+		<Value>Trang trí xxx đồ vật</Value>
+		<Value>Décor xxx Articles</Value>
+		<Value>インテリアxxxの項目</Value>
+		<Value>장식 XXX 항목</Value>
+		<Value>装饰XXX个项目</Value>
+		<Value>Decor xxx Items</Value>
+		<Value>Dekor xxx Artikel</Value>
+		<Value>Decor xxx Articoli</Value>
+		<Value>Decor XXX itens</Value>
+		<Value>Декор ххх товары</Value>
+		<Value>Decoración xxx Articoli</Value>
+	</Translation>
+	<Translation key="task_spend_gem">
+		<Value>Spend xxx Gems</Value>
+		<Value>Sử dụng xxx gem</Value>
+		<Value>Passez Gems xxx</Value>
+		<Value>xxxの宝石を過ごします</Value>
+		<Value>XXX 보석을 보내</Value>
+		<Value>花XXX宝石</Value>
+		<Value>Breng xxx Gems</Value>
+		<Value>Verbringen xxx Gems</Value>
+		<Value>Spendere Gems xxx</Value>
+		<Value>Passe Gems xxx</Value>
+		<Value>Проведите ххх Gems</Value>
+		<Value>xxx spendere Gems</Value>
+	</Translation>
+	<Translation key="task_lose_level">
+		<Value>Lose xxx Levels</Value>
+		<Value>Thua xxx cấp độ</Value>
+		<Value>Niveaux lose xxx</Value>
+		<Value>失うxxxのレベル</Value>
+		<Value>잃을 XXX 수준</Value>
+		<Value>失去XXX级别</Value>
+		<Value>Verlies xxx Levels</Value>
+		<Value>Verliere xxx Levels</Value>
+		<Value>Livelli xxx Lose</Value>
+		<Value>Níveis de xxx perder</Value>
+		<Value>Потерять Уровни ххх</Value>
+		<Value>Pierde livelli xxx</Value>
+	</Translation>
+	<Translation key="task_win_streak">
+		<Value>Win xxx Levels without losing</Value>
+		<Value>Thắng xxx cấp độ liên tiếp</Value>
+		<Value>Gagnez xxx niveaux sans perdre</Value>
+		<Value>勝利は、失うことなく、レベルをxxxは</Value>
+		<Value>상금 잃지 않고 레벨을 xxx는</Value>
+		<Value>赢的xxx水平不失</Value>
+		<Value>Win xxx Levels zonder verlies</Value>
+		<Value>Win xxx Levels ohne zu verlieren</Value>
+		<Value>Win xxx livelli senza perdere</Value>
+		<Value>Win xxx níveis sem perder</Value>
+		<Value>Win ххх уровней без потери</Value>
+		<Value>Win xxx livelli senza perdere</Value>
+	</Translation>
+	<Translation key="task_win_5moves">
+		<Value>Win xxx Levels with more than 5 moves left</Value>
+		<Value>Thắng xxx cấp độ dư nhiều hơn 5 move</Value>
+		<Value>Gagnez xxx niveaux avec plus de 5 déplace vers la gauche</Value>
+		<Value>勝利は、左の5つの以上の動きでレベルをxxxは</Value>
+		<Value>승리는 왼쪽으로 5 개 이상의 이동과 수준을 xxx는</Value>
+		<Value>赢的xxx水平与左超过5个移动</Value>
+		<Value>Win xxx Levels met meer dan 5 beweegt naar links</Value>
+		<Value>Win xxx Levels mit mehr als 5 bewegt sich nach links</Value>
+		<Value>Win xxx livelli con più di 5 si muove a sinistra</Value>
+		<Value>Win xxx níveis com mais de 5 movimentos esquerda</Value>
+		<Value>Win ххх уровней с более чем 5 перемещалась влево</Value>
+		<Value>Win xxx livelli con hace más de 5 si muove una sinistra</Value>
+	</Translation>
+	<Translation key="buy">
+		<Value>Buy</Value>
+		<Value>Mua</Value>
+		<Value>Acheter</Value>
+		<Value>購入</Value>
+		<Value>구입</Value>
+		<Value>买</Value>
+		<Value>Kopen</Value>
+		<Value>Kaufen</Value>
+		<Value>Acquistare</Value>
+		<Value>Comprar</Value>
+		<Value>Купить</Value>
+		<Value>acquistare</Value>
+	</Translation>
+	<Translation key="bomb_name">
+		<Value>Jewel Bomb</Value>
+		<Value>Jewel Bomb</Value>
+		<Value>Bombe Jewel</Value>
+		<Value>ジュエル爆弾</Value>
+		<Value>보석 폭탄</Value>
+		<Value>宝石炸弹</Value>
+		<Value>Jewel Bomb</Value>
+		<Value>Jewel Bomb</Value>
+		<Value>Jewel Bomb</Value>
+		<Value>Jewel bomba</Value>
+		<Value>Jewel Bomb</Value>
+		<Value>Jewel bomba</Value>
+	</Translation>
+	<Translation key="bomb_guide">
+		<Value>Jewel Bomb explode to get rid of all the jewel entangled in a level</Value>
+		<Value>Jewel Bomb phát nổ xóa sạch kim cương trong 1 cấp độ</Value>
+		<Value>Jewel bombe explose pour se débarrasser de tout le joyau empêtré dans un niveau</Value>
+		<Value>ジュエル爆弾はレベルに巻き込ますべての宝石を取り除くために爆発します</Value>
+		<Value>보석 폭탄 수준에 얽혀있는 모든 보석을 제거하는 폭발</Value>
+		<Value>宝石炸弹爆炸摆脱所有纠缠在一个水平上的宝石</Value>
+		<Value>Jewel bom ontploffen om zich te ontdoen van al het juweel verstrikt in een level</Value>
+		<Value>Jewel Bombe explodiert alle Juwels in einer Ebene verstrickt, um loszuwerden,</Value>
+		<Value>Jewel bomba esplode a sbarazzarsi di tutti il ​​gioiello impigliato in un livello</Value>
+		<Value>Jewel bomba explodir para se livrar de toda a jóia enredado em um nível</Value>
+		<Value>Jewel бомба взрывается, чтобы избавиться от всех драгоценности запутавшись в уровне</Value>
+		<Value>Jewel bomba esplode un sbarazzarsi di tutti il ​​gioiello impigliato en livello ONU</Value>
+	</Translation>
+	<Translation key="hammer_name">
+		<Value>Jewel Hammer</Value>
+		<Value>Jewel Hammer</Value>
+		<Value>Jewel Marteau</Value>
+		<Value>ジュエルハンマー</Value>
+		<Value>보석 해머</Value>
+		<Value>宝石锤</Value>
+		<Value>Jewel Hammer</Value>
+		<Value>Jewel Hammer</Value>
+		<Value>Jewel Hammer</Value>
+		<Value>Jewel Martelo</Value>
+		<Value>Jewel Молоток</Value>
+		<Value>Jewel Martillo</Value>
+	</Translation>
+	<Translation key="hammer_guide">
+		<Value>This Jewel Hammer can crush any jewel or obstacles</Value>
+		<Value>Jewel Hammer có thể nghiền nát 1 kim cương hoặc chướng ngại vậy</Value>
+		<Value>Ce bijou marteau peut écraser tout bijou ou obstacles</Value>
+		<Value>このジュエルハンマーはどんな宝石や障害物を粉砕することができます</Value>
+		<Value>이 보석 해머는 보석이나 장애물을 부술 수 있습니다</Value>
+		<Value>这个宝石锤可以粉碎任何宝石或障碍</Value>
+		<Value>Dit Jewel Hammer kan elk sieraad of obstakels te verpletteren</Value>
+		<Value>Dieses Juwel Hammer kann jedes Juwel oder Hindernisse zerquetschen</Value>
+		<Value>Questo martello gioiello può schiacciare qualsiasi gioiello o ostacoli</Value>
+		<Value>Este martelo Jewel pode esmagar qualquer jóia ou obstáculos</Value>
+		<Value>Это Jewel Молот может раздавить любой драгоценный камень или препятствие</Value>
+		<Value>Questo martello gioiello può schiacciare qualsiasi gioiello o ostacoli</Value>
+	</Translation>
+	<Translation key="h_rocket_name">
+		<Value>Horizontal Jewel Rocket</Value>
+		<Value>Jewel Rocket ngang</Value>
+		<Value>Rocket horizontale Jewel</Value>
+		<Value>水平ジュエルロケット</Value>
+		<Value>수평 보석 로켓</Value>
+		<Value>卧式宝石火箭</Value>
+		<Value>Horizontale Jewel Rocket</Value>
+		<Value>Horizontal Jewel Rakete</Value>
+		<Value>Orizzontale Gioiello Rocket</Value>
+		<Value>Horizontal Jewel foguete</Value>
+		<Value>Горизонтальная Jewel Rocket</Value>
+		<Value>Rocket orizzontale Gioiello</Value>
+	</Translation>
+	<Translation key="h_rocket_guide">
+		<Value>This Jewel Rocket crush all jewels and obstacles in a horizontal row</Value>
+		<Value>Jewel Rocket này đè bẹp tất cả chướng ngại vật theo hàng ngang</Value>
+		<Value>Ce Jewel Rocket écraser tous les bijoux et les obstacles dans une rangée horizontale</Value>
+		<Value>このジュエルロケットは、横一列にすべての宝石や障害をつぶします</Value>
+		<Value>이 보석 로켓은 가로 행에있는 모든 보석과 장애물을 부술</Value>
+		<Value>这个宝石火箭粉碎所有的珠宝和障碍水平行</Value>
+		<Value>Dit Jewel Rocket verpletteren alle juwelen en obstakels in een horizontale rij</Value>
+		<Value>Dieses Juwel Rakete zermalmt alle Steine ​​und Hindernisse in einer horizontalen Reihe</Value>
+		<Value>Questo Rocket gioiello schiacciare tutti i gioielli e gli ostacoli in una fila orizzontale</Value>
+		<Value>Este foguete Jewel esmagar todas as jóias e os obstáculos em uma linha horizontal</Value>
+		<Value>Это Jewel Ракетно раздавить все драгоценные камни и препятствия в горизонтальном ряду</Value>
+		<Value>Questo Rocket gioiello schiacciare tutti i gioielli e gli ostacoli in una fila orizzontale</Value>
+	</Translation>
+	<Translation key="v_rocket_name">
+		<Value>Vertical Jewel Rocket</Value>
+		<Value>Jewel Rocket dọc</Value>
+		<Value>Rocket vertical Jewel</Value>
+		<Value>垂直ジュエルロケット</Value>
+		<Value>수직 보석 로켓</Value>
+		<Value>垂直宝石火箭</Value>
+		<Value>Vertical Jewel Rocket</Value>
+		<Value>Vertikal Jewel Rakete</Value>
+		<Value>Vertical Jewel Rocket</Value>
+		<Value>Vertical Jewel foguete</Value>
+		<Value>Вертикальная Jewel Rocket</Value>
+		<Value>Rocket Jewel Vertical</Value>
+	</Translation>
+	<Translation key="v_rocket_guide">
+		<Value>This Jewel Rocket crush all jewels and obstacles in a vertical column</Value>
+		<Value>Jewel Rocket này đè bẹp tất cả chướng ngại vật theo hàng dọc</Value>
+		<Value>Ce Jewel Rocket écraser tous les bijoux et les obstacles dans une colonne verticale</Value>
+		<Value>このジュエルロケットは、垂直列内のすべての宝石や障害をつぶします</Value>
+		<Value>이 보석 로켓이 수직 열에서 모든 보석과 장애물을 부술</Value>
+		<Value>这个宝石火箭粉碎所有的珠宝和障碍在垂直列</Value>
+		<Value>Dit Jewel Rocket verpletteren alle juwelen en obstakels in een verticale kolom</Value>
+		<Value>Dieses Juwel Rakete zermalmt alle Steine ​​und Hindernisse in einer vertikalen Spalte</Value>
+		<Value>Questo Rocket gioiello schiacciare tutti i gioielli e gli ostacoli in una colonna verticale</Value>
+		<Value>Este foguete Jewel esmagar todas as jóias e os obstáculos em uma coluna vertical</Value>
+		<Value>Это Jewel Ракетно раздавить все драгоценные камни и препятствия в вертикальной колонне</Value>
+		<Value>Questo Rocket gioiello schiacciare tutti i gioielli e gli ostacoli in una Colonna verticale</Value>
+	</Translation>
+	<Translation key="piggy_bank">
+		<Value>Piggy Bank</Value>
+		<Value>Heo đất</Value>
+		<Value>Tirelire</Value>
+		<Value>貯金箱</Value>
+		<Value>돼지 저금통</Value>
+		<Value>储蓄罐</Value>
+		<Value>Spaarvarken</Value>
+		<Value>Sparschwein</Value>
+		<Value>Salvadanaio</Value>
+		<Value>Cofrinho</Value>
+		<Value>Копилка</Value>
+		<Value>salvadanaio</Value>
+	</Translation>
+	<Translation key="piggy_bank_guide">
+		<Value>Win levels and stash at least 300 gems to buy the Piggy Bank.Go challenge to earn more gems</Value>
+		<Value>Thắng các cấp độ và tích lũy ít nhất 300 gem để mua PiggyBank. Thử thách để kiếm thêm gem</Value>
+		<Value>Gagnez des niveaux et Stash au moins 300 pierres précieuses pour acheter le défi Piggy Bank.Go pour gagner plus de pierres précieuses</Value>
+		<Value>より多くの宝石を稼ぐためにピギーBank.Goチャレンジを購入するために、少なくとも300の宝石のレベルとstashを獲得</Value>
+		<Value>더 보석을 적립 돼지 Bank.Go 도전을 구입하는 최소 300 개 보석 수준 및 은닉 승리</Value>
+		<Value>赢得水平和存储至少300颗宝石买小猪Bank.Go挑战，以赚取更多的宝石</Value>
+		<Value>Win niveaus en stash minstens 300 edelstenen om de Piggy Bank.Go uitdaging te kopen om meer edelstenen te verdienen</Value>
+		<Value>Gewinnen Sie Ebenen und Stash mindestens 300 Edelsteine, die Piggy Bank.Go Herausforderung zu kaufen mehr Edelsteine ​​verdienen</Value>
+		<Value>Vinci i livelli e scorta almeno 300 gemme per comprare la sfida Piggy Bank.Go per guadagnare più gemme</Value>
+		<Value>Ganhar níveis e estoque pelo menos 300 gemas para comprar o desafio Piggy Bank.Go para ganhar mais gemas</Value>
+		<Value>Победить уровни и притон по крайней мере, 300 драгоценных камней, чтобы купить вызов Piggy Bank.Go, чтобы заработать больше драгоценных камней</Value>
+		<Value>Vinci i livelli e scorta almeno 300 gemme por comprare la sfida Piggy Bank.Go por guadagnare più gemme</Value>
+	</Translation>
+	<Translation key="piggy_bank_full">
+		<Value>Your piggy bank is full. Smash it to get the reward.</Value>
+		<Value>Heo đất đã đầy. Đập luôn để lấy phần thưởng</Value>
+		<Value>Votre tirelire est pleine. Smash pour obtenir la récompense.</Value>
+		<Value>あなたの貯金箱がいっぱいです。報酬を得るためにそれを粉砕。</Value>
+		<Value>귀하의 돼지 저금통이 꽉 찼습니다. 보상을 얻기 위해 그것을 분쇄.</Value>
+		<Value>你的储蓄罐已满。粉碎它获得的报酬。</Value>
+		<Value>Uw spaarpot is vol. Breek het aan de beloning te krijgen.</Value>
+		<Value>Ihr Sparschwein voll ist. Smash es die Belohnung zu erhalten.</Value>
+		<Value>Il tuo salvadanaio è pieno. Smash per ottenere la ricompensa.</Value>
+		<Value>Seu cofrinho está cheio. Esmagá-lo para obter a recompensa.</Value>
+		<Value>Ваша копилка полон. Разбейте его, чтобы получить награду.</Value>
+		<Value>È il tuo salvadanaio pieno. Choque por ottenere La ricompensa.</Value>
+	</Translation>
+	<Translation key="continue_decorate">
+		<Value>Continue to decorate the room to unlock</Value>
+		<Value>Tiếp tục để trang trí phòng để mở khóa</Value>
+		<Value>Continuer à décorer la pièce pour déverrouiller</Value>
+		<Value>ロックを解除するために部屋を飾るために続行</Value>
+		<Value>잠금 해제로 방을 장식 계속</Value>
+		<Value>继续装点房间解锁</Value>
+		<Value>Doorgaan naar de kamer om unlock versieren</Value>
+		<Value>Weiter um den Raum zu entsperren dekorieren</Value>
+		<Value>Continuare a decorare la stanza per sbloccare</Value>
+		<Value>Continue a decorar o quarto para desbloquear</Value>
+		<Value>Продолжить, чтобы украсить комнату, чтобы разблокировать</Value>
+		<Value>Continuare un decorare la stanza por sbloccare</Value>
+	</Translation>
+	<Translation key="get_more_gems">
+		<Value>Get more gems</Value>
+		<Value>Nhận nhiều gem hơn</Value>
+		<Value>Plus gemmes</Value>
+		<Value>より多くの宝石を入手</Value>
+		<Value>더 보석을 가져 오기</Value>
+		<Value>获取更多的宝石</Value>
+		<Value>Haal meer edelstenen</Value>
+		<Value>Mehr Edelsteine</Value>
+		<Value>Chiedere gemme</Value>
+		<Value>Obter mais pedras</Value>
+		<Value>Получить больше драгоценных камней</Value>
+		<Value>gemme chiedere</Value>
+	</Translation>
+	<Translation key="champion_pack">
+		<Value>Champion Pack</Value>
+		<Value>Gói Champion</Value>
+		<Value>champion Paquet</Value>
+		<Value>チャンピオンパック</Value>
+		<Value>챔피언 팩</Value>
+		<Value>冠军包</Value>
+		<Value>Champion Pack</Value>
+		<Value>Champion-Pack</Value>
+		<Value>Busta dei Campioni</Value>
+		<Value>campeão do pacote</Value>
+		<Value>Чемпион обновления</Value>
+		<Value>Busta dei Campioni</Value>
+	</Translation>
+	<Translation key="legend_pack">
+		<Value>Legend Pack</Value>
+		<Value>Gói Legend</Value>
+		<Value>légende Paquet</Value>
+		<Value>レジェンドパック</Value>
+		<Value>전설 팩</Value>
+		<Value>联想包</Value>
+		<Value>Legend Pack</Value>
+		<Value>Legend-Pack</Value>
+		<Value>leggenda Confezione</Value>
+		<Value>Legend pacote</Value>
+		<Value>Легенда обновления</Value>
+		<Value>leggenda Confezione</Value>
+	</Translation>
+	<Translation key="master_pack">
+		<Value>Master Pack</Value>
+		<Value>Gói Master</Value>
+		<Value>Emballage en</Value>
+		<Value>マスターパック</Value>
+		<Value>마스터 팩</Value>
+		<Value>主包装</Value>
+		<Value>Master Pack</Value>
+		<Value>Master Pack</Value>
+		<Value>Confezione standard</Value>
+		<Value>mestre Pacote</Value>
+		<Value>Мастер обновления</Value>
+		<Value>estándar confezione</Value>
+	</Translation>
+	<Translation key="best_value">
+		<Value>Best Value</Value>
+		<Value>Giá trị tốt nhất</Value>
+		<Value>Meilleure valeur</Value>
+		<Value>お買い得</Value>
+		<Value>최고의 가치</Value>
+		<Value>最超值</Value>
+		<Value>Beste waarde</Value>
+		<Value>best Value</Value>
+		<Value>Miglior valore</Value>
+		<Value>Melhor valor</Value>
+		<Value>Лучшее значение</Value>
+		<Value>valore mIGLIOR</Value>
+	</Translation>
+	<Translation key="most_popular">
+		<Value>Most Popular</Value>
+		<Value>Phổ biến nhất</Value>
+		<Value>Le plus populaire</Value>
+		<Value>最も人気のある</Value>
+		<Value>가장 인기있는</Value>
+		<Value>最受欢迎</Value>
+		<Value>Meest populair</Value>
+		<Value>Am beliebtesten</Value>
+		<Value>Più popolare</Value>
+		<Value>Mais popular</Value>
+		<Value>Самый популярный</Value>
+		<Value>Popolare più</Value>
+	</Translation>
+	<Translation key="level">
+		<Value>Level</Value>
+		<Value>Cấp độ</Value>
+		<Value>Niveau</Value>
+		<Value>レベル</Value>
+		<Value>수평</Value>
+		<Value>等级</Value>
+		<Value>Niveau</Value>
+		<Value>Niveau</Value>
+		<Value>Livello</Value>
+		<Value>Nível</Value>
+		<Value>Уровень</Value>
+		<Value>livello</Value>
+	</Translation>
+	<Translation key="select_booster">
+		<Value>Select Boosters</Value>
+		<Value>Chọn booster</Value>
+		<Value>Choisir amplificateurs</Value>
+		<Value>ブースターを選択</Value>
+		<Value>선택 부스터</Value>
+		<Value>选择助推器</Value>
+		<Value>Select Boosters</Value>
+		<Value>Wählen Sie Boosters</Value>
+		<Value>Selezionare i booster</Value>
+		<Value>Seleccione Boosters</Value>
+		<Value>Выберите бустеры</Value>
+		<Value>Selezionare i refuerzo</Value>
+	</Translation>
+	<Translation key="out_of_moves">
+		<Value>Out of Moves!</Value>
+		<Value>Hết lượt</Value>
+		<Value>Out of Moves!</Value>
+		<Value>移動のアウト！</Value>
+		<Value>이동 중!</Value>
+		<Value>出招式！</Value>
+		<Value>Geen zetten meer!</Value>
+		<Value>Aus Moves!</Value>
+		<Value>Fuori di mosse!</Value>
+		<Value>Fora de movimentos!</Value>
+		<Value>Из Moves!</Value>
+		<Value>Fuori di mosse!</Value>
+	</Translation>
+	<Translation key="you_lose">
+		<Value>Opps! You still need to collect</Value>
+		<Value>Opps! Bạn vẫn cần phải thu thập</Value>
+		<Value>Opps! Vous avez encore besoin de recueillir</Value>
+		<Value>OPPS！あなたはまだ収集する必要があります</Value>
+		<Value>OPPS! 당신은 여전히 ​​수집해야</Value>
+		<Value>哎呀！您还需要收集</Value>
+		<Value>Oeps! Je moet nog om te verzamelen</Value>
+		<Value>Upps! Sie müssen noch sammeln</Value>
+		<Value>Opps! Hai ancora bisogno di raccogliere</Value>
+		<Value>Opps! Você ainda precisa coletar</Value>
+		<Value>Opps! Вы все еще нужно собрать</Value>
+		<Value>Opps! Hai ancora di Bisogno raccogliere</Value>
+	</Translation>
+	<Translation key="play_on">
+		<Value>Play on</Value>
+		<Value>Tiếp tục</Value>
+		<Value>Jouer sur</Value>
+		<Value>上の再生</Value>
+		<Value>에 대한 재생</Value>
+		<Value>上播放</Value>
+		<Value>Afspelen op</Value>
+		<Value>Weiterspielen</Value>
+		<Value>giocare su</Value>
+		<Value>jogar em</Value>
+		<Value>Играть</Value>
+		<Value>giocare Do</Value>
+	</Translation>
+	<Translation key="target">
+		<Value>Target</Value>
+		<Value>Mục tiêu</Value>
+		<Value>Cibler</Value>
+		<Value>目標</Value>
+		<Value>표적</Value>
+		<Value>目标</Value>
+		<Value>Doelwit</Value>
+		<Value>Ziel</Value>
+		<Value>Bersaglio</Value>
+		<Value>Alvo</Value>
+		<Value>Цель</Value>
+		<Value>bersaglio</Value>
+	</Translation>
+	<Translation key="give_up">
+		<Value>Give up</Value>
+		<Value>Bỏ cuộc</Value>
+		<Value>Abandonner</Value>
+		<Value>あきらめる</Value>
+		<Value>포기</Value>
+		<Value>放弃</Value>
+		<Value>Geef op</Value>
+		<Value>Gib auf</Value>
+		<Value>Abbandonare</Value>
+		<Value>Desistir</Value>
+		<Value>Сдаться</Value>
+		<Value>abbandonare</Value>
+	</Translation>
+	<Translation key="give_up_cost">
+		<Value>Give up will cost one hearts</Value>
+		<Value>Tử bỏ sẽ mất một mạng</Value>
+		<Value>Abandonnez vous coûtera un cœur</Value>
+		<Value>1心の費用がかかりますあきらめます</Value>
+		<Value>하나의 마음을 비용 포기</Value>
+		<Value>放弃将花费一个心</Value>
+		<Value>Geven zal men harten kosten</Value>
+		<Value>Aufgeben wird ein Herz kosten</Value>
+		<Value>Rinunciare costerà uno cuori</Value>
+		<Value>Desista vai custar um coração</Value>
+		<Value>Откажитесь будет стоить один сердца</Value>
+		<Value>Rinunciare Costera uno cuori</Value>
+	</Translation>
+	<Translation key="re_play">
+		<Value>Replay</Value>
+		<Value>Chơi lại</Value>
+		<Value>Rejouer</Value>
+		<Value>リプレイ</Value>
+		<Value>다시 하다</Value>
+		<Value>重播</Value>
+		<Value>Herhaling</Value>
+		<Value>Wiederholung</Value>
+		<Value>Replay</Value>
+		<Value>Repetição</Value>
+		<Value>переигровка</Value>
+		<Value>Repetición</Value>
+	</Translation>
+	<Translation key="home_menu">
+		<Value>Home Menu</Value>
+		<Value>Nhà</Value>
+		<Value>Menu Accueil</Value>
+		<Value>ホームメニュー</Value>
+		<Value>홈 메뉴</Value>
+		<Value>主菜单</Value>
+		<Value>Menu Home</Value>
+		<Value>Home Menu</Value>
+		<Value>HOME MENU</Value>
+		<Value>menu Home</Value>
+		<Value>Главное меню</Value>
+		<Value>MENÚ PRINCIPAL</Value>
+	</Translation>
+	<Translation key="free_gems_today">
+		<Value>Free Gems Today</Value>
+		<Value>Gem miễn phí hôm nay</Value>
+		<Value>Gems Today gratuit</Value>
+		<Value>無料宝石今日</Value>
+		<Value>무료 보석 오늘</Value>
+		<Value>免费宝石今天</Value>
+		<Value>Gratis Gems Vandaag</Value>
+		<Value>Freies Gems Heute</Value>
+		<Value>Libero Gems Oggi</Value>
+		<Value>Livre Gems Hoje</Value>
+		<Value>Free Gems Сегодня</Value>
+		<Value>Libero Gems Oggi</Value>
+	</Translation>
+	<Translation key="get_it">
+		<Value>Get it</Value>
+		<Value>Nhận</Value>
+		<Value>Tu piges</Value>
+		<Value>それを得る</Value>
+		<Value>그것을 얻기</Value>
+		<Value>得到它</Value>
+		<Value>Snap je</Value>
+		<Value>Kapiert</Value>
+		<Value>Prendilo</Value>
+		<Value>Pegue</Value>
+		<Value>Возьми</Value>
+		<Value>Prendilo</Value>
+	</Translation>
+	<Translation key="daily_reward">
+		<Value>Daily Reward</Value>
+		<Value>Phần thưởng hằng ngày</Value>
+		<Value>Récompense quotidienne</Value>
+		<Value>デイリー報酬</Value>
+		<Value>매일 보상</Value>
+		<Value>每日奖励</Value>
+		<Value>Dagelijkse beloning</Value>
+		<Value>Tägliche Belohnung</Value>
+		<Value>Ricompensa giornaliera</Value>
+		<Value>Recompensa diária</Value>
+		<Value>Daily Reward</Value>
+		<Value>giornaliera ricompensa</Value>
+	</Translation>
+	<Translation key="day">
+		<Value>Day</Value>
+		<Value>Ngày</Value>
+		<Value>Jour</Value>
+		<Value>日</Value>
+		<Value>일</Value>
+		<Value>天</Value>
+		<Value>Dag</Value>
+		<Value>Tag</Value>
+		<Value>Giorno</Value>
+		<Value>Dia</Value>
+		<Value>День</Value>
+		<Value>Giorno</Value>
+	</Translation>
+	<Translation key="reward">
+		<Value>reward</Value>
+		<Value>Phần thưởng hằng ngày</Value>
+		<Value>récompense</Value>
+		<Value>褒賞</Value>
+		<Value>보상</Value>
+		<Value>报酬</Value>
+		<Value>beloning</Value>
+		<Value>Belohnung</Value>
+		<Value>ricompensa</Value>
+		<Value>recompensa</Value>
+		<Value>награда</Value>
+		<Value>ricompensa</Value>
+	</Translation>
+	<Translation key="next_daily_reward">
+		<Value>Next daily reward in</Value>
+		<Value>Phần thưởng tiếp theo sau</Value>
+		<Value>Prochaine récompense tous les jours</Value>
+		<Value>で次の毎日の報酬</Value>
+		<Value>에서 다음 매일 보상</Value>
+		<Value>接下来每天的报酬在</Value>
+		<Value>Volgende dagelijkse beloning in</Value>
+		<Value>Weiter tägliche Belohnung in</Value>
+		<Value>Successivo ricompensa al giorno in</Value>
+		<Value>recompensa diária próxima em</Value>
+		<Value>Далее ежедневно награда</Value>
+		<Value>Successivo ricompensa al giorno en</Value>
+	</Translation>
+	<Translation key="claim">
+		<Value>Claim</Value>
+		<Value>Nhận</Value>
+		<Value>Prétendre</Value>
+		<Value>請求</Value>
+		<Value>청구</Value>
+		<Value>宣称</Value>
+		<Value>Beweren</Value>
+		<Value>Anspruch</Value>
+		<Value>Richiesta</Value>
+		<Value>Alegar</Value>
+		<Value>Требовать</Value>
+		<Value>richiesta</Value>
+	</Translation>
+	<Translation key="booster_lock">
+		<Value>Level xxx unlock</Value>
+		<Value>Cấp độ xxx mở khóa</Value>
+		<Value>Débloque le niveau xxx</Value>
+		<Value>レベルxxxのロック解除</Value>
+		<Value>레벨 XXX 잠금 해제</Value>
+		<Value>XXX级解锁</Value>
+		<Value>Level xxx unlock</Value>
+		<Value>Level xxx entsperren</Value>
+		<Value>Livello di sblocco xxx</Value>
+		<Value>desbloqueio xxx nível</Value>
+		<Value>Уровень ххх разблокировки</Value>
+		<Value>Livello di sblocco xxx</Value>
+	</Translation>
+	<Translation key="retry">
+		<Value>Retry</Value>
+		<Value>Thử lại</Value>
+		<Value>Recommencez</Value>
+		<Value>リトライ</Value>
+		<Value>다시 해 보다</Value>
+		<Value>重试</Value>
+		<Value>Opnieuw</Value>
+		<Value>Wiederholen</Value>
+		<Value>Riprova</Value>
+		<Value>Repetir</Value>
+		<Value>Retry</Value>
+		<Value>Riprova</Value>
+	</Translation>
+	<Translation key="match3_tut_1_1">
+		<Value>Match 3 the same color jewels to clear them</Value>
+		<Value>Nối 3 kim cương cùng màu để ăn</Value>
+		<Value>Match 3 les mêmes bijoux de couleur pour les effacer</Value>
+		<Value>それらをクリアするために3つの同じ色の宝石をマッチ</Value>
+		<Value>그들을 취소 3 개 같은 색의 보석을 일치</Value>
+		<Value>比赛3级相同颜色的宝石，清除它们</Value>
+		<Value>Match 3 dezelfde kleur juwelen om ze te verwijderen</Value>
+		<Value>Match 3 die gleichen Farbsteine ​​um sie zu löschen</Value>
+		<Value>Match 3 gli stessi gioielli colore per eliminarle</Value>
+		<Value>Jogo 3 das mesmas jóias cor para eliminá-los</Value>
+		<Value>Матч 3 одинаковых цветных драгоценных камней, чтобы очистить их</Value>
+		<Value>Match 3 gli stessi gioielli colore por eliminarle</Value>
+	</Translation>
+	<Translation key="match3_tut_1_2">
+		<Value>Continue to clear jewels to beat the level</Value>
+		<Value>Tiếp tục ăn kim cương để chiến thắng</Value>
+		<Value>Continuer à bijoux clairs pour battre le niveau</Value>
+		<Value>レベルを打つために明確な宝石を続行</Value>
+		<Value>수준을 이길 분명한 보석에 계속</Value>
+		<Value>继续清理珠宝击败水平</Value>
+		<Value>Doorgaan met duidelijke juwelen om het niveau te verslaan</Value>
+		<Value>Weiter zur klaren Juwel um das Niveau zu schlagen</Value>
+		<Value>Continuare a gioielli chiare per battere il livello di</Value>
+		<Value>Continue a jóias claras para bater o nível</Value>
+		<Value>Продолжить, чтобы драгоценности, чтобы бить уровень</Value>
+		<Value>Continuare un gioielli chiare por battere il livello di</Value>
+	</Translation>
+	<Translation key="match3_tut_2_1">
+		<Value>Match 4 of the same jewels to see what you get</Value>
+		<Value>Nối 4 kim cương cùng màu xem bạn có gì</Value>
+		<Value>Match 4: des mêmes bijoux pour voir ce que vous obtenez</Value>
+		<Value>あなたが得るかを確認するために同じ宝石のマッチ4</Value>
+		<Value>당신이 무엇을 얻을 확인하기 위해 같은 보석의 4 일치</Value>
+		<Value>匹配相同的宝石四看你会得到什么</Value>
+		<Value>Pas 4 van dezelfde juwelen om te zien wat je krijgt</Value>
+		<Value>Wer passt zu 4 gleiche Steine, um zu sehen, was man bekommt</Value>
+		<Value>Partita 4 degli stessi gioielli per vedere quello che si ottiene</Value>
+		<Value>Jogo 4 das mesmas jóias para ver o que você começa</Value>
+		<Value>Матч 4 одинаковых драгоценных камней, чтобы увидеть, что вы получаете</Value>
+		<Value>Partita 4 degli stessi gioielli por vedere quello che si ottiene</Value>
+	</Translation>
+	<Translation key="match3_tut_3_1">
+		<Value>You can create a bomb by matching 3 of the same jewels horizontally and vertically</Value>
+		<Value>Bạn có thể tạo bomb bằng cách nói 3 kim cương cùng màu theo hàng ngàng và dọc</Value>
+		<Value>Vous pouvez créer une bombe en faisant correspondre 3 des mêmes bijoux horizontalement et verticalement</Value>
+		<Value>あなたは、水平方向と垂直方向の同じ宝石の3を照合することによって爆弾を作成することができます</Value>
+		<Value>당신은 수평 및 수직으로 같은 보석의 3 일치하여 폭탄을 만들 수 있습니다</Value>
+		<Value>您可以通过水平和垂直匹配相同的宝石3创建一个炸弹</Value>
+		<Value>U kunt een bom te creëren door het afstemmen van 3 van dezelfde juwelen horizontaal en verticaal</Value>
+		<Value>Sie können, indem Sie 3 der gleichen Juwelen horizontal und vertikal eine Bombe erstellen</Value>
+		<Value>È possibile creare una bomba facendo corrispondere 3 degli stessi gioielli orizzontalmente e verticalmente</Value>
+		<Value>Você pode criar uma bomba, combinando 3 das mesmas jóias horizontal e verticalmente</Value>
+		<Value>Вы можете создать бомбу путем сопоставления 3 одинаковых драгоценных камней по горизонтали и по вертикали</Value>
+		<Value>È possibile creare Una bomba Facendo corrispondere 3 degli stessi gioielli e orizzontalmente verticalmente</Value>
+	</Translation>
+	<Translation key="match3_tut_4_1">
+		<Value>Some jewels are locked by Jails</Value>
+		<Value>Một số kim cương bị khóa</Value>
+		<Value>Certains bijoux sont verrouillés par Jails</Value>
+		<Value>いくつかの宝石は、刑務所でロックされています</Value>
+		<Value>일부 보석은 감옥에 의해 잠겨</Value>
+		<Value>一些珠宝是由监狱锁定</Value>
+		<Value>Sommige juwelen worden vergrendeld door Gevangenissen</Value>
+		<Value>Einige Schmuckstücke werden von Jails gesperrt</Value>
+		<Value>Alcuni gioielli sono bloccati da Carceri</Value>
+		<Value>Algumas jóias são bloqueados pelo Prisões</Value>
+		<Value>Некоторые драгоценные камни заблокированы Jails</Value>
+		<Value>Alcuni gioielli sono bloccati da Carceri</Value>
+	</Translation>
+	<Translation key="match3_tut_4_2">
+		<Value>Match jewels to break the jails</Value>
+		<Value>Nối kim cương để phá vỡ khóa</Value>
+		<Value>bijoux match pour briser les prisons</Value>
+		<Value>刑務所を破るために宝石をマッチ</Value>
+		<Value>경기는 감옥을 깨고 보석</Value>
+		<Value>匹配的宝石，打破了监狱</Value>
+		<Value>Match juwelen om de gevangenissen te breken</Value>
+		<Value>Spiel Juwelen, um die Gefängnisse zu brechen</Value>
+		<Value>Partita Gioielli di rompere le carceri</Value>
+		<Value>Jogo jóias para quebrar as cadeias</Value>
+		<Value>Матч драгоценности, чтобы разорвать тюрьмы</Value>
+		<Value>Partita Gioielli di rompere le carceri</Value>
+	</Translation>
+	<Translation key="match3_tut_5_1">
+		<Value>You can create a bomb by matching 3 of the same jewels horizontally and vertically</Value>
+		<Value>Bạn có thể tạo bomb bằng cách nói 3 kim cương cùng màu theo hàng ngàng và dọc</Value>
+		<Value>Vous pouvez créer une bombe en faisant correspondre 3 des mêmes bijoux horizontalement et verticalement</Value>
+		<Value>あなたは、水平方向と垂直方向の同じ宝石の3を照合することによって爆弾を作成することができます</Value>
+		<Value>당신은 수평 및 수직으로 같은 보석의 3 일치하여 폭탄을 만들 수 있습니다</Value>
+		<Value>您可以通过水平和垂直匹配相同的宝石3创建一个炸弹</Value>
+		<Value>U kunt een bom te creëren door het afstemmen van 3 van dezelfde juwelen horizontaal en verticaal</Value>
+		<Value>Sie können, indem Sie 3 der gleichen Juwelen horizontal und vertikal eine Bombe erstellen</Value>
+		<Value>È possibile creare una bomba facendo corrispondere 3 degli stessi gioielli orizzontalmente e verticalmente</Value>
+		<Value>Você pode criar uma bomba, combinando 3 das mesmas jóias horizontal e verticalmente</Value>
+		<Value>Вы можете создать бомбу путем сопоставления 3 одинаковых драгоценных камней по горизонтали и по вертикали</Value>
+		<Value>È possibile creare Una bomba Facendo corrispondere 3 degli stessi gioielli e orizzontalmente verticalmente</Value>
+	</Translation>
+	<Translation key="match3_tut_6_1">
+		<Value>Match 5 of the same jewels to make a Rainbow</Value>
+		<Value>Nối 5 kim cương cùng màu để tạo Rainbow</Value>
+		<Value>Match 5 des mêmes bijoux pour faire un arc-en-</Value>
+		<Value>虹を作るために同じ宝石の5と一致</Value>
+		<Value>무지개를 만들기 위해 같은 보석의 5 일치</Value>
+		<Value>匹配相同的宝石5制作彩虹</Value>
+		<Value>Pas 5 van dezelfde juwelen om een ​​regenboog te maken</Value>
+		<Value>Wer passt zu 5 derselben Juwelen einen Regenbogen zu machen</Value>
+		<Value>Abbinare 5 degli stessi gioielli per fare un arcobaleno</Value>
+		<Value>Combinar 5 dos mesmos jóias para fazer um arco-íris</Value>
+		<Value>Матч 5 одинаковых драгоценных камней, чтобы сделать радугу</Value>
+		<Value>Abbinare 5 degli stessi gioielli por la tarifa de la ONU arcobaleno</Value>
+	</Translation>
+	<Translation key="match3_tut_6_2">
+		<Value>Let us combine a rainbow with a jewel</Value>
+		<Value>Hãy thử kết hợp Rainbow với 1 kim cương</Value>
+		<Value>Associons un arc en ciel avec un bijou</Value>
+		<Value>私たちは宝石で虹を組み合わせてみよう</Value>
+		<Value>우리가 보석으로 무지개를 결합하자</Value>
+		<Value>让我们结合了彩虹宝石</Value>
+		<Value>Laten we combineren een regenboog met een juweel</Value>
+		<Value>Lassen Sie uns einen Regenbogen mit einem Juwel kombinieren</Value>
+		<Value>Cerchiamo di combinare un arcobaleno con un gioiello</Value>
+		<Value>Vamos combinar um arco-íris com uma jóia</Value>
+		<Value>Объединим радугу с драгоценным камнем</Value>
+		<Value>Cerchiamo di combinare ONU arcobaleno con un gioiello</Value>
+	</Translation>
+	<Translation key="match3_tut_8_1">
+		<Value>Match the jewels to destroy the fruit boxes next to them</Value>
+		<Value>Nối kim cương để phá hủy các hộp bên cạnh chúng</Value>
+		<Value>Faites correspondre les bijoux pour détruire les boîtes de fruits à côté d'eux</Value>
+		<Value>横に果物の箱を破壊するために宝石をマッチ</Value>
+		<Value>그 옆에있는 과일 상자를 파괴하는 보석을 일치</Value>
+		<Value>匹配的宝石，下一破坏水果拖曳</Value>
+		<Value>Zorg ervoor dat de juwelen om de vrucht vakjes naast vernietigen hen</Value>
+		<Value>Ordnen Sie die Juwelen, die Obstkisten neben sie zu zerstören</Value>
+		<Value>Abbinare i gioielli di distruggere le cassette di frutta accanto a loro</Value>
+		<Value>Combinar as jóias para destruir as caixas de frutas ao lado deles</Value>
+		<Value>Матч драгоценных камней, чтобы уничтожить фруктовые коробки рядом с ними</Value>
+		<Value>Abbinare I Gioielli di distruggere le casete di Frutta accanto un loro</Value>
+	</Translation>
+	<Translation key="match3_tut_22_1">
+		<Value>Match the jewels to spread jelly under them</Value>
+		<Value>Nối kim cương để lan truyền thạch phía dưới</Value>
+		<Value>Faites correspondre la gelée les bijoux à la propagation sous les</Value>
+		<Value>それらの下でゼリー広めるために宝石をマッチ</Value>
+		<Value>그 아래 젤리 확산에 보석을 일치</Value>
+		<Value>匹配的宝石，传播果冻下他们</Value>
+		<Value>Zorg ervoor dat de juwelen om verspreiding gelei onder hen</Value>
+		<Value>Ordnen Sie die Steine ​​zu verbreiten Gelee unter ihnen</Value>
+		<Value>Abbinare i gioielli per diffondere gelatina di sotto di loro</Value>
+		<Value>Combinar as jóias para espalhar geleia sob eles</Value>
+		<Value>Матч драгоценности распространения желе под ними</Value>
+		<Value>Abbinare I Gioielli por diffondere gelatina di sotto di loro</Value>
+	</Translation>
+	<Translation key="match3_tut_29_1">
+		<Value>We need to move these scrolls to the bottom of the map</Value>
+		<Value>Chúng ta cần di chuyện những cuốn này xuống dưới</Value>
+		<Value>Nous devons déplacer ces rouleaux au fond de la carte</Value>
+		<Value>私たちは、マップの下にこれらの巻物を移動する必要があります</Value>
+		<Value>우리는지도 하단에 다음 스크롤을 이동해야</Value>
+		<Value>我们需要这些羊皮卷移动到地图的底部</Value>
+		<Value>We moeten deze rollen naar de onderkant van de kaart</Value>
+		<Value>Wir müssen diese Rollen auf der Unterseite der Karte bewegen</Value>
+		<Value>Abbiamo bisogno di spostare queste pergamene alla parte inferiore della mappa</Value>
+		<Value>Precisamos mover esses pergaminhos para a parte inferior do mapa</Value>
+		<Value>Нам нужно переместить эти свитки в нижней части карты</Value>
+		<Value>Abbiamo Bisogno di spostare Queste pergamene alla parte inferiore della mappa</Value>
+	</Translation>
+	<Translation key="match3_tut_29_2">
+		<Value>Match jewels to clear the road</Value>
+		<Value>Nối kim cương để mở đường đi</Value>
+		<Value>bijoux match pour dégager la route</Value>
+		<Value>道をクリアするために宝石をマッチ</Value>
+		<Value>경기는 길을 취소 보석</Value>
+		<Value>匹配的宝石，疏通道路</Value>
+		<Value>Match juwelen om de weg vrij</Value>
+		<Value>Spiel Juwelen, um die Straße zu räumen</Value>
+		<Value>Partita Gioielli per cancellare la strada</Value>
+		<Value>Jogo jóias para limpar a estrada</Value>
+		<Value>Матч драгоценных камней, чтобы очистить дорогу</Value>
+		<Value>Partita Gioielli por cancellare La Strada</Value>
+	</Translation>
+	<Translation key="match3_tut_11_1">
+		<Value>Magic Hammer just been unlocked, it can destroy elements in a tile. Let's use it.</Value>
+		<Value>Magic Hammer đã được mở khóa, nó có thể phá hủy bất cứ chướng ngại vậy nào. Thử xem.</Value>
+		<Value>Marteau magique vient d'être déverrouillé, il peut détruire des éléments dans une tuile. Utilisons.</Value>
+		<Value>マジックハン​​マーはちょうどそれは、タイル内の要素を破壊することができ、ロックが解除されて。のは、それを使ってみましょう。</Value>
+		<Value>매직 해머 그냥은 타일의 요소를 파괴 할 수있다, 잠금이 해제되었다. 의 그것을 사용하자.</Value>
+		<Value>魔法锤的只是被解锁，因此能消灭一个核元件。让我们使用它。</Value>
+		<Value>Magic Hammer net ontgrendeld, kan elementen in een tegel te vernietigen. Laten we het gebruiken.</Value>
+		<Value>Magie Hammer gerade freigeschaltet wurde, kann es Elemente in einer Kachel zerstören. Sagen wir es verwenden.</Value>
+		<Value>Magia Hammer appena stato sbloccato, può distruggere gli elementi di una tegola. Lo si può usare.</Value>
+		<Value>Magia Martelo apenas foi desbloqueado, ele pode destruir elementos em uma telha. Vamos usá-lo.</Value>
+		<Value>Волшебный Молот только что был разблокирован, он может уничтожить элементы в плитке. Давайте использовать его.</Value>
+		<Value>Magia martillo appena stato sbloccato, può distruggere gli elementi di una tegola. Mín si può usare.</Value>
+	</Translation>
+	<Translation key="match3_tut_11_2">
+		<Value>Use the hammer to destroy this fruit box without using any move</Value>
+		<Value>Dùng nó để phá hủy hộp này</Value>
+		<Value>Utilisez le marteau pour détruire cette boîte de fruits sans utiliser déménagement</Value>
+		<Value>どんな動きを使用せずに、この果物の箱を破壊するためにハンマーを使用して、</Value>
+		<Value>어떤 움직임을 사용하지 않고이 과일 상자를 파괴하는 망치를 사용하여</Value>
+		<Value>用锤子破坏这个果箱里，而无需使用任何举动</Value>
+		<Value>Gebruik de hamer om deze vrucht doos te vernietigen zonder gebruik van een move</Value>
+		<Value>Verwenden Sie den Hammer diese Frucht Feld zu zerstören, ohne jede Bewegung mit</Value>
+		<Value>Usare il martello per distruggere questa casella di frutta senza l'utilizzo di qualsiasi mossa</Value>
+		<Value>Use o martelo para destruir esta caixa de fruta sem o uso de qualquer movimento</Value>
+		<Value>Используйте молоток, чтобы уничтожить этот фруктовый ящик без использования какого-либо движения</Value>
+		<Value>Usare il martello por distruggere questa Casella di Frutta senza l'utilizzo di qualsiasi Mossa</Value>
+	</Translation>
+	<Translation key="match3_tut_13_1">
+		<Value>Horizontal Rocket just been unlocked, it can destroy elements in a row. Let's try it out.</Value>
+		<Value>Rocket Ngang đã được mở khóa, nó phá hủy chướng ngại vật theo hàng ngang. Thử xem.</Value>
+		<Value>Rocket horizontale vient d'être déverrouillé, il peut détruire des éléments dans une rangée. Allons essayer.</Value>
+		<Value>水平方向のロケットはちょうどそれは、行の要素を破壊することができ、ロックが解除されて。のは、それを試してみましょう。</Value>
+		<Value>수평 로켓 그냥은 행의 요소를 파괴 할 수있다, 잠금이 해제되었다. 현실을 사용해보십시오.</Value>
+		<Value>卧式火箭刚刚被解锁，因此能消灭一个行元素。让我们来尝试一下。</Value>
+		<Value>Horizontale Rocket net ontgrendeld, kan elementen in een rij te vernietigen. Laten we proberen het uit.</Value>
+		<Value>Horizontal Rakete gerade freigeschaltet wurde, kann es Elemente in einer Reihe zerstören. Lassen Sie uns versuchen Sie es heraus.</Value>
+		<Value>Rocket orizzontale appena stato sbloccato, può distruggere gli elementi di fila. Proviamo fuori.</Value>
+		<Value>Foguete Horizontal acabado de ser desbloqueado, ele pode destruir elementos em uma fileira. Vamos testá-lo.</Value>
+		<Value>Горизонтальная Ракетно только разблокирован, он может уничтожить элементы в ряд. Давайте попробуем это.</Value>
+		<Value>Rocket orizzontale appena stato sbloccato, può distruggere gli elementi di fila. fuori Proviamo.</Value>
+	</Translation>
+	<Translation key="match3_tut_13_2">
+		<Value>Touch to launch the rocket from the touch point</Value>
+		<Value>Chọn một vị trí để đặt rocket</Value>
+		<Value>Touchez pour lancer la fusée à partir du point de contact</Value>
+		<Value>タッチポイントからロケットを起動するタッチ</Value>
+		<Value>터치 지점에서 로켓을 발사 터치</Value>
+		<Value>触摸从触摸点发射火箭</Value>
+		<Value>Tik op om de raket te lanceren vanaf het raakpunt</Value>
+		<Value>Tippen Sie auf die Rakete vom Berührungspunkt zu starten</Value>
+		<Value>Toccare per lanciare il razzo dal punto di contatto</Value>
+		<Value>Toque para lançar o foguete a partir do ponto de contato</Value>
+		<Value>Нажмите, чтобы запустить ракету с точки касания</Value>
+		<Value>Toccare por lanciare il Razzo dal punto di contatto</Value>
+	</Translation>
+	<Translation key="match3_tut_20_1">
+		<Value>Candy Bomb just been unlocked, it can destroy all elements of a game board. Let's try it out.</Value>
+		<Value>Candy Bomb đã được mở khóa, nó có thể phá hủy toàn bộ cấp độ. Thử xem.</Value>
+		<Value>Bombe Candy vient d'être déverrouillé, il peut détruire tous les éléments d'un plateau de jeu. Allons essayer.</Value>
+		<Value>キャンディ爆弾は、ちょうどそれがゲームボードのすべての要素を破壊することができ、ロックが解除されて。のは、それを試してみましょう。</Value>
+		<Value>사탕 폭탄 그냥 게임 보드의 모든 요소를 ​​파괴 할 수있다, 잠금이 해제되었다. 현실을 사용해보십시오.</Value>
+		<Value>糖果炸弹刚刚被解锁，它可以摧毁一个游戏板的所有元素。让我们来尝试一下。</Value>
+		<Value>Candy Bomb net ontgrendeld, kan het alle elementen van een spelbord te vernietigen. Laten we proberen het uit.</Value>
+		<Value>Süßigkeit Bombe gerade freigeschaltet wurde, kann es alle Elemente eines Spielbretts zerstören. Lassen Sie uns versuchen Sie es heraus.</Value>
+		<Value>Candy bomba appena stato sbloccato, può distruggere tutti gli elementi di un gioco da tavolo. Proviamo fuori.</Value>
+		<Value>Bomba doces apenas foi desbloqueado, ele pode destruir todos os elementos de um tabuleiro de jogo. Vamos testá-lo.</Value>
+		<Value>Candy Bomb только разблокирован, он может уничтожить все элементы игрового поля. Давайте попробуем это.</Value>
+		<Value>Caramelo bomba appena stato sbloccato, può distruggere tutti gli elementi di un gioco da tavolo. fuori Proviamo.</Value>
+	</Translation>
+	<Translation key="match3_tut_20_2">
+		<Value>Select a position to place Candy Bomb</Value>
+		<Value>Chọn một vị trí để đặt Kẹo Bomb</Value>
+		<Value>Sélectionnez une position pour placer la bombe bonbons</Value>
+		<Value>キャンディ爆弾を配置する位置を選択します</Value>
+		<Value>캔디 폭탄을 배치 할 위치를 선택합니다</Value>
+		<Value>选择一个位置来放置糖果炸弹</Value>
+		<Value>De positie van waaruit Candy Bomb plaatsen</Value>
+		<Value>Wählen Sie eine Position Süßigkeit Bombe zu platzieren</Value>
+		<Value>Selezionare una posizione per posizionare Candy Bomb</Value>
+		<Value>Selecione uma posição para colocar Doce bomba</Value>
+		<Value>Выберите позицию, чтобы поместить конфеты Bomb</Value>
+		<Value>Selezionare Una posizione por posizionare bomba de caramelo</Value>
+	</Translation>
+	<Translation key="headstar_15_1">
+		<Value>Rocket Booster just been unlocked, touch to begin the level with 2 rockets</Value>
+		<Value>Rocket booster đã được mở khóa, hay thử với 2 rocket</Value>
+		<Value>Booster Rocket vient d'être déverrouillé, appuyez sur pour commencer le niveau avec 2 roquettes</Value>
+		<Value>ロケットブースターだけでロックが解除されたが、2つのロケットでレベルを開始するために触れます</Value>
+		<Value>로켓 부스터 단지 잠금이 해제 된 2 로켓 수준을 시작 터치</Value>
+		<Value>火箭助推器刚刚被解锁，触摸开始与2级火箭的水平</Value>
+		<Value>Rocket Booster net ontgrendeld, aan te raken om het niveau met 2 raketten beginnen</Value>
+		<Value>Trägerrakete gerade freigeschaltet wurde, berühren Sie die Ebene mit 2 Raketen beginnen</Value>
+		<Value>Rocket Booster appena stato sbloccato, toccare per avviare il livello con 2 razzi</Value>
+		<Value>Propulsor de Foguetão apenas foi desbloqueado, toque para começar o nível com 2 foguetes</Value>
+		<Value>Ракета-носитель только что был разблокирован, нажмите, чтобы начать уровень с 2-мя ракетами</Value>
+		<Value>Rocket Booster appena stato sbloccato, toccare por avviare il livello con 2 razzi</Value>
+	</Translation>
+	<Translation key="headstar_15_2">
+		<Value>Now let us start playing</Value>
+		<Value>Bây giờ chúng ta bắt đầu chơi</Value>
+		<Value>Maintenant, nous allons commencer à jouer</Value>
+		<Value>今、私たちは、再生を開始しましょう</Value>
+		<Value>이제 우리가 연주를 시작하자</Value>
+		<Value>现在让我们开始播放</Value>
+		<Value>Nu laten we beginnen te spelen</Value>
+		<Value>Lassen Sie uns jetzt anfangen zu spielen</Value>
+		<Value>Ora dobbiamo iniziare a giocare</Value>
+		<Value>Agora vamos começar a jogar</Value>
+		<Value>Теперь давайте начнем играть</Value>
+		<Value>Ora dobbiamo iniziare un giocare</Value>
+	</Translation>
+	<Translation key="headstar_17_1">
+		<Value>Bomb Booster just been unlocked, touch to begin the level with 2 bombs</Value>
+		<Value>Bomb booster đã được mở khóa, hãy thử với 2 bomb</Value>
+		<Value>Bombe Booster vient d'être déverrouillé, appuyez sur pour commencer le niveau avec 2 bombes</Value>
+		<Value>2つの爆弾とレベルを開始するブースターだけでロックが解除され、タッチを爆撃</Value>
+		<Value>폭탄 부스터는 터치 2 개 폭탄 수준을 시작, 잠금이 해제 된</Value>
+		<Value>炸弹助推器刚刚被解锁，触摸与2弹开始水平</Value>
+		<Value>Bomb Booster net ontgrendeld, touch aan het niveau te beginnen met 2 bommen</Value>
+		<Value>Bomb Booster gerade freigeschaltet wurde, berühren Sie die Ebene mit 2 Bomben zu beginnen</Value>
+		<Value>Bomba Booster appena stato sbloccato, toccare per iniziare il livello con 2 bombe</Value>
+		<Value>Bomba booster apenas foi desbloqueado, toque para começar o nível com 2 bombas</Value>
+		<Value>Бомба Booster только что был разблокирован, нажмите, чтобы начать уровень с 2 бомбы</Value>
+		<Value>Bomba Booster appena stato sbloccato, toccare por iniziare il livello con 2 bombe</Value>
+	</Translation>
+	<Translation key="headstar_17_2">
+		<Value>Now let us start playing</Value>
+		<Value>Bây giờ chúng ta bắt đầu chơi</Value>
+		<Value>Maintenant, nous allons commencer à jouer</Value>
+		<Value>今、私たちは、再生を開始しましょう</Value>
+		<Value>이제 우리가 연주를 시작하자</Value>
+		<Value>现在让我们开始播放</Value>
+		<Value>Nu laten we beginnen te spelen</Value>
+		<Value>Lassen Sie uns jetzt anfangen zu spielen</Value>
+		<Value>Ora dobbiamo iniziare a giocare</Value>
+		<Value>Agora vamos começar a jogar</Value>
+		<Value>Теперь давайте начнем играть</Value>
+		<Value>Ora dobbiamo iniziare un giocare</Value>
+	</Translation>
+	<Translation key="room1_start_tut_1">
+		<Value>Let choose an item to decorate. Tap on (Sofa)</Value>
+		<Value>Chọn một đồ vật để trang trí. Hãy thử chiêc Sofa</Value>
+		<Value>Laissez choisir un élément pour décorer. Appuyez sur (Canapé convertible)</Value>
+		<Value>飾るためのアイテムを選択してみましょう。上のタップ（ソファ）</Value>
+		<Value>장식하는 항목을 선택할 수 있습니다. 에 탭 (소파)</Value>
+		<Value>让选择装饰项目。塔上（沙发）</Value>
+		<Value>Laten we kiezen voor een item om te versieren. Druk op (Bank)</Value>
+		<Value>Lassen Sie ein Element wählen zu dekorieren. Tippen Sie auf (Sofa)</Value>
+		<Value>Lasciate scegliere una voce da decorare. Toccare (Sofa)</Value>
+		<Value>Vamos escolher um item para decorar. Toque em (SOFA)</Value>
+		<Value>Пусть выбрать элемент для украшения. Нажмите на (диван)</Value>
+		<Value>Lasciate scegliere Una Voce da decorare. Toccare (SOFA)</Value>
+	</Translation>
+	<Translation key="room1_start_tut_2">
+		<Value>You will use (Coins) to buy decorations</Value>
+		<Value>Bạn sẽ sử dụng (vàng) để mua đồ trang trí</Value>
+		<Value>Vous utiliserez (Pièces de monnaie) pour acheter des décorations</Value>
+		<Value>あなたは装飾を購入する（コイン）を使用します</Value>
+		<Value>당신은 장식을 구입 (동전) 사용</Value>
+		<Value>您将使用（硬币）买装饰品</Value>
+		<Value>U zult gebruiken (Coins) om decoraties te kopen</Value>
+		<Value>Sie verwenden (Münzen) Dekorationen zu kaufen</Value>
+		<Value>Si utilizzerà (Coins) da acquistare decorazioni</Value>
+		<Value>Você vai usar (moedas) para comprar decorações</Value>
+		<Value>Вы будете использовать (монеты), чтобы купить украшение</Value>
+		<Value>De Si utilizzerà (monedas) da acquistare DECORAZIONI</Value>
+	</Translation>
+	<Translation key="room1_start_tut_3">
+		<Value>There are some choices so you can (mix and match)</Value>
+		<Value>Có một số lựa chọn để bạn có thể (thay đổi)</Value>
+		<Value>Il y a des choix afin que vous puissiez (mélanger et assortir)</Value>
+		<Value>あなたは（ミックスと一致する）ことができるように、いくつかの選択肢があります。</Value>
+		<Value>몇 가지 선택이 있습니다 (믹스 앤 매치) 수 있습니다</Value>
+		<Value>有一些选择，这样你就可以（混搭）</Value>
+		<Value>Er zijn een aantal keuzes, zodat u kunt (mix en match)</Value>
+		<Value>Es gibt einige Möglichkeiten, so können Sie (mix and match)</Value>
+		<Value>Ci sono alcune scelte in modo da poter (combinare)</Value>
+		<Value>Existem algumas opções para que você pode (misturar e combinar)</Value>
+		<Value>Есть несколько вариантов, так что вы можете (смешивать и сочетать)</Value>
+		<Value>Ci sono alcune scelte in modo da poter (combinare)</Value>
+	</Translation>
+	<Translation key="room1_start_tut_4">
+		<Value>Confirm your choice here. Don't worry, you can change it later</Value>
+		<Value>Xác nhận lựa chọn của bạn ở đây. Đừng lo lắng, bạn có thể thay đổi nó sau</Value>
+		<Value>Confirmez votre choix ici. Ne vous inquiétez pas, vous pouvez le modifier ultérieurement</Value>
+		<Value>ここにあなたの選択を確認します。あなたが後でそれを変更することができ、心配しないでください</Value>
+		<Value>여기 당신의 선택을 확인합니다. 걱정하지 마십시오, 당신은 나중에 변경할 수 있습니다</Value>
+		<Value>在这里确认您的选择。别担心，你可以改变它</Value>
+		<Value>Bevestig uw keuze hier. Maak je geen zorgen, kunt u dit later wijzigen</Value>
+		<Value>Bestätigen Sie Ihre Auswahl hier. Mach dir keine Sorgen, können Sie es später ändern</Value>
+		<Value>Confermare la scelta qui. Non preoccupatevi, è possibile modificare in un secondo momento</Value>
+		<Value>Confirmar a sua escolha aqui. Não se preocupe, você pode alterá-lo posteriormente</Value>
+		<Value>Подтвердите ваш выбор здесь. Не волнуйтесь, вы можете изменить его позже</Value>
+		<Value>Confermare La scelta qui. No preoccupatevi, è possibile modificare en Un secondo Momento</Value>
+	</Translation>
+	<Translation key="room1_start_tut_5">
+		<Value>We don't have enough (Coins) to buy new (Decorations)</Value>
+		<Value>Chúng tôi không còn đủ (vàng) để mua (đồ trang trí) nữa</Value>
+		<Value>Nous n'avons pas assez (Pièces de monnaie) pour acheter de nouveaux (Décorations)</Value>
+		<Value>我々は十分な（コイン）を持っていない新しい（ジュエリー）を購入します</Value>
+		<Value>우리는 충분히 (동전)이없는 새 (장식)를 구입</Value>
+		<Value>我们没有足够的（硬币）购买新（装饰品）</Value>
+		<Value>We hebben niet genoeg (Coins) om nieuwe (Decoratie) kopen</Value>
+		<Value>Wir haben nicht genug (Münzen) neue (Dekorationen) zu kaufen</Value>
+		<Value>Non abbiamo abbastanza (a gettoni) per comprare nuovi (decorazioni)</Value>
+		<Value>Não temos suficientes (moedas) para comprar novos (Detalhes)</Value>
+		<Value>У нас нет достаточного количества (монет), чтобы купить новые (украшения)</Value>
+		<Value>Non abbiamo abbastanza (a gettoni) por comprare Nuovi (decorazioni)</Value>
+	</Translation>
+	<Translation key="room1_start_tut_6">
+		<Value>Let's go to the Level to get more Coins</Value>
+		<Value>Chiến thắng cấp độ để nhận thêm vàng</Value>
+		<Value>go Let au niveau pour obtenir plus de pièces</Value>
+		<Value>より多くのコインを取得するためのレベルへ行こう</Value>
+		<Value>레벨에 가자는 더 많은 동전을 얻을</Value>
+		<Value>让我们到Level去得到更多的硬币</Value>
+		<Value>go Laten we naar het niveau om meer munten te krijgen</Value>
+		<Value>Lassen Sie uns gehen auf die Ebene mehr Münzen zu erhalten</Value>
+		<Value>Go Let al livello per ottenere più monete</Value>
+		<Value>Vamos ir para o nível para conseguir mais moedas</Value>
+		<Value>Давайте идти на уровень, чтобы получить больше монет</Value>
+		<Value>Vaya deje al livello por ottenere più Monete</Value>
+	</Translation>
+	<Translation key="room1_end_tut_1">
+		<Value>Wow! You have just completed decoring the room. Let's go to see the next room</Value>
+		<Value>Wow! Bạn vừa hoàn thành trang trí phòng. Hãy thử xem phòng tiếp theo</Value>
+		<Value>Wow! Vous venez de terminer débourrage la pièce. Allons voir la chambre suivante</Value>
+		<Value>うわー！あなただけの部屋を脱コア完了しました。のは、隣の部屋を見に行こう</Value>
+		<Value>와! 당신은 방을 decoring 완료했습니다. 이제 다음 방을보고 가자</Value>
+		<Value>哇！您刚刚完成的除芯房间。让我们去看看隔壁房间</Value>
+		<Value>Wauw! Je hebt zojuist Decoring de kamer. Laten we gaan naar de volgende kamer te zien</Value>
+		<Value>Beeindruckend! Sie haben gerade den Raum abgeschlossen Entkernen. Gehen wir in den nächsten Raum zu sehen</Value>
+		<Value>Wow! Avete appena completato sterratura la stanza. Andiamo a vedere la stanza accanto</Value>
+		<Value>Uau! Você acabou de completar decoring da sala. Vamos ver na próxima sala</Value>
+		<Value>Ух ты! Вы только что завершили Decoring комнаты. Давайте, чтобы увидеть следующую комнату</Value>
+		<Value>¡Guau! Avete appena completato sterratura la estrofa. Andiamo un vedere la stanza accanto</Value>
+	</Translation>
+	<Translation key="room1_end_tut_2">
+		<Value>(Bedroom) was unlocked, check it out</Value>
+		<Value>(Phòng ngủ) vừa được mở khóa, cùng xem nó thôi</Value>
+		<Value>(Chambre) a été déverrouillé, vérifier</Value>
+		<Value>（ベッドルーム）アンロックして、それをチェックアウト</Value>
+		<Value>(침실) 잠금을 해제하고, 그것을 확인</Value>
+		<Value>（卧室）中解锁，检查它</Value>
+		<Value>(Slaapkamer) werd ontgrendeld, check it out</Value>
+		<Value>(Schlafzimmer) entriegelt wurde, check it out</Value>
+		<Value>(Camera) è stato sbloccato, check it out</Value>
+		<Value>(Quarto) foi desbloqueado, confira</Value>
+		<Value>(Спальня) была разблокирована, проверить его</Value>
+		<Value>(Cámara) è stato sbloccato, comprobar que funciona</Value>
+	</Translation>
+	<Translation key="room1_end_tut_3">
+		<Value>It's time to decorate this room</Value>
+		<Value>Đây là lúc để trang trí căn phòng này</Value>
+		<Value>Il est temps de décorer cette pièce</Value>
+		<Value>この部屋を飾るためにそれの時間</Value>
+		<Value>그것은이 방을 장식하는 시간</Value>
+		<Value>现在是时候来装饰这个房间</Value>
+		<Value>Het is tijd om deze ruimte te verfraaien</Value>
+		<Value>Es ist Zeit, diesen Raum zu dekorieren</Value>
+		<Value>E 'il momento di decorare questa stanza</Value>
+		<Value>É hora de decorar esta sala</Value>
+		<Value>Это время, чтобы украсить эту комнату</Value>
+		<Value>E 'il momento di questa decorare estrofa</Value>
+	</Translation>
+	<Translation key="good_morning">
+		<Value>Good Morning</Value>
+		<Value>Chào buổi sáng</Value>
+		<Value>Bonjour</Value>
+		<Value>おはようございます</Value>
+		<Value>좋은 아침</Value>
+		<Value>早上好</Value>
+		<Value>Goedemorgen</Value>
+		<Value>Guten Morgen</Value>
+		<Value>Buongiorno</Value>
+		<Value>Bom Dia</Value>
+		<Value>Доброе утро</Value>
+		<Value>Buongiorno</Value>
+	</Translation>
+	<Translation key="messages_8h_1">
+		<Value>Morning, Designer! Let's take a sip of coffee and look back at your blueprint, shall we?</Value>
+		<Value>Chào buổi sáng nhà thiết kế. Thử một tách cà phề và quay lại bản phác thảo ngôi nhà</Value>
+		<Value>Matin, Designer! Nous allons prendre une gorgée de café et regard en arrière à votre plan, allons-nous?</Value>
+		<Value>朝、デザイナー！我々は、のは、あなたの青写真でコーヒーと見て背中の一口を取るものとしましょうか？</Value>
+		<Value>아침, 디자이너! 하자 우리하며, 귀하의 청사진 커피와 봐 다시 한 모금을?</Value>
+		<Value>上午，设计师！让我们的咖啡，回头一小口，在你的蓝图，好吗？</Value>
+		<Value>Morning, Ontwerper! Laten we eens een slok koffie en terugblik op uw blauwdruk, zullen we?</Value>
+		<Value>Morgen, Designer! Lassen Sie uns nehmen einen Schluck Kaffee und Blick zurück auf Ihren Plan, sollen wir?</Value>
+		<Value>Mattina, Designer! Prendiamo un sorso di caffè e di nuovo un'occhiata al tuo progetto, che ne dite?</Value>
+		<Value>Manhã, Designer! Vamos tomar um gole de café e olhar para trás em seu projeto, não é?</Value>
+		<Value>Утро, дизайнер! Давайте глотнуть кофе и оглянуться назад на свой план, мы должны?</Value>
+		<Value>Mattina, diseñador! Prendiamo ONU sorso di caffè e di nuovo un'occhiata al tuo Progetto, che ne dite?</Value>
+	</Translation>
+	<Translation key="messages_8h_2">
+		<Value>Quickly! Customer are having nowhere to live!</Value>
+		<Value>Nhanh lên! Khách hàng đang không có nơi ở</Value>
+		<Value>Vite! Client sont l'absence de logement!</Value>
+		<Value>早く！お客様は、ライブにどこにも持っていません！</Value>
+		<Value>빨리! 고객은 라이브에 아무 필요하지 않습니다!</Value>
+		<Value>迅速地！客户是有地方住！</Value>
+		<Value>Snel! Klant zijn nergens te moeten leven!</Value>
+		<Value>Schnell! Kunden haben nirgendwo zu leben!</Value>
+		<Value>Velocemente! Clienti stanno avendo un posto dove vivere!</Value>
+		<Value>Rapidamente! Cliente está tendo nenhum lugar para viver!</Value>
+		<Value>Быстро! Клиент нигде не приходится жить!</Value>
+		<Value>Velocemente! Clienti stanno Avendo un posto paloma vivere!</Value>
+	</Translation>
+	<Translation key="messages_8h_3">
+		<Value>Beautiful house doesn't design itself! Let's go back to work!</Value>
+		<Value>Ngôi nhà đẹp không tự thiết kế nó! Chúng ta hãy trở lại làm việc!</Value>
+		<Value>Belle maison ne se conçoit pas! Revenons au travail!</Value>
+		<Value>美しい家は、自分自身を設計していません！さんは仕事に戻りましょう！</Value>
+		<Value>자신을 설계하지 않습니다 아름 다운 집! 의 직장으로 돌아 가자!</Value>
+		<Value>漂亮的房子没有设计本身！让我们回去工作！</Value>
+		<Value>Mooi huis niet zelf ontwerpen! Laten we weer aan het werk!</Value>
+		<Value>Schönes Haus nicht selbst entwerfen! Gehen wir zurück an die Arbeit!</Value>
+		<Value>Bella casa non progetta per sé! Torniamo al lavoro!</Value>
+		<Value>Linda casa não projetar-se! Vamos voltar ao trabalho!</Value>
+		<Value>Красивый дом не дизайн себя! Давайте вернемся к работе!</Value>
+		<Value>Bella Casa no Proyecta per sé! Torniamo al lavoro!</Value>
+	</Translation>
+	<Translation key="messages_8h_4">
+		<Value>More customers want your design! COME BACK!</Value>
+		<Value>Nhiều khách hàng muốn thiết kế của bạn! COME BACK!</Value>
+		<Value>Plus de clients veulent votre conception! REVENIR!</Value>
+		<Value>より多くの顧客は、あなたのデザインをしたいです！戻って！</Value>
+		<Value>더 많은 고객이 설계를 원한다! 돌아와!</Value>
+		<Value>越来越多的客户希望自己的设计！回来！</Value>
+		<Value>Meer klanten willen uw ontwerp! TERUGKOMEN!</Value>
+		<Value>Immer mehr Kunden wollen Ihr Design! KOMM ZURÜCK!</Value>
+		<Value>Altri clienti vogliono il vostro disegno! RITORNO!</Value>
+		<Value>Mais clientes querem seu design! VOLTE!</Value>
+		<Value>Другие клиенты хотят ваш дизайн! ВЕРНИСЬ!</Value>
+		<Value>Altri Clienti vogliono elija su disegno! RITORNO!</Value>
+	</Translation>
+	<Translation key="messages_8h_5">
+		<Value>Today is such a good day to transform a house. Let's go!</Value>
+		<Value>Hôm nay là một ngày tốt để trang hoàng ngôi nhà của bạn</Value>
+		<Value>Aujourd'hui est une bonne journée pour transformer une maison. Allons-y!</Value>
+		<Value>今日は家を変換するためにこのような良い日です。行きましょう！</Value>
+		<Value>오늘은 집 변환하는 등 좋은 일이다. 가자!</Value>
+		<Value>今天是这样一个好日子改造的房子。我们走吧！</Value>
+		<Value>Vandaag is zo'n goede dag om een ​​huis te transformeren. Laten we gaan!</Value>
+		<Value>Heute ist so ein guter Tag, ein Haus zu verwandeln. Lass uns gehen!</Value>
+		<Value>Oggi è tale giorno una buona per trasformare una casa. Andiamo!</Value>
+		<Value>Hoje é dia tão bom para transformar uma casa. Vamos!</Value>
+		<Value>Сегодня такой хороший день, чтобы превратить дом. Погнали!</Value>
+		<Value>Oggi è cuento giorno una buona por trasformare Una Casa. Andiamo!</Value>
+	</Translation>
+	<Translation key="good_evening">
+		<Value>Good Evening</Value>
+		<Value>Chào buổi tối</Value>
+		<Value>Bonsoir</Value>
+		<Value>こんばんは</Value>
+		<Value>안녕하세요</Value>
+		<Value>晚上好</Value>
+		<Value>Goedenavond</Value>
+		<Value>Guten Abend</Value>
+		<Value>buona serata</Value>
+		<Value>Boa noite</Value>
+		<Value>Добрый вечер</Value>
+		<Value>buona serata</Value>
+	</Translation>
+	<Translation key="policy">
+		<Value>Policy</Value>
+		<Value>Điều khoản</Value>
+		<Value>Politique</Value>
+		<Value>ポリシー </Value>
+		<Value>수단</Value>
+		<Value>政策</Value>
+		<Value>Het beleid</Value>
+		<Value>Politik</Value>
+		<Value>politica</Value>
+		<Value>política</Value>
+		<Value>политика</Value>
+		<Value>política</Value>
+	</Translation>
+	<Translation key="messages_20h_1">
+		<Value>You can do it! Your design is almost complete now!</Value>
+		<Value>Bạn có thể làm được! thiết kế của bạn là gần như hoàn chỉnh bây giờ!</Value>
+		<Value>Tu peux le faire! Votre conception est presque complète maintenant!</Value>
+		<Value>あなたはそれを行うことができます！あなたのデザインは今、ほぼ完了です！</Value>
+		<Value>넌 할 수있어! 당신의 디자인은 이제 거의 완료되었습니다!</Value>
+		<Value>你能行的！你的设计目前已接近完成！</Value>
+		<Value>Je kunt het! Uw ontwerp is nu bijna compleet!</Value>
+		<Value>Du kannst es schaffen! Ihr Entwurf ist jetzt fast fertig!</Value>
+		<Value>Puoi farlo! Il vostro disegno è quasi completa ora!</Value>
+		<Value>Você consegue! O seu design é quase completa agora!</Value>
+		<Value>Ты можешь это сделать! Ваш дизайн почти завершен сейчас</Value>
+		<Value>Puoi farlo! Elija su disegno è ora cuasi COMPLETA!</Value>
+	</Translation>
+	<Translation key="messages_20h_2">
+		<Value>Let's take a look back at what your worker have done today!</Value>
+		<Value>Chúng ta hãy trở lại nhìn vào những gì nhân viên của bạn đã làm ngày hôm nay!</Value>
+		<Value>Jetons un regard en arrière à ce que votre travailleur ont fait aujourd'hui!</Value>
+		<Value>のは、あなたの労働者が今日やっていることを見に戻ってみましょう！</Value>
+		<Value>하자 오늘 한 일을 당신의 직원을 살펴 백을!</Value>
+		<Value>让我们来看看你的工人今天都做了回顾！</Value>
+		<Value>Laten we eens een terugblik op wat uw werknemer vandaag hebben gedaan!</Value>
+		<Value>Werfen wir einen Blick zurück auf das, was Ihre Arbeiter heute getan haben!</Value>
+		<Value>Diamo di nuovo un'occhiata a ciò che il vostro lavoratore hanno fatto oggi!</Value>
+		<Value>Vamos dar uma volta olhada no que o seu trabalho tem feito hoje!</Value>
+		<Value>Давайте оглянемся на то, что ваш рабочий сделал сегодня!</Value>
+		<Value>Diamo di nuovo un'occhiata un CIO che il vostro lavoratore hanno fatto Oggi!</Value>
+	</Translation>
+	<Translation key="messages_20h_3">
+		<Value>Are you tired? Let's check some best designs for your house</Value>
+		<Value>Bạn có mệt không? Hãy kiểm tra một số mẫu thiết kế tốt nhất cho ngôi nhà của bạn</Value>
+		<Value>Êtes-vous fatigué? Vérifions quelques meilleurs designs pour votre maison</Value>
+		<Value>疲れましたか？さんがあなたの家のためのいくつかの最高のデザインを確認してみましょう</Value>
+		<Value>피곤하니? 이제 당신의 집에 대한 몇 가지 최고의 디자인을 확인하자</Value>
+		<Value>你累了吗？让我们来看看一些最好的设计，为你的房子</Value>
+		<Value>Ben je moe? Laten we eens kijken wat het beste ontwerpen voor uw huis</Value>
+		<Value>Bist du müde? Lassen Sie uns einige besten Designs für Ihr Haus überprüfen</Value>
+		<Value>Siete stanchi? Andiamo a controllare alcuni progetti migliori per la tua casa</Value>
+		<Value>Você está cansado? Vamos verificar algumas melhores modelos para a sua casa</Value>
+		<Value>Ты усталый? Давайте проверим некоторые лучшие проекты для вашего дома</Value>
+		<Value>stanchi Siete? Andiamo un controllare alcuni Progetti migliori per la casa tua</Value>
+	</Translation>
+	<Translation key="messages_20h_4">
+		<Value>Your blueprint is a masterpiece! Show the world its beauty!</Value>
+		<Value>Thiết kế của bạn là một kiệt tác! Hãy cho thế giới thấy vẻ đẹp của nó!</Value>
+		<Value>Votre plan est un chef-d'œuvre! Montrez au monde sa beauté!</Value>
+		<Value>あなたの青写真は傑作です！世界にその美しさを見せて下さい！</Value>
+		<Value>귀하의 청사진은 걸작이다! 세상의 아름다움을 보여줘!</Value>
+		<Value>你的蓝图是一个杰作！向世界展示它的美丽！</Value>
+		<Value>Uw blauwdruk is een meesterwerk! Laat de wereld zijn schoonheid!</Value>
+		<Value>Ihr Entwurf ist ein Meisterwerk! Zeigen Sie der Welt seine Schönheit!</Value>
+		<Value>Il vostro progetto è un capolavoro! Mostra al mondo la sua bellezza!</Value>
+		<Value>Seu projeto é uma obra-prima! Mostre ao mundo sua beleza!</Value>
+		<Value>Ваш план шедевр! Покажите миру свою красоту!</Value>
+		<Value>Elija su Progetto è un capolavoro! Mostra al mondo la sua Bellezza!</Value>
+	</Translation>
+	<Translation key="messages_20h_5">
+		<Value>Hey, beautiful! I heard you have some new ideas!</Value>
+		<Value>Này người đẹp! Tôi nghe nói bạn có một số ý tưởng mới!</Value>
+		<Value>Salut beauté! Je vous ai entendu avez des idées nouvelles!</Value>
+		<Value>ねえ、美しいです！私はあなたには、いくつかの新しいアイデアを持って聞いて！</Value>
+		<Value>헤이 아름다운! 난 당신이 몇 가지 새로운 아이디어를 들었어요!</Value>
+		<Value>你好，漂亮的女士！我听说你有一些新的想法！</Value>
+		<Value>Hoi schoonheid! Ik hoorde dat je een aantal nieuwe ideeën!</Value>
+		<Value>Hallo Hübsche! Ich habe gehört, Sie einige neue Ideen!</Value>
+		<Value>Hey bellissima! Ho sentito di avere alcune nuove idee!</Value>
+		<Value>Hey, bonito! Ouvi dizer que você tem algumas idéias novas!</Value>
+		<Value>Эй, красавица! Я слышал, у вас есть какие-то новые идеи!</Value>
+		<Value>Hey bellissima! Ho sentito di avere alcune Nuove Idee!</Value>
+	</Translation>
+	<Translation key="free_gem_noti_tile">
+		<Value>Free Gems Today</Value>
+		<Value>Miễn phí Gems Hôm nay</Value>
+		<Value>Gems Today gratuit</Value>
+		<Value>無料宝石今日</Value>
+		<Value>무료 보석 오늘</Value>
+		<Value>免费宝石今天</Value>
+		<Value>Gratis Gems Vandaag</Value>
+		<Value>Freies Gems Heute</Value>
+		<Value>Libero Gems Oggi</Value>
+		<Value>Livre Gems Hoje</Value>
+		<Value>Free Gems Сегодня</Value>
+		<Value>Libero Gems Oggi</Value>
+	</Translation>
+	<Translation key="free_gem_noti_text">
+		<Value>FREE Gem is now avaiable to Collect!</Value>
+		<Value>Gem miễn phí đang sẵn sàng để thu thập</Value>
+		<Value>FREE Gem est maintenant disponible, à recueillir!</Value>
+		<Value>FREE宝石を収集するために、今下盛です！</Value>
+		<Value>무료로 보석을 수집하는 지금은 avaiable이다입니다!</Value>
+		<Value>免费宝石现在缴费至收藏！</Value>
+		<Value>FREE Gem is nu beschikbaar om te verzamelen!</Value>
+		<Value>FREE Gem ist jetzt verfügbar zu sammeln!</Value>
+		<Value>GRATIS Gem è ora avaiable per la raccolta!</Value>
+		<Value>FREE Gem é agora disponíveis para recolher!</Value>
+		<Value>FREE Gem теперь собирать доклада доступен!</Value>
+		<Value>GRATIS Gema è ora disponible, per la raccolta!</Value>
+	</Translation>
+	<Translation key="3day_noti_text">
+		<Value>We really MISS your design! Claim this GIFT and get WORKING!</Value>
+		<Value>Chúng tối thực sự nhớ thiết kế của bạn. Nhận món quà này và bắt đầu làm việc.</Value>
+		<Value>Nous MISS vraiment votre conception! Réclamer ce CADEAU et obtenir TRAVAIL!</Value>
+		<Value>私たちは本当にあなたのデザインをMISS！この贈り物を主張し、作業を取得！</Value>
+		<Value>우리가 정말 당신의 디자인을 미스! 이 선물 항 및 작업을 진행!</Value>
+		<Value>我们真的很想念你的设计！声称这礼物，获得工作！</Value>
+		<Value>We hebben echt mis je ontwerp! Claim GIFT en werkend te krijgen!</Value>
+		<Value>Wir vermissen Ihr Design wirklich! Anspruch dieses Geschenk und erhalten zu arbeiten!</Value>
+		<Value>Ci manca molto il vostro disegno! Richiedi questo dono e ottenere LAVORO!</Value>
+		<Value>Realmente perder o seu design! Reivindicar este presente e começar a trabalhar!</Value>
+		<Value>Мы действительно соскучились ваш дизайн! Утверждаю это ДАР и получить работу!</Value>
+		<Value>Ci manca molto elija su disegno! Richiedi questo dono e ottenere LAVORO!</Value>
+	</Translation>
+	<Translation key="7day_noti_text">
+		<Value>Your daily reward is ready to grab. Come back and get it now!</Value>
+		<Value>Phần thưởng hàng ngày đã sẵn sàng. Quay lại và nhận nó!</Value>
+		<Value>Votre récompense quotidienne est prêt à saisir. Revenez et obtenir maintenant!</Value>
+		<Value>あなたの毎日の報酬はグラブに準備ができています。戻ってきて、今それを入手！</Value>
+		<Value>일일 보상 잡아 준비가되어 있습니다. 다시 와서 지금 그것을 얻을!</Value>
+		<Value>你每天的报酬是准备抢。回来，现在得到它！</Value>
+		<Value>Uw dagelijkse beloning is klaar om te grijpen. Kom terug en krijg het nu!</Value>
+		<Value>Ihre tägliche Belohnung bereit ist, zu greifen. Kommen Sie zurück und bekommen es jetzt!</Value>
+		<Value>La vostra ricompensa giornaliera è pronto ad afferrare. Tornare e farlo ora!</Value>
+		<Value>Sua recompensa diária está pronto para agarrar. Voltar e obtê-lo agora!</Value>
+		<Value>Ваша ежедневная награда готова захватить. Вернись и получить его прямо сейчас!</Value>
+		<Value>La vostra ricompensa giornaliera e pronto anuncio afferrare. Tornare e farlo ora!</Value>
+	</Translation>
+	<Translation key="5m_inf_live">
+		<Value>5 Minutes left until INFINITE LIVES end! Come back!</Value>
+		<Value>5 phút nữa là hết mạng vô hạn! Quay lại đi!</Value>
+		<Value>5 minutes avant la fin VIES INFINI! Revenir!</Value>
+		<Value>INFINITEが最後に住んまで5分は残っています！戻って！</Value>
+		<Value>INFINITE 최종 살고 때까지 5 분 왼쪽! 돌아와!</Value>
+		<Value>还剩5分直到无限关爱生命结束！回来！</Value>
+		<Value>5 Minuten naar links tot INFINITE leven te beëindigen! Terugkomen!</Value>
+		<Value>5 Minuten nach links, bis unendlich Leben Ende! Komm zurück!</Value>
+		<Value>5 minuti rimanenti prima vite infinite fine! Ritorno!</Value>
+		<Value>5 minutos à esquerda até INFINITE VIDAS fim! Volte!</Value>
+		<Value>5 минут осталось до INFINITE не ЖИВЕТ конец! Вернись!</Value>
+		<Value>5 minuti rimanenti prima Vite infinita bien! Ritorno!</Value>
+	</Translation>
+	<Translation key="full_live">
+		<Value>You now have full lives! Let's get back to design!</Value>
+		<Value>Bạn đang có đầy mạng! Hãy quay lại chơi đi!</Value>
+		<Value>Vous avez maintenant une vie pleine! Revenons à la conception!</Value>
+		<Value>あなたは今、完全な命を持っています！さんがデザインに戻って取得してみましょう！</Value>
+		<Value>이제 전체의 삶을! 의 디자인으로 돌아 가자!</Value>
+		<Value>你现在有充实的生活！让我们回到设计！</Value>
+		<Value>Je hebt nu vol leven! Laten we weer aan het design!</Value>
+		<Value>Sie haben jetzt ein erfülltes Leben! Lassen Sie uns zurück zum Design!</Value>
+		<Value>Si dispone ora di una vita piena! Torniamo al design!</Value>
+		<Value>Você agora tem uma vida plena! Vamos voltar para o design!</Value>
+		<Value>Теперь у вас есть полная жизнь! Давайте вернемся к дизайну!</Value>
+		<Value>Si Dispone ora di una vita piena! Torniamo al diseño!</Value>
+	</Translation>
+	<Translation key="12h_starter_pack">
+		<Value>Don't Miss Out! Only 12 hours left for your Starter's Pack!</Value>
+		<Value>Đừng bỏ lỡ! Gói người mới chỉ còn 12 giờ nữa</Value>
+		<Value>À ne pas manquer! 12 heures seulement à gauche pour votre pack de démarrage!</Value>
+		<Value>ないミスアウトを行います！わずか12時間では、あなたのスターターのパックのために残っています！</Value>
+		<Value>금주의 추천 아웃 해! 단지 12 시간 초보자의 팩 왼쪽!</Value>
+		<Value>别出小姐！留给你的Starter的包只有12个小时！</Value>
+		<Value>Mis het niet! Slechts 12 uur verlaten voor uw Starter Pack!</Value>
+		<Value>Verpassen Sie nicht! Nur 12 Stunden nach links für die Starter der Packung!</Value>
+		<Value>Non mancare! Solo 12 ore a sinistra per il pacchetto del vostro Starter!</Value>
+		<Value>Não Perca! Apenas 12 horas partiu para Pacote do seu acionador de partida!</Value>
+		<Value>Не пропустите! Только 12 часов остались для обновления вашего стартера!</Value>
+		<Value>No mancare! Solo 12 mineral de una sinistra per il vostro pacchetto del arranque!</Value>
+	</Translation>
+	<Translation key="unlock_dialog_1">
+		<Value>Oh it's look so beautiful! I can't wait to see the others</Value>
+		<Value>Nhìn nó rất đẹp! Tôi rất mong được xem những đồ vật khác</Value>
+		<Value>Oh, c'est si belle! Je ne peux pas attendre de voir les autres</Value>
+		<Value>ああ、それは見てとても美しいです！私は他の人を見るために待つことができません</Value>
+		<Value>그것의 모습이 너무 아름다워 오! 나는 다른 사람을보고 기다릴 수 없어</Value>
+		<Value>哦，它的外观太漂亮了！我迫不及待地想看到别人</Value>
+		<Value>Oh het is ziet er zo mooi! Ik kan niet wachten om de anderen te zien</Value>
+		<Value>Oh, es ist so schön aussehen! Ich kann die andere nicht warten, um zu sehen,</Value>
+		<Value>Oh, è così bello sguardo! Non vedo l'ora di vedere gli altri</Value>
+		<Value>Ah, é olhar tão bonito! Eu não posso esperar para ver os outros</Value>
+		<Value>О, это взгляд так красиво! Я не могу ждать, чтобы увидеть другие</Value>
+		<Value>Oh, è così bello sguardo! No vedo l'ora di vedere gli altri</Value>
+	</Translation>
+	<Translation key="unlock_dialog_2">
+		<Value>I think this is a good choice for that spot</Value>
+		<Value>Tôi nghĩ đây là một sự lựa chọn tốt</Value>
+		<Value>Je pense que cela est un bon choix pour cet endroit</Value>
+		<Value>私は、これはその場所のために良い選択だと思います</Value>
+		<Value>나는이 그 자리를위한 좋은 선택이라고 생각</Value>
+		<Value>我觉得这是那个地方的好选择</Value>
+		<Value>Ik denk dat dit een goede keuze voor die plek</Value>
+		<Value>Ich denke, das ist eine gute Wahl für diese Stelle</Value>
+		<Value>Penso che questa sia una buona scelta per quel posto</Value>
+		<Value>Eu acho que esta é uma boa escolha para esse ponto</Value>
+		<Value>Я думаю, что это хороший выбор для этого места</Value>
+		<Value>Penso che sia questa una buona scelta por quel posto</Value>
+	</Translation>
+	<Translation key="unlock_dialog_3">
+		<Value>I can see the room has become more lively</Value>
+		<Value>Tôi có thể thấy căn phòng đang trở nên sống động</Value>
+		<Value>Je peux voir la salle est devenue plus vive</Value>
+		<Value>うわー、私は部屋がより活発になってきている見ることができます</Value>
+		<Value>와우, 내가 방을 더 활기찬되고있다 볼 수 있습니다</Value>
+		<Value>哇，我可以看到房间变得更热闹</Value>
+		<Value>Kan ik zien wat de kamer is levendiger geworden</Value>
+		<Value>Kann ich sehen, der Raum hat sich lebendige</Value>
+		<Value>Posso vedere la stanza è diventata più vivace</Value>
+		<Value>Eu posso ver o quarto tornou-se mais animada</Value>
+		<Value>Ничего себе, я могу видеть в комнате стала более живой</Value>
+		<Value>Posso vedere la stanza è più diventata vivace</Value>
+	</Translation>
+	<Translation key="unlock_dialog_4">
+		<Value>What an amazing decoration you have done!</Value>
+		<Value>Bạn đã trang trí căn phòng này thật ấn tượg</Value>
+		<Value>Quelle décoration étonnante que vous avez fait!</Value>
+		<Value>あなたが行っている素晴らしい装飾！</Value>
+		<Value>어떤 놀라운 장식하는 짓을 한거야!</Value>
+		<Value>什么惊人的装修你做了！</Value>
+		<Value>Wat een geweldige decoratie je hebt gedaan!</Value>
+		<Value>Was für eine erstaunliche Dekoration Sie getan haben!</Value>
+		<Value>Quello che una decorazione sorprendente che avete fatto!</Value>
+		<Value>O que uma decoração incrível que você fez!</Value>
+		<Value>Какое удивительное украшение вы сделали!</Value>
+		<Value>Quello che Una decorazione sorprendente che avete fatto!</Value>
+	</Translation>
+	<Translation key="unlock_dialog_5">
+		<Value>You know, this is the nicest decoration I've seen. You did great!</Value>
+		<Value>Đây là sự trang trí tốt nhất mà tôi từng thấy. Bạn làm tốt lắm</Value>
+		<Value>Vous savez, c'est la décoration plus belle que je l'ai vu. Tu as été excellent!</Value>
+		<Value>あなたが知っている、これは私が見てきた素敵な装飾です。あなたは素晴らしいでした！</Value>
+		<Value>알다시피, 이것은 내가 본 가장 좋은 장식이다. 잘 했어!</Value>
+		<Value>要知道，这是最好的装修我见过。你做得很好！</Value>
+		<Value>Weet je, dit is de mooiste versiering ik heb gezien. Je deed het geweldig!</Value>
+		<Value>Wissen Sie, das ist die schönste Dekoration ich gesehen habe. Das hast du gut gemacht!</Value>
+		<Value>Sai, questa è la decorazione più bella che abbia mai visto. Sei stato grande!</Value>
+		<Value>Você sabe, esta é a decoração mais bonita que já vi. Você fez muito bem!</Value>
+		<Value>Вы знаете, это самое хорошее украшение я видел. Ты все сделал отлично!</Value>
+		<Value>Sai, questa è la decorazione più bella che mai visto abbia. Sei stato grande!</Value>
+	</Translation>
+	<Translation key="unlock_dialog_6">
+		<Value>You're a gifted home designer!</Value>
+		<Value>Bạn là một nhà thiết kế tuyệt vời</Value>
+		<Value>Vous êtes un concepteur de maison doué!</Value>
+		<Value>あなたは才能のホームデザイナーです！</Value>
+		<Value>당신은 재능 홈 디자이너입니다!</Value>
+		<Value>你是一个有天赋的家居设计师！</Value>
+		<Value>Je bent een begaafd thuis ontwerper!</Value>
+		<Value>Sie sind ein begabter Hause Designer!</Value>
+		<Value>Sei un designer di casa dotato!</Value>
+		<Value>Você é um designer de casa dotado!</Value>
+		<Value>Ты одаренный дизайнер дома!</Value>
+		<Value>Sei un diseñador di casa dotato!</Value>
+	</Translation>
+	<Translation key="sofa_dialog_1">
+		<Value>You have good eyes! The new Sofa fits the room perfectly!</Value>
+		<Value>Bạn có đôi mắt tốt! Chiếc Sofa mới rất hoàn hảo với căn phòng</Value>
+		<Value>Vous avez de bons yeux! Le nouveau canapé correspond à la pièce parfaitement!</Value>
+		<Value>あなたは良い目を持っています！新しいソファは完全に部屋に合います！</Value>
+		<Value>당신은 좋은 눈을 가지고! 새로운 소파는 완벽하게 방을 맞는!</Value>
+		<Value>你有很好的眼睛！新的沙发适合室内完美！</Value>
+		<Value>Je hebt goede ogen! De nieuwe bank past de kamer perfect!</Value>
+		<Value>Sie haben gute Augen! Das neue Sofa passt den Raum perfekt!</Value>
+		<Value>Hai gli occhi buoni! Il nuovo divano si adatta alla stanza perfettamente!</Value>
+		<Value>Você tem bons olhos! O sofá novo se encaixa no quarto perfeitamente!</Value>
+		<Value>У вас есть хорошие глаза! Новый диван подходит помещение идеально!</Value>
+		<Value>Hai gli occhi buoni! Il Nuovo divano si adatta alla estrofa perfettamente!</Value>
+	</Translation>
+	<Translation key="sofa_dialog_2">
+		<Value>I'm looking forward to seeing this beautiful house when we finished decorate it</Value>
+		<Value>Tôi đang muốn có thể nhìn thấy ngôi nhà đẹp sau khi trang trí nó</Value>
+		<Value>Je suis impatient de voir cette belle maison quand nous avons fini le décorer</Value>
+		<Value>我々はそれを飾る終えたとき、私はこの美しい家を見て楽しみにしています</Value>
+		<Value>우리가 그것을 장식이 완료되면 나는이 아름다운 집을보고 기대하고</Value>
+		<Value>我很期待看到这个漂亮的房子，当我们完成装饰它</Value>
+		<Value>Ik kijk uit naar het zien van dit prachtige huis toen we klaar versieren</Value>
+		<Value>Ich freue mich auf dieses schöne Haus zu sehen, wenn wir es fertig dekorieren</Value>
+		<Value>Non vedo l'ora di vedere questa bella casa quando abbiamo finito decorare</Value>
+		<Value>Estou ansioso para ver esta bela casa quando terminamos decorá-lo</Value>
+		<Value>Я с нетерпением жду, чтобы увидеть этот красивый дом, когда мы закончили украшать</Value>
+		<Value>No vedo l'ora di vedere questa Bella Casa quando abbiamo Finito decorare</Value>
+	</Translation>
+	<Translation key="sofa_dialog_3">
+		<Value>We will need more coins to buy new decorations</Value>
+		<Value>Chúng ta cần thêm vàng để mua đồ trang trí</Value>
+		<Value>Nous aurons besoin de plus de pièces pour acheter de nouvelles décorations</Value>
+		<Value>私たちは、新しい装飾を購入するより多くのコインが必要になります</Value>
+		<Value>우리는 새로운 장식을 구입하기 위해 더 많은 동전이 필요합니다</Value>
+		<Value>我们需要更多的硬币购买新的装饰品</Value>
+		<Value>We zullen meer munten nodig hebben om nieuwe decoraties te kopen</Value>
+		<Value>Wir werden mehr Münzen brauchen neue Dekorationen zu kaufen</Value>
+		<Value>Avremo bisogno di più le monete per comprare nuove decorazioni</Value>
+		<Value>Vamos precisar de mais moedas para comprar novas decorações</Value>
+		<Value>Нам потребуется больше монет, чтобы купить новые украшения</Value>
+		<Value>Avremo Bisogno di più le Monete por comprare nuove decorazioni</Value>
+	</Translation>
+	<Translation key="room1_start_dialog_1">
+		<Value>Hi Designer, my name is Lisa. Welcome to my house!</Value>
+		<Value>Chào nhà thiết kế, tối là Lisa. Chào mừng đến nhà của tôi</Value>
+		<Value>Salut Designer, mon nom est Lisa. Bienvenue chez moi!</Value>
+		<Value>デザイナーこんにちは、私の名前はリサです。私の家にようこそ！</Value>
+		<Value>디자이너 안녕하세요, 제 이름은 리사입니다. 우리 집에 온 걸 환영 해!</Value>
+		<Value>嗨设计师，我的名字叫丽莎。欢迎到我家来！</Value>
+		<Value>Hi Designer, mijn naam is Lisa. Welkom in mijn huis!</Value>
+		<Value>Hallo Designer, mein Name ist Lisa. Willkommen in meinem Haus!</Value>
+		<Value>Ciao Designer, il mio nome è Lisa. Benvenuto nella mia casa!</Value>
+		<Value>Oi Designer, meu nome é Lisa. Bem-vindo à minha casa!</Value>
+		<Value>Привет дизайнер, меня зовут Лиза. Добро пожаловать в мой дом!</Value>
+		<Value>Ciao diseñador, il mio nome è Lisa. Benvenuto nella casa mia!</Value>
+	</Translation>
+	<Translation key="room1_start_dialog_2">
+		<Value>As you can see, I just moved to this house recently and i'm not good at decorating the house. Can you help me?</Value>
+		<Value>Như bạn thấy, tôi vừa chuyển đến ngôi nhà này thời gian gần đây và tôi không giỏi trang trí ngôi nhà. Bạn có thể giúp tôi được không?</Value>
+		<Value>Comme vous pouvez le voir, je viens d'emménager dans cette maison récemment et je ne suis pas bon à la décoration de la maison. Pouvez-vous m'aider?</Value>
+		<Value>あなたが見ることができるように、私は最近、この家に移動し、私は家を飾るのが得意ではないんです。手伝って頂けますか？</Value>
+		<Value>당신이 볼 수 있듯이, 나는 최근에이 집에 이사와 나는 집 장식 잘 모르겠어요. 도와주세요?</Value>
+		<Value>正如你所看到的，我刚搬到这所房子最近，我不擅长装修房子。你能帮助我吗？</Value>
+		<Value>Zoals je kunt zien, ik net verhuisd naar dit huis onlangs en ik ben niet goed in het versieren van het huis. Kun je me helpen?</Value>
+		<Value>Wie Sie sehen können, habe ich in diesem Haus vor kurzem gerade bewegt, und ich bin nicht gut in das Haus zu dekorieren. Können Sie mir helfen?</Value>
+		<Value>Come potete vedere, ho appena trasferito in questa casa da poco e io non sono bravo a decorare la casa. Mi potete aiutare?</Value>
+		<Value>Como você pode ver, eu só mudei para esta casa recentemente e eu não sou bom em decorar a casa. Pode me ajudar?</Value>
+		<Value>Как вы можете видеть, я только что переехал в этот дом недавно, и я не очень хорошо украшать дом. Можете ли вы мне помочь?</Value>
+		<Value>Ven vedere potete, ho appena trasferito en questa casa da poco e io non sono un bravo decorare la casa. Mi aiutare potete?</Value>
+	</Translation>
+	<Translation key="room1_end_dialog_1">
+		<Value>Wow! You have just completed decoring the room. It's feel so lively and colorful right now. I know it's a good idea to ask you help me.</Value>
+		<Value>Wow! Bạn vừa hoàn thành trang trí phòng. Trông nó thật sống động và đầy màu sắc</Value>
+		<Value>Wow! Vous venez de terminer débourrage la pièce. Ce sentiment de si bon vivant et coloré maintenant. Je sais que c'est une bonne idée de vous demander de me aider.</Value>
+		<Value>うわー！あなただけの部屋を脱コア完了しました。今は生き生きとカラフル右ような感じです。私はそれはあなたが私を助ける尋ねることをお勧めします知っています。</Value>
+		<Value>와! 당신은 방을 decoring 완료했습니다. 지금 생동감 있고 다채로운 바로 그래서 그것의 느낌. 나는 당신이 나를 도와 요청하는 것이 좋습니다 알고있다.</Value>
+		<Value>哇！您刚刚完成的除芯房间。它的手感如此生动和丰富多彩的现在。我知道这是一个好主意，请你帮我。</Value>
+		<Value>Wauw! Je hebt zojuist Decoring de kamer. Het is het gevoel zo levendig en kleurrijk op dit moment. Ik weet dat het een goed idee om te vragen u me helpen.</Value>
+		<Value>Beeindruckend! Sie haben gerade den Raum abgeschlossen Entkernen. Es ist das Gefühl so lebendig und bunt jetzt. Ich weiß, es ist eine gute Idee fragen Sie mir helfen.</Value>
+		<Value>Wow! Avete appena completato sterratura la stanza. E 'sensazione così giusto vivace e colorato ora. So che è una buona idea di chiedere che ti aiuti.</Value>
+		<Value>Uau! Você acabou de completar decoring da sala. É sensação tão animada e colorida no momento. Eu sei que é uma boa idéia para pedir-lhe me ajudar.</Value>
+		<Value>Ух ты! Вы только что завершили Decoring комнаты. Это ощущение настолько живой и красочный прямо сейчас. Я знаю, что это хорошая идея, чтобы попросить вас помочь мне.</Value>
+		<Value>¡Guau! Avete appena completato sterratura la estrofa. E 'sensazione così Giusto vivace e colorato ora. Así che è una buona idea di chiedere che ti aiuti.</Value>
+	</Translation>
+	<Translation key="booster_guide_hammer">
+		<Value>Select a jewel or an obstacle you want removed!</Value>
+		<Value>Chọn một kim cương hoặc chướng ngại vật mà bạn muốn phá hủy</Value>
+		<Value>Sélectionnez un bijou ou un obstacle que vous souhaitez supprimer!</Value>
+		<Value>宝石やあなたが削除したい障害物を選択します！</Value>
+		<Value>보석 또는 제거 할 장애물을 선택하십시오!</Value>
+		<Value>选择一个宝石或者你想删除的障碍！</Value>
+		<Value>Selecteer een juweel of een obstakel dat u wilt verwijderen!</Value>
+		<Value>Wählen Sie ein Juwel oder ein Hindernis Sie entfernen möchten!</Value>
+		<Value>Selezionare un gioiello o un ostacolo che si desidera rimuovere!</Value>
+		<Value>Selecione uma jóia ou um obstáculo que você quer removido!</Value>
+		<Value>Выберите драгоценный камень или препятствие вы хотите удалены!</Value>
+		<Value>Selezionare un gioiello O ONU ostacolo che si Desidera rimuovere!</Value>
+	</Translation>
+	<Translation key="booster_guide_candy">
+		<Value>Select a position to place the Candy Bomb!</Value>
+		<Value>Chọn một vị trí để đặt Candy Bomb</Value>
+		<Value>Sélectionnez une position pour placer la bombe Candy!</Value>
+		<Value>キャンディ爆弾を配置する位置を選択します！</Value>
+		<Value>캔디 폭탄을 배치 할 위치를 선택합니다!</Value>
+		<Value>选择一个位置来放置糖果炸弹！</Value>
+		<Value>Selecteer een positie om de Candy Bomb plaatst!</Value>
+		<Value>Wählen Sie eine Position, die Süßigkeit Bombe zu platzieren!</Value>
+		<Value>Selezionare una posizione per posizionare la bomba Candy!</Value>
+		<Value>Selecione uma posição para colocar a bomba do doce!</Value>
+		<Value>Выберите позицию, чтобы поместить конфеты бомбы!</Value>
+		<Value>Selezionare Una posizione por posizionare La Bomba de caramelo!</Value>
+	</Translation>
+	<Translation key="booster_guide_hrocket">
+		<Value>Touch to launch the rocket horizontally from the touch poin</Value>
+		<Value>Chạm để phóng rocket theo chiều ngang</Value>
+		<Value>Touchez pour lancer la fusée à l'horizontale de la poin tactile</Value>
+		<Value>タッチPOINから水平方向にロケットを起動するためにタッチ</Value>
+		<Value>터치 poin에서 수평으로 로켓을 발사 터치</Value>
+		<Value>触摸从触摸POIN水平发射火箭</Value>
+		<Value>Tik op om de raket horizontaal te starten vanuit het touch poin</Value>
+		<Value>Tippen Sie auf die Rakete horizontal vom Berührungs poin zu starten</Value>
+		<Value>Toccare per lanciare il razzo orizzontalmente dal tocco poin</Value>
+		<Value>Toque para lançar o foguete horizontalmente a partir da poin toque</Value>
+		<Value>Нажмите, чтобы запустить ракету по горизонтали от сенсорной POIN</Value>
+		<Value>Toccare por lanciare il Razzo orizzontalmente dal tocco poin</Value>
+	</Translation>
+	<Translation key="booster_guide_vrocket">
+		<Value>Touch to launch the rocket vertical from the touch point.</Value>
+		<Value>Chạm để phóng rocket theo chiều dọc</Value>
+		<Value>Touchez pour lancer la fusée verticale du point de contact.</Value>
+		<Value>タッチポイントからの垂直ロケットを起動するためにタッチします。</Value>
+		<Value>터치 지점에서 수직 로켓을 발사 터치.</Value>
+		<Value>触摸发射火箭从触摸点垂直。</Value>
+		<Value>Tik op om de raket verticaal uit de aanraking punt te starten.</Value>
+		<Value>Tippen Sie auf die Rakete senkrecht von dem Berührungspunkt zu starten.</Value>
+		<Value>Toccare per lanciare il razzo verticale dal punto di contatto.</Value>
+		<Value>Toque para lançar o foguete vertical a partir do ponto de contato.</Value>
+		<Value>Нажмите, чтобы запустить ракету по вертикали от точки касания.</Value>
+		<Value>Toccare por lanciare il Razzo verticale dal punto di contatto.</Value>
+	</Translation>
+	<Translation key="booster_guide_shuffle">
+		<Value>Shuffle the board</Value>
+		<Value>Trộn toàn bộ bảng</Value>
+		<Value>Mélangez le conseil d'administration</Value>
+		<Value>ボードをシャッフル</Value>
+		<Value>보드 셔플</Value>
+		<Value>洗牌板</Value>
+		<Value>Schud de raad van bestuur</Value>
+		<Value>Mische das Brett</Value>
+		<Value>Mescolate la scheda</Value>
+		<Value>Baralhar o tabuleiro</Value>
+		<Value>Перемешайте доску</Value>
+		<Value>Mescolate la scheda</Value>
+	</Translation>
+	<Translation key="language">
+		<Value>Language</Value>
+		<Value>Ngôn ngữ</Value>
+		<Value>Langue</Value>
+		<Value>言語</Value>
+		<Value>언어</Value>
+		<Value>语言</Value>
+		<Value>Taal</Value>
+		<Value>Sprache</Value>
+		<Value>linguaggio</Value>
+		<Value>Língua</Value>
+		<Value>Язык</Value>
+		<Value>linguaggio</Value>
+	</Translation>
+	<Translation key="spin">
+		<Value>Start</Value>
+		<Value>Quay</Value>
+		<Value>Début</Value>
+		<Value>開始</Value>
+		<Value>스타트</Value>
+		<Value>开始</Value>
+		<Value>Begin</Value>
+		<Value>Start</Value>
+		<Value>Inizio</Value>
+		<Value>Começar</Value>
+		<Value>Начинать</Value>
+		<Value>inizio</Value>
+	</Translation>
+	<Translation key="next_free_spin">
+		<Value>Next free spin in</Value>
+		<Value>Quay miễn phí sau:</Value>
+		<Value>free spin suivante</Value>
+		<Value>で次のフリースピン</Value>
+		<Value>에서 다음 무료 스핀</Value>
+		<Value>在接下来的自由旋转</Value>
+		<Value>Volgende free spin in</Value>
+		<Value>Weiter Gratis-Spin-in</Value>
+		<Value>Successivo libera rotazione in</Value>
+		<Value>Próxima rodada grátis em</Value>
+		<Value>Следующий свободный спин в</Value>
+		<Value>Successivo libera en rotazione</Value>
+	</Translation>
+	<Translation key="watch_video">
+		<Value>Watch video</Value>
+		<Value>Xem video</Value>
+		<Value>Regarder la vidéo</Value>
+		<Value>ビデオを見る</Value>
+		<Value>비디오를보다</Value>
+		<Value>看视频</Value>
+		<Value>Bekijk video</Value>
+		<Value>Schau Video</Value>
+		<Value>Guarda un video</Value>
+		<Value>Assistir vídeo</Value>
+		<Value>Смотреть видео</Value>
+		<Value>Guarda el vídeo de la ONU</Value>
+	</Translation>
+	<Translation key="free_spin_available">
+		<Value>Free Lucky Wheel is now available</Value>
+		<Value>Lucky Wheel miễn phí đã sẵn sàng</Value>
+		<Value>Gratuit chanceux Wheel est maintenant disponible</Value>
+		<Value>無料ラッキーホイールが利用可能になりました</Value>
+		<Value>무료 행운의 휠 사용할 수 있습니다</Value>
+		<Value>免费幸运轮现已推出</Value>
+		<Value>Gratis Lucky Wheel is nu beschikbaar</Value>
+		<Value>Gratis Glücksreifen ist jetzt verfügbar</Value>
+		<Value>Lucky Wheel gratuito è ora disponibile</Value>
+		<Value>Roda livre Sorte está agora disponível</Value>
+		<Value>Free Lucky Wheel теперь доступен</Value>
+		<Value>Lucky Wheel gratis è ora disponibile</Value>
+	</Translation>
+	<Translation key="select_jewels">
+		<Value>Select Jewels</Value>
+		<Value>Chọn Kim Cương</Value>
+		<Value>Sélectionnez Bijoux</Value>
+		<Value>セレクトジュエル</Value>
+		<Value>선택 보석</Value>
+		<Value>选择珠宝</Value>
+		<Value>Select Jewels</Value>
+		<Value>Wählen Sie Jewels</Value>
+		<Value>selezionare i Gioielli</Value>
+		<Value>Seleccione Jewels</Value>
+		<Value>Выберите Jewels</Value>
+		<Value>selezionare i Gioielli</Value>
+	</Translation>
+	<Translation key="unlock">
+		<Value>Unlock</Value>
+		<Value>Mở</Value>
+		<Value>Ouvrir</Value>
+		<Value>ロック解除</Value>
+		<Value>터놓다</Value>
+		<Value>开锁</Value>
+		<Value>Ontgrendelen</Value>
+		<Value>Freischalten</Value>
+		<Value>Sbloccare</Value>
+		<Value>Unlock</Value>
+		<Value>разблокировка</Value>
+		<Value>Sbloccare</Value>
+	</Translation>
+	<Translation key="select">
+		<Value>Select</Value>
+		<Value>Chọn</Value>
+		<Value>Sélectionner</Value>
+		<Value>選択する</Value>
+		<Value>고르다</Value>
+		<Value>选择</Value>
+		<Value>kiezen</Value>
+		<Value>Wählen</Value>
+		<Value>Selezionare</Value>
+		<Value>selecionar</Value>
+		<Value>Выбирать</Value>
+		<Value>Selezionare</Value>
+	</Translation>
+	<Translation key="contact">
+		<Value>Contact Us</Value>
+		<Value>Liên hệ</Value>
+		<Value>Contact Us</Value>
+		<Value>Contact Us</Value>
+		<Value>Contact Us</Value>
+		<Value>Contact Us</Value>
+		<Value>Contact Us</Value>
+		<Value>Contact Us</Value>
+		<Value>Contact Us</Value>
+		<Value>Contact Us</Value>
+		<Value>Contact Us</Value>
+		<Value>Contact Us</Value>
+	</Translation>
+	<Translation key="about">
+		<Value>About</Value>
+		<Value>Thông tin</Value>
+		<Value>About</Value>
+		<Value>About</Value>
+		<Value>About</Value>
+		<Value>About</Value>
+		<Value>About</Value>
+		<Value>About</Value>
+		<Value>About</Value>
+		<Value>About</Value>
+		<Value>About</Value>
+		<Value>About</Value>
+	</Translation>
+	<Translation key="phongtam_name">
+		<Value>Bath Room</Value>
+		<Value>Phòng tắm </Value>
+		<Value>Salle de bains</Value>
+		<Value>トイレ </Value>
+		<Value>화장실 </Value>
+		<Value>浴室</Value>
+		<Value>Badkamer</Value>
+		<Value>Bad</Value>
+		<Value>Bagno</Value>
+		<Value>Banheiro</Value>
+		<Value>Ванная комната</Value>
+		<Value>Baño</Value>
+	</Translation>
+	<Translation key="phongtam_des">
+		<Value>A beautiful beachside bathroom </Value>
+		<Value>Một phòng tắm bên bãi biển tuyệt đẹp</Value>
+		<Value>Une belle salle de bain à la plage</Value>
+		<Value>美しいビーチサイドの浴室</Value>
+		<Value>아름 다운 해변 욕실</Value>
+		<Value>美丽的海滨浴室</Value>
+		<Value>Een prachtige badkamer aan het strand</Value>
+		<Value>Ein wunderschönes Badezimmer mit Strandnähe</Value>
+		<Value>Un bellissimo bagno sulla spiaggia</Value>
+		<Value>Um belo banheiro à beira-mar</Value>
+		<Value>Красивая пляжная ванная комната</Value>
+		<Value>ONU BELLISSIMO BAGNO SHULLA SPIAGGIA</Value>
+	</Translation>
+</Translations>

@@ -1,0 +1,139 @@
+
+female.png
+size: 1222,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_hair1
+  rotate: true
+  xy: 529, 328
+  size: 195, 411
+  orig: 196, 411
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 9
+  size: 266, 441
+  orig: 266, 441
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 1004, 65
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 974, 3
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: true
+  xy: 1178, 267
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 534, 140
+  size: 178, 186
+  orig: 178, 186
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 714, 140
+  size: 178, 186
+  orig: 178, 186
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 894, 239
+  size: 85, 197
+  orig: 85, 197
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 913, 4
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 894, 155
+  size: 82, 199
+  orig: 82, 199
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 1093, 251
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 534, 13
+  size: 125, 195
+  orig: 125, 195
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 913, 58
+  size: 89, 95
+  orig: 92, 97
+  offset: 1, 1
+  index: -1
+longmay_L
+  rotate: false
+  xy: 1027, 44
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+longmay_R
+  rotate: true
+  xy: 1007, 2
+  size: 61, 18
+  orig: 63, 18
+  offset: 1, 0
+  index: -1
+pant
+  rotate: false
+  xy: 942, 326
+  size: 278, 197
+  orig: 278, 197
+  offset: 0, 0
+  index: -1
+paper
+  rotate: true
+  xy: 2, 277
+  size: 246, 525
+  orig: 246, 526
+  offset: 0, 1
+  index: -1
+right_hand
+  rotate: false
+  xy: 731, 8
+  size: 180, 130
+  orig: 180, 130
+  offset: 0, 0
+  index: -1
+right_hand_happy
+  rotate: false
+  xy: 445, 29
+  size: 87, 246
+  orig: 88, 246
+  offset: 0, 0
+  index: -1

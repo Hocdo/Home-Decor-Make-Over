@@ -1,0 +1,194 @@
+ManifestFileVersion: 0
+CRC: 3791747978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 959b3bd24e19fcf0a682f29199223bba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3b58b4e43708147efb2459692db34d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_plant_icon.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_candle_1.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_picture_2.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_light_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_floor_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_fruits_3.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_floor_3.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_bar_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_barstool_icon.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_wall_1.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_fruits_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_table_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_candle_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_wall_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_table_1.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_shelf_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_picture_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_flowers_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_wine_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_light_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_drinks_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_chair_1_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_bar_0.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_fruits_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_table_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_chair_1_3.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_table_3.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_light_1.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_bar_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_wall_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_window_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_shelf_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_chair_1_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_picture_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_candle_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_cabinet_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_curtain_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_barstool_3.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_plant_1.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_flowers_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_curtain_3.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_light_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_drinks_1.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_flowers_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_curtain_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_cabinet_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_chair_2_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_window_0.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_wine_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_curtain_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_candle_3.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_lamp_icon.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_plant_3.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_wall_3.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_chair_2_3.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_bar_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_coffee_3.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_chair_2_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_cabinet_3.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_barstool_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_cabinet_1.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_cabinet_0.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_bar_3.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_wall_0.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_coffee_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_coffee_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_shelf_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_fruits_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_floor_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_barstool_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_candle_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_wine_3.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_floor_0.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_bar_1.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_chair_2_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_chair_2_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_wall_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_candle_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_bar_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_fruits_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_curtain_1.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_drinks_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_shelf_3.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_table_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_wine_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_floor_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_lamp_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_picture_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_lamp_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_curtain_2.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_light_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_wall_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_plant_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_floor_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_light_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_drinks_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_wine_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_fruits_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_chair_1_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_chair_1_1.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_shelf_1.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_flowers_3.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_table_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_wine_2.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_coffee_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_coffee_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_plant_2.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_lamp_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_picture_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_wine_1.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_light_3.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_bar_icon.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_coffee_1.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_picture_1.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_candle_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_drinks_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/room.prefab
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_wall_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_chair_2_1.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_barstool_2.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_lamp_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_cabinet_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_picture_3.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_window_icon.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_window_3.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_cabinet_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_drinks_3.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_table_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_shelf_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_flowers_1.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_cabinet_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_fruits_1.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_curtain_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_barstool_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_flowers_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_window_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_plant_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_drinks_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_chair_1_2.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_plant_3_mini.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_flowers_1_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_floor_1.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_coffee_icon.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_lamp_1.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_shelf_2.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_barstool_1.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_window_1.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_chair_icon.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_window_2.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_floor_icon.png
+- Assets/Decor/Room/6_Modern Bar/UI/c1_r6_window_2_mini.png
+- Assets/Decor/Room/6_Modern Bar/Texture2D/c1_r6_lamp_3.png
+Dependencies: []

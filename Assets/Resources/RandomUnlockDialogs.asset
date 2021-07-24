@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf6376e1f3e5a644886d11af015b64f, type: 3}
+  m_Name: RandomUnlockDialogs
+  m_EditorClassIdentifier: 
+  data:
+  - content: unlock_dialog_1
+    size: 0
+    avatarFlipped: 0
+    speakerData: {fileID: 0}
+  - content: unlock_dialog_2
+    size: 0
+    avatarFlipped: 0
+    speakerData: {fileID: 0}
+  - content: unlock_dialog_3
+    size: 0
+    avatarFlipped: 0
+    speakerData: {fileID: 0}
+  - content: unlock_dialog_4
+    size: 0
+    avatarFlipped: 0
+    speakerData: {fileID: 0}
+  - content: unlock_dialog_5
+    size: 0
+    avatarFlipped: 0
+    speakerData: {fileID: 0}
+  - content: unlock_dialog_6
+    size: 0
+    avatarFlipped: 0
+    speakerData: {fileID: 0}

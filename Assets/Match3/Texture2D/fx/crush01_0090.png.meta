@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: b40a8ecd3586419983ab47e5b83c13b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300020
+    second: crush01_0090
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 65
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -43.48772, y: -10.50755}
+      - {x: -43.48772, y: 20.49245}
+      - {x: -40.48772, y: -17.50755}
+    - - {x: 38.51228, y: 20.49245}
+      - {x: -40.48772, y: -17.50755}
+      - {x: -43.48772, y: 20.49245}
+    - - {x: -9.48772, y: -20.50755}
+      - {x: -40.48772, y: -17.50755}
+      - {x: 38.51228, y: 20.49245}
+    - - {x: 38.51228, y: -20.50755}
+      - {x: -9.48772, y: -20.50755}
+      - {x: 38.51228, y: 20.49245}
+    - - {x: 43.51228, y: -10.50755}
+      - {x: 38.51228, y: -20.50755}
+      - {x: 38.51228, y: 20.49245}
+    - - {x: 43.51228, y: 10.49245}
+      - {x: 43.51228, y: -10.50755}
+      - {x: 38.51228, y: 20.49245}
+    physicsShape:
+    - - {x: 30.51228, y: 16.49245}
+      - {x: 27.51228, y: 18.49245}
+      - {x: 24.51228, y: 19.49245}
+      - {x: 13.51228, y: 19.49245}
+      - {x: -0.4877205, y: 6.492451}
+      - {x: -11.48772, y: 10.49245}
+      - {x: -37.48772, y: 15.49245}
+      - {x: -42.48772, y: 11.49245}
+      - {x: -42.48772, y: -10.50755}
+      - {x: -40.48772, y: -15.50755}
+      - {x: -17.48772, y: -18.50755}
+      - {x: 17.51228, y: -19.50755}
+      - {x: 33.51228, y: -19.50755}
+      - {x: 40.51228, y: -14.50755}
+      - {x: 42.51228, y: -5.507549}
+      - {x: 42.51228, y: 0.4924507}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

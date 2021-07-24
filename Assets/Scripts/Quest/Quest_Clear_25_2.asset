@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42ebaa580f669c94d97152dfca0b0a71, type: 3}
+  m_Name: Quest_Clear_25_2
+  m_EditorClassIdentifier: 
+  rewardGemCount: 2
+  finishState: 0
+  targetCount: 25
+  targetRemainingMove: 0
+  withStreak: 0

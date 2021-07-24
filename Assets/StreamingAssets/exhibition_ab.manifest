@@ -1,0 +1,191 @@
+ManifestFileVersion: 0
+CRC: 167350615
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a94aa2dc7fce9934767b08b8421d95e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3b58b4e43708147efb2459692db34d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_stairs_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_stool_2.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_top_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_cabinet_2.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_carpet_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_lamp_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_smallmodel_1.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_bigmodel_2.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_stairs_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_top_0.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_picture_3.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_light_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_trophy_2.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_bigmodel_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_posters_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_top_1.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_smallmodel_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_wall_0.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_billboard_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_booth_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_lamp_2.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_booth_0.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_picture_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_lamp_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_sculpture_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_trophy_1.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_trophy_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_cabinet_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_stool_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_bigmodel_1.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_billboard_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_posters_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_booth_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_stool_icon.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_stool_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_window_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_floor_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_top_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_billboard_2.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_carpet_1.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_cabinet_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_sculpture_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_carpet_2.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_window_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_cabinet_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_smallmodel_2.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_picture_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_sculpture_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_trophy_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_booth_1.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_window_2.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_sculpture_2.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_wall_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_trophy_3.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_sculpture_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/room.prefab
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_trophy_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_floor_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_light_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_picture_1.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_cabinet_1.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_smallmodel_3.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_plant_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_top_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_trophy_0.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_stairs_1.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_stool_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_bigmodel_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_light_1.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_wall_1.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_stairs_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_lamp_1.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_wall_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_billboard_icon.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_light_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_stairs_0.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_billboard_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_sculpture_1.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_sculpture_3.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_stairs_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_carpet_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_lamp_3.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_stool_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_carpet_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_floor_2.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_floor_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_floor_0.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_stairs_2.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_lamp_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_smallmodel_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_decoration_2.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_window_1.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_plant_1.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_smallmodel_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_booth_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_stairs_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_light_0.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_picture_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_plant_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_wall_2.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_plant_icon.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_trophy_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_lamp_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_posters_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_smallmodel_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_decoration_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_stool_1.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_wall_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_plant_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_decoration_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_decoration_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_booth_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_light_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_picture_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_booth_2.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_plant_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_top_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_wall_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_floor_1.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_decoration_icon.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_window_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_carpet_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_posters_1.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_wall_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_billboard_1.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_posters_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_posters_2.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_light_2.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_floor_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_billboard_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_decoration_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_window_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_top_2.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_booth_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_decoration_1.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_bigmodel_3_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_plant_2.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_bigmodel_3.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_bigmodel_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_cabinet_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_window_icon.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_top_1_mini.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_light_3.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_picture_2.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_floor_icon.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_window_0.png
+- Assets/Decor/Room/4_Exhinition room/Texture2D/c1_r4_cabinet_3.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_carpet_2_mini.png
+- Assets/Decor/Room/4_Exhinition room/UI/c1_r4_posters_1_mini.png
+Dependencies: []

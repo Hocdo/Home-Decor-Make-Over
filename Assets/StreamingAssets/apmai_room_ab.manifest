@@ -1,0 +1,130 @@
+ManifestFileVersion: 0
+CRC: 2139494804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb53752c65ccfaed4b4af40fadabb8dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3b58b4e43708147efb2459692db34d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/ApMai/Final/light_icon.png
+- Assets/Decor/Room/ApMai/Final/floor_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_decor_1.png
+- Assets/Decor/Room/ApMai/Final/wall_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_ban_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_rodo_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tuong_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_dentreo_2.png
+- Assets/Decor/Room/ApMai/Final/decoration_icon.png
+- Assets/Decor/Room/ApMai/Final/picture_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tranhtran_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tab_3.png
+- Assets/Decor/Room/ApMai/Final/table_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_dentreo_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_cuaso_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tranhban_1.png
+- Assets/Decor/Room/ApMai/BG_khongxoa.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_cuasotren_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_goi_2.png
+- Assets/Decor/Room/ApMai/Final/window_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tranhban_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_giuong_2.png
+- Assets/Decor/Room/ApMai/Final/leftsofa_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_giuong_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tuong_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_decor_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_san_1.png
+- Assets/Decor/Room/ApMai/room.prefab
+- Assets/Decor/Room/ApMai/Final/room_apmai_goi_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tranhtuong_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_cuasotren_0.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_ban_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tu_2.png
+- Assets/Decor/Room/ApMai/Final/lamp_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_rem_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_sofa_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_san_0.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_cay_1.png
+- Assets/Decor/Room/ApMai/Final/plant_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tuong_0.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tranhtuong_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_cuaso_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_dentreo_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_rodo_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tranhban_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_giuong_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_sofa_1.png
+- Assets/Decor/Room/ApMai/Final/chair_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tu_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_goi_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tham_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_san_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_decor_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tham_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tab_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_cay_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_denday_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_cuaso_0.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_ghedon_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_cay_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_rem_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_san_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tuong_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_denday_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_denday_1.png
+- Assets/Decor/Room/ApMai/Final/sofa_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_cuaso_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_rodo_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_ghedon_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_cuasotren_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tu_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_den_1.png
+- Assets/Decor/Room/ApMai/Final/curtain_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_ban_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_cuasotren_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_ghedon_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tranhtuong_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_den_3.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_sofa_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tab_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tranhtran_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_den_2.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_rem_1.png
+- Assets/Decor/Room/ApMai/Final/lamp_icon_1.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tranhtran_3.png
+- Assets/Decor/Room/ApMai/Final/bed_icon.png
+- Assets/Decor/Room/ApMai/Final/room_apmai_tham_1.png
+- Assets/Decor/Room/ApMai/Final/carpet_icon.png
+Dependencies: []

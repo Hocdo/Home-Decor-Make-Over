@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CoinAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dcb9f1c9dbbcd8c46895ce99abba59e4, type: 3}
+    totalSpriteSurfaceArea: 37444
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 753430a0164fcc441946d3543212ca68, type: 3}
+  - {fileID: 21300000, guid: ce04ab71a99526643900ce931a0288b7, type: 3}
+  - {fileID: 21300000, guid: c55d8c8795bf6d14391207ce19e93f8b, type: 3}
+  - {fileID: 21300000, guid: 05ef0fd798299cb449b6592f538d5639, type: 3}
+  - {fileID: 21300000, guid: f334090a4bd7ae04ebe5ce7d7b6aaf62, type: 3}
+  - {fileID: 21300000, guid: d0d23c2aac07329479a9b27b7959ba54, type: 3}
+  - {fileID: 21300000, guid: 09aacf7cdc910a04ab59f7654147de78, type: 3}
+  - {fileID: 21300000, guid: 799ac04fbb0816d4cb90df5ba37da371, type: 3}
+  - {fileID: 21300000, guid: 9618d6af676b5a343bd8ab90f5da6b8d, type: 3}
+  - {fileID: 21300000, guid: 1a4f07bf757454c4faef1e21d0645e25, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - coin8
+  - coin10
+  - coin9
+  - coin5
+  - coin2
+  - coin7
+  - coin3
+  - coin1
+  - coin6
+  - coin4
+  m_RenderDataMap: {}
+  m_Tag: CoinAtlas
+  m_IsVariant: 0

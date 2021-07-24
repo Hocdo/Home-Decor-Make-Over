@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Popup
+  - GameEffect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Tutorial
+  - TutorialMask
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Icon
+    uniqueID: 3096064101
+    locked: 0
+  - name: Main UI
+    uniqueID: 3427008035
+    locked: 0
+  - name: Tutorial
+    uniqueID: 2523127251
+    locked: 0
+  - name: TutorialCharacter
+    uniqueID: 1144938163
+    locked: 0

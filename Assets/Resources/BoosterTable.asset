@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30f840185f60a9a45bd8017ed0659d26, type: 3}
+  m_Name: BoosterTable
+  m_EditorClassIdentifier: 
+  data:
+  - type: 0
+    sprite: {fileID: 21300000, guid: f95731133f5135b4fac324b2e604006c, type: 3}
+    guide: booster_guide_hammer
+  - type: 1
+    sprite: {fileID: 21300000, guid: e903841857b71d64ba73a4a088516c86, type: 3}
+    guide: booster_guide_candy
+  - type: 3
+    sprite: {fileID: 21300000, guid: af4eab2cd91aff44f8b65fb2a8ad0d34, type: 3}
+    guide: booster_guide_hrocket
+  - type: 4
+    sprite: {fileID: 21300000, guid: 589ffc7753a39004c83dbb0e3b0605f6, type: 3}
+    guide: booster_guide_vrocket
+  - type: 2
+    sprite: {fileID: 21300000, guid: 297348c6a09a4195994b9011a33862f7, type: 3}
+    guide: booster_guide_shuffle

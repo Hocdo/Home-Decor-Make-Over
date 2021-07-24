@@ -1,0 +1,195 @@
+ManifestFileVersion: 0
+CRC: 269870532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3a769d49b1e6f7a66d22430d30da547
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2555ba4a87ed3adea0c8064b34faff5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 904b210ae183487489b96e3c9e1fa71e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_decoration_3.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_chair_1_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_drawing_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_droplight_3_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_paper_3.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_shortcabinet_icon.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_window_2.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_wall_0.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_drawing_1_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_decoration_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_decoration_1_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_chart_3_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_paper_3_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_carpet_3_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_window_0.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_computer_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_decoration_icon.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_chair_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_photo_1_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_chair_1.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_paper_1_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_model_1.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_window_3.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_shortcabinet_1.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_table_icon.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_picture_1.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_carpet_1.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_decoration_2.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_table_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_chair_icon.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_droplight_2.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_cabinet_0.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_cabinet_3.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_chart_3.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_plant_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_drawing_3_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_cabinet_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_book_1_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_computer_0.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_window_1.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_picture_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_table_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_wall_3_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_floor_1.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_cabinet_1.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_carpet_0.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_wall_icon.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_droplight_3.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_table_3_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_window_3_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_floor_3.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_book_3.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_floor_2_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_light_1.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_light_3_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_floor_0.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_wall_3.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_floor_3_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_shortcabinet_1_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_shortcabinet_3.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_floor_icon.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_chart_1.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_plant_icon.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_table_3.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_table_1.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_window_1_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_droplight_icon.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_cabinet_1_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_carpet_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_shortcabinet_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_book_3_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_wall_1_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_plant_1_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_shortcabinet_3_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_cabinet_icon.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_picture_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_chair_2_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_shortcabinet_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_picture_icon.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_cabinet_2_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_drawing_1.png
+- Assets/Decor/Room/5_Work Place/room.prefab
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_paper_1.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_computer_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_floor_1_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_computer_icon.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_light_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_carpet_1_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_light_icon.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_computer_1_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_model_3_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_light_0.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_computer_3.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_book_2.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_plant_1.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_carpet_3.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_drawing_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_wall_2_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_floor_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_picture_3_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_photo_3_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_decoration_1.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_droplight_1_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_picture_0.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_drawing_3.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_model_3.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_picture_1_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_paper_2.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_table_0.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_drawing_icon.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_book_icon.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_light_1_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_carpet_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_chair_3_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_cabinet_3_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_model_icon.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_paper_icon.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_chart_icon.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_photo_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_droplight_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_book_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_model_1_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_photo_icon.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_photo_3.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_book_0.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_computer_1.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_light_2.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_chair_3.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_chart_2_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_carpet_icon.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_paper_2_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_chart_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_plant_3_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_light_3.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_computer_3_mini.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_window_2_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_photo_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_decoration_3_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_book_1.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_picture_3.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_model_2.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_wall_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_chart_1_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_plant_3.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_droplight_1.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_model_2_mini.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_photo_1.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_plant_2.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_window_icon.png
+- Assets/Decor/Room/5_Work Place/Texture2D/c1_r5_wall_1.png
+- Assets/Decor/Room/5_Work Place/UI/c1_r5_table_1_mini.png
+Dependencies: []

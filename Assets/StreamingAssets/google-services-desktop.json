@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060005607791",
+    "project_id": "home-decor-makeover---tuandq",
+    "storage_bucket": "home-decor-makeover---tuandq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060005607791:android:808f6c5cdb43443e34109a",
+        "android_client_info": {
+          "package_name": "com.decor.design.home.makeover.garden.match3.puzzle.jewel.game.color"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060005607791-the7o60k90st4oiauej8bb4buvl42shh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmFC3yaCv6yiuE_sM-DRZinzaf2nCD69E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060005607791-the7o60k90st4oiauej8bb4buvl42shh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,146 @@
+ManifestFileVersion: 0
+CRC: 3312919133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b412d04137bb9fe591a9e8023bc76f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2555ba4a87ed3adea0c8064b34faff5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 904b210ae183487489b96e3c9e1fa71e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_tile_2_mini.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_plant_2_mini.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_top_1_mini.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_tile_3_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_lamp_0.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_plant_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_curtain_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_roundtable_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_tile_1.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_window_2_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_statue_3.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_plant_icon.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_decoration_1.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_window_1_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_picture_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_table_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_table_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_lamp_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_top_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_decoration_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_window_1.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_table_3_mini.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_window_icon.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_cabinet_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_sofa_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_statue_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_wall_0.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_tile_3.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_sofa_icon.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_window_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_desktop_2.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_top_icon.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_fourchairs_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_desktop_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_chair_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_flower_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_floor_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_picture_2.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_wall_icon.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_table_1_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_decoration_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_curtain_3.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_roundtable_1_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_cart_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_flower_3.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_sofa_1_mini.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_tile_1_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_lamp_2.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_wall_3_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_cart_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_flower_1.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_window_3_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_plant_2.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_sofa_3_mini.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_sofa_2_mini.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_plant_3_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_fourchairs_1.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_wall_2_mini.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_statue_icon.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_window_0.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_top_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_curtain_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_lamp_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_top_0.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_wall_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_roundtable_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_plant_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_floor_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_wall_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_cart_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_floor_0.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_wall_1_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_chair_1.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_table_2_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_sofa_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_sofa_3.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_roundtable_2_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_wall_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_table_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_window_2.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_statue_1_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_top_2.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_top_3_mini.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_statue_3_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_sofa_0.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_roundtable_3_mini.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_top_2_mini.png
+- Assets/Decor/Room/7_Restaurant/room.prefab
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_chair_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_picture_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_cabinet_1.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_statue_2_mini.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_roundtable_3.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_floor_3.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_table_icon.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_tile_2.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_roundtable_icon.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_statue_1.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_desktop_1.png
+- Assets/Decor/Room/7_Restaurant/UI/c1_r7_tile_icon.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_cabinet_2.png
+- Assets/Decor/Room/7_Restaurant/Texture2D/c1_r7_fourchairs_2.png
+Dependencies: []

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Eff_Simple_Block_Blue"
+  m_Controller: {fileID: 9100000, guid: 482d0cac46544ad09ff05e852adaa4d5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0cc0c390a85c4b0d9b5729489d349581, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0cc0c390a85c4b0d9b5729489d349581, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1e777327a1914181a7f57b673774ce1e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e3f926658b6e4166aaf4476ecee4ee90, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3c73606c6e794947bf316c3154331751, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3c73606c6e794947bf316c3154331751, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 402ca57bf0d04a579d3e65fdf776d286, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 402ca57bf0d04a579d3e65fdf776d286, type: 2}

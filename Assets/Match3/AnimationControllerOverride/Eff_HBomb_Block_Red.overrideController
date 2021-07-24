@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Eff_HBomb_Block_Red"
+  m_Controller: {fileID: 9100000, guid: 3de084a831dc4b30bbd9100dd4ce81c3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 00af03c02e634d53aa75f732ac14e854, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 00af03c02e634d53aa75f732ac14e854, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 163de234a89c4c39b654e4b4937161c0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 286ba35279e7439b8c8c059715a9fe9d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1c72552245234761bc08af340d782fbb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1c72552245234761bc08af340d782fbb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3f6411500de34413a4d6f21af8072ac5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3f6411500de34413a4d6f21af8072ac5, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Eff_VBomb_Block_Orange"
+  m_Controller: {fileID: 9100000, guid: 7d6c425c65384b00bdd878d8b69f4015, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d6df55b19cc94709b38c68803630d622, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d6df55b19cc94709b38c68803630d622, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: dbe4d81d37564b6a9963242972f60b70, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 30d4207b88e04db6a0caad7b292cad19, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 62d3559a60474321a41e6fb0ef44d003, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 62d3559a60474321a41e6fb0ef44d003, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f9794320e03347dabbbfb3df0c8661e0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f9794320e03347dabbbfb3df0c8661e0, type: 2}

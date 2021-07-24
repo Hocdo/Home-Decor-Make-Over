@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 2476886936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dda0fb1372a8e543733c4104751619c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3b58b4e43708147efb2459692db34d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/PhongTam/Final/bath_room_tuong_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tuong1_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_mocao_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_san_0.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_ghe_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tranh_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_nhatam_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_decor_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_optuong_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tham_1.png
+- Assets/Decor/Room/PhongTam/Final/top_icon.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_ban_3.png
+- Assets/Decor/Room/PhongTam/Final/plant_icon.png
+- Assets/Decor/Room/PhongTam/Final/chair_icon.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_optuong_0.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_cay_2.png
+- Assets/Decor/Room/PhongTam/Final/carpet_icon.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_nhatam_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tran_0.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_bontam_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_cua_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tranh_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_bantreo_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_ghe_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tham_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_bantreo_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_san_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_gioao_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tran_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_san_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tran_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_san_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_mocao_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_gioao_1.png
+- Assets/Decor/Room/PhongTam/Final/picture_icon.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_nhatam_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_ghe_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tuong_3.png
+- Assets/Decor/Room/PhongTam/Final/c1_r5_paper_icon 1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_cua_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_cay_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_decor_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tranh_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_optuong_2.png
+- Assets/Decor/Room/PhongTam/Final/table_icon.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_ban_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_gioao_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_mocao_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tuong1_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tuong_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_optuong_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tuong_0.png
+- Assets/Decor/Room/PhongTam/Final/z2636146326814_8c573338a89eb625b12fec0d6ce8cadc.jpg
+- Assets/Decor/Room/PhongTam/Final/bath_room_ban_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tham_2.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tuong1_0.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_bantreo_3.png
+- Assets/Decor/Room/PhongTam/Final/wall_icon.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tuong1_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_cua_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_decor_1.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_cay_3.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_bontam_3.png
+- Assets/Decor/Room/PhongTam/room.prefab
+- Assets/Decor/Room/PhongTam/Final/bath_room_bontam_1.png
+- Assets/Decor/Room/PhongTam/Final/window_icon.png
+- Assets/Decor/Room/PhongTam/Final/bath_room_tran_2.png
+- Assets/Decor/Room/PhongTam/Final/decor_icon.png
+Dependencies: []

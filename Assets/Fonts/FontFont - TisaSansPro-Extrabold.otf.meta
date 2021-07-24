@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6ed6a659bd9a49ef83940b3a4c4f8c9c
+timeCreated: 1566652735
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "FontFont - TisaSansPro-Extrabold"
+  fontNames:
+  - Rockwell Extra Bold
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

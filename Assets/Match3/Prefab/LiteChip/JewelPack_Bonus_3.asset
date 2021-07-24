@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9122ba24ed418f14e8cd97f7e882876d, type: 3}
+  m_Name: JewelPack_Bonus_3
+  m_EditorClassIdentifier: 
+  id: jp3
+  effSimpleB: {fileID: 1789943994663464020, guid: a3961df7e0c19934e897886357109f5f,
+    type: 3}
+  effSimpleG: {fileID: 1789943994663464105, guid: d731428995627ed41bbfcff51680379c,
+    type: 3}
+  effSimpleO: {fileID: 1789943994663464255, guid: fd724abf262482447ab8ca879cb86624,
+    type: 3}
+  effSimpleP: {fileID: 1789943994663464197, guid: 3c7fec57dc3e9b84b97378e8da37ceae,
+    type: 3}
+  effSimpleR: {fileID: 1789943994663464093, guid: 8b766381399770642a430a0d5f293504,
+    type: 3}
+  effSimpleY: {fileID: 1789943994663464173, guid: 546400eca6d8b7b4c82ba7f7d0c516c5,
+    type: 3}
+  effSimpleRemoveB: {fileID: 1789943994663464039, guid: 1eead2eb09402644d9b7476483d4771c,
+    type: 3}
+  effSimpleRemoveG: {fileID: 1789943994663463948, guid: fe8e82c3bf49a254a92ef4f0509e527f,
+    type: 3}
+  effSimpleRemoveO: {fileID: 1789943994663464021, guid: 536dd3c8301c6fb4498012c001b27505,
+    type: 3}
+  effSimpleRemoveP: {fileID: 1789943994663464156, guid: 82bcb2bd433794c42b630320620ff615,
+    type: 3}
+  effSimpleRemoveR: {fileID: 1789943994663464163, guid: 4c7350e0b8c910a40899901146671dc9,
+    type: 3}
+  effSimpleRemoveY: {fileID: 1789943994663463947, guid: 4f609f00702159548b425bc154129dc1,
+    type: 3}
+  effCollectBlockB: {fileID: 1789943994663464340, guid: cab3e6ed2ab501b439fcbea8f032a45a,
+    type: 3}
+  effCollectBlockG: {fileID: 1789943994663464357, guid: 764d4ae7d81b9244e80e59da3fe9ae09,
+    type: 3}
+  effCollectBlockO: {fileID: 1789943994663464319, guid: 0e517a3253edbfb40b6549bad6385982,
+    type: 3}
+  effCollectBlockP: {fileID: 1789943994663464377, guid: 63b7ce84281712c4a9f40b1befd621ba,
+    type: 3}
+  effCollectBlockR: {fileID: 1789943994663464363, guid: 3bcf292636d22b749bfce3cf00a35be4,
+    type: 3}
+  effCollectBlockY: {fileID: 1789943994663464323, guid: c3068816a2cfd3e46a9bd23778318309,
+    type: 3}

@@ -1,0 +1,168 @@
+ManifestFileVersion: 0
+CRC: 705327233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e6c27108bb2ef4b821a765c612cd3a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c69cd2f9e217229d0c9984d2b438f28b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_plant_1.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_sofa_icon.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_sofa_0.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_light_3.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_top_icon.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_carpet_2_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_floor_icon.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_plant_1_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_sofa_3_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_wall_1.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_window_1.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_curtain_1.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_wall_3_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_carpet_2.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_curtain_3.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_top_2_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_wall_1_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_light_3_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_window_1_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_wall_icon.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_right_2.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_wall_2_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_curtain_1_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_lamp_2_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_right_icon.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_table_3.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_top_3.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_frame_2.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_leftsofa_1.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_right_1_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_table_1.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_left_icon.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_rightsofa_icon.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_top_1_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_table_3_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_rightsofa_1_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_carpet_1_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_left_4.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_left_1_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_sofa_3.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_frame_1.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_floor_1.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_plant_0.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_frame_0.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_right_1.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_light_2.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_floor_2.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_leftsofa_3_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_right_3.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_plant_3_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_curtain_3_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_light_1_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_curtain_2.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_frame_3_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_light_1.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_table_2.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_sofa_1.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_floor_1_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_lamp_icon.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_rightsofa_1.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_table_1_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_top_2.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_carpet_3_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_window_3_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_carpet_icon.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_plant_3.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_curtain_icon.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_left_3.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_wall_3.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_sofa_2_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_floor_0.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_right_3_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_sofa_2.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_lamp_2.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_right_2_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_flower_icon.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_rightsofa_2_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_rightsofa_3_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_floor_3.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_carpet_3.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_light_2_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_floor_2_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_lamp_0.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_leftsofa_2_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_sofa_1_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_leftsofa_1_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_top_0.png
+- Assets/Decor/Room/1_New_Living room/room.prefab
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_wall_0.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_window_2_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_left_1.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_leftsofa_icon.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_table_icon.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_floor_3_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_plant_2.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_left_3_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_left_2.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_top_1.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_leftsofa_2.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_plant_icon.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_lamp_1.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_lamp_3.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_top_3_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_rightsofa_2.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_lamp_1_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_tap_icon.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_carpet_1.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_table_2_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_frame_1_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_lamp_3_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_frame_icon.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_left_2_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_window_icon.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_light_0.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_rightsofa_3.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_wall_2.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_window_3.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_frame_2_mini.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_frame_3.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_leftsofa_3.png
+- Assets/Decor/Room/1_New_Living room/Texture2D/c1_r1_window_2.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_light_icon.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_plant_2_mini.png
+- Assets/Decor/Room/1_New_Living room/UI/c1_r1_curtain_2_mini.png
+Dependencies: []

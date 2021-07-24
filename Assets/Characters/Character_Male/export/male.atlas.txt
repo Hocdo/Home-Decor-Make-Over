@@ -1,0 +1,41 @@
+
+male.png
+size: 1405,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 510, 656
+  orig: 510, 656
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 660, 4
+  size: 161, 76
+  orig: 161, 76
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 1054, 209
+  size: 349, 303
+  orig: 349, 303
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1054, 5
+  size: 202, 266
+  orig: 205, 266
+  offset: 3, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 660, 82
+  size: 392, 430
+  orig: 392, 430
+  offset: 0, 0
+  index: -1
