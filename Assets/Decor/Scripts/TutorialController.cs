@@ -50,6 +50,11 @@ namespace Decor
                     Popup.PopupSystem.Instance.ShowPopupEvent -= ScheduleHeadStartBooster;
                 }
             }
+
+            if (GameMain.main!= null)
+            {
+                GameMain.main.isTutorial = false;
+            }   
         }
 
         private void SkipTutorial()

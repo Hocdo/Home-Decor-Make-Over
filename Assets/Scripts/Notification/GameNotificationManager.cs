@@ -1,10 +1,12 @@
-﻿using System.Collections;
+﻿#if UNITY_ANDROID
+using System.Collections;
 using System.Collections.Generic;
 using Unity.Notifications.Android;
 using UnityEngine;
-
+#endif
 public class GameNotificationManager : SingletonMonoBehaviour<GameNotificationManager>
 {
+#if UNITY_ANDROID
     private AndroidNotificationChannel channel;
 
     public void Initialize()
@@ -213,4 +215,5 @@ public class GameNotificationManager : SingletonMonoBehaviour<GameNotificationMa
             AndroidNotificationCenter.SendNotification(noti, channel.Id);
         }
     }
+#endif
 }

@@ -1,0 +1,144 @@
+ManifestFileVersion: 0
+CRC: 1693823947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c3fe974dd984270b0f87c937ab7d19d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3b58b4e43708147efb2459692db34d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/New Pink Room/Final/room_11_hanging_lamp_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_window_decor_top_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_curtain_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_cupboard_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_1_3.png
+- Assets/Decor/Room/New Pink Room/Final/11.plant_icon.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_mini_wall_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_table_decor_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_window_tree_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_sub_table_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_curtain_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_mini_wall_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_sideboard_decor_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_lamp_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_3_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_ceiling_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_curtain_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_sideboad_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_lamp_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_ceiling_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_window_tree_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_left_window_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_4_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_2_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_hanging_lamp_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_sideboad_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_3_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_mini_wall_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_ceiling_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_decor_3.png
+- Assets/Decor/Room/New Pink Room/room.prefab
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_4_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_floor_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_mini_wall_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_left_window_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_tree_1_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_table_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_floor_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_2_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_window_decor_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_2_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_1_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_carpet_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_sub_table_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_1_0.png
+- Assets/Decor/Room/New Pink Room/Final/11_decor_icon.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_2_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_cupboard_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_swing_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_sideboard_decor_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_window_tree_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_cupboard_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_window_decor_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_front_window_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_decor_1.png
+- Assets/Decor/Room/New Pink Room/Final/11.curtain_icon.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_carpet_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_left_window_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_table_decor_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_sideboard_decor_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_3_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_wall_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_3_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_window_decor_top_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_4_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_table_3.png
+- Assets/Decor/Room/New Pink Room/Final/11.carpet_icon.png
+- Assets/Decor/Room/New Pink Room/Final/11.wall_icon.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_sideboard_decor_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_window_decor_top_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_ceiling_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_front_window_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_sideboad_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_left_window_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_sideboad_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_sub_table_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_carpet_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_decor_2.png
+- Assets/Decor/Room/New Pink Room/Final/11.lamp_icon.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_front_window_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_swing_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_lamp_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_floor_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_wall_1.png
+- Assets/Decor/Room/New Pink Room/Final/11.window_icon.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_window_decor_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_chair_1_1.png
+- Assets/Decor/Room/New Pink Room/Final/11.chair_icon.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_hanging_lamp_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_tree_1_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_lamp_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_wall_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_wall_3.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_front_window_3.png
+- Assets/Decor/Room/New Pink Room/Final/11.top_icon.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_tree_1_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_cupboard_0.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_table_decor_1.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_table_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_swing_2.png
+- Assets/Decor/Room/New Pink Room/Final/room_11_floor_3.png
+- Assets/Decor/Room/New Pink Room/Final/11.table_icon.png
+Dependencies: []

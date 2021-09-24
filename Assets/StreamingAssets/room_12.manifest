@@ -1,0 +1,126 @@
+ManifestFileVersion: 0
+CRC: 2934644568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c58624de1498189d56f24c778fee774c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3b58b4e43708147efb2459692db34d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/New garden 1/Final/room_12_wall_0.png
+- Assets/Decor/Room/New garden 1/Final/room_12_house_decor_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_house_0.png
+- Assets/Decor/Room/New garden 1/Final/room_12_lamp_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_tree_decor_0.png
+- Assets/Decor/Room/New garden 1/room.prefab
+- Assets/Decor/Room/New garden 1/Final/room_12_dual_tree_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_floor_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_small_tree_1.png
+- Assets/Decor/Room/New garden 1/Final/12_decor_icon.png
+- Assets/Decor/Room/New garden 1/Final/room_12_right_chair_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_house_decor_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_wall_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_fireplace_0.png
+- Assets/Decor/Room/New garden 1/Final/room_12_right_bush_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_floor_0.png
+- Assets/Decor/Room/New garden 1/Final/room_12_picture_0.png
+- Assets/Decor/Room/New garden 1/Final/room_12_left_bush_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_left_chair_3.png
+- Assets/Decor/Room/New garden 1/Final/12.top_icon.png
+- Assets/Decor/Room/New garden 1/Final/room_12_decor_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_mini_bush_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_lamp_2.png
+- Assets/Decor/Room/New garden 1/Final/Sky.png
+- Assets/Decor/Room/New garden 1/Final/room_12_house_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_fireplace_plant_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_lamp_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_table_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_right_bush_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_dual_tree_3.png
+- Assets/Decor/Room/New garden 1/Final/12.lamp_icon.png
+- Assets/Decor/Room/New garden 1/Final/room_12_decor_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_tree_decor_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_big_tree_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_small_tree_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_fireplace_2.png
+- Assets/Decor/Room/New garden 1/Final/12.plant_icon.png
+- Assets/Decor/Room/New garden 1/Final/room_12_fireplace_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_right_chair_0.png
+- Assets/Decor/Room/New garden 1/Final/room_12_table_0.png
+- Assets/Decor/Room/New garden 1/Final/room_12_house_decor_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_big_tree_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_fireplace_plant_2.png
+- Assets/Decor/Room/New garden 1/Final/12.tree_icon.png
+- Assets/Decor/Room/New garden 1/Final/room_12_tree_decor_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_wall_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_left_chair_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_left_chair_2.png
+- Assets/Decor/Room/New garden 1/Final/12.picture_icon.png
+- Assets/Decor/Room/New garden 1/Final/room_12_floor_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_door_step_0.png
+- Assets/Decor/Room/New garden 1/Final/room_12_picture_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_table_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_right_chair_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_picture_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_left_bush_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_left_chair_0.png
+- Assets/Decor/Room/New garden 1/Final/room_12_wall_2.png
+- Assets/Decor/Room/New garden 1/Final/12.vase_icon.png
+- Assets/Decor/Room/New garden 1/Final/room_12_decor_0.png
+- Assets/Decor/Room/New garden 1/Final/room_12_floor_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_door_step_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_small_tree_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_big_tree_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_tree_decor_2.png
+- Assets/Decor/Room/New garden 1/Final/12.pavilion_icon.png
+- Assets/Decor/Room/New garden 1/Final/room_12_mini_bush_1.png
+- Assets/Decor/Room/New garden 1/Final/12.chair_icon.png
+- Assets/Decor/Room/New garden 1/Final/room_12_left_bush_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_decor_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_table_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_door_step_1.png
+- Assets/Decor/Room/New garden 1/Final/12.wall_icon.png
+- Assets/Decor/Room/New garden 1/Final/room_12_picture_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_door_step_3.png
+- Assets/Decor/Room/New garden 1/Final/12.table_icon.png
+- Assets/Decor/Room/New garden 1/Final/room_12_mini_bush_2.png
+- Assets/Decor/Room/New garden 1/Final/room_12_house_3.png
+- Assets/Decor/Room/New garden 1/Final/room_12_fireplace_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_fireplace_plant_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_dual_tree_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_house_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_right_bush_1.png
+- Assets/Decor/Room/New garden 1/Final/room_12_right_chair_3.png
+Dependencies: []

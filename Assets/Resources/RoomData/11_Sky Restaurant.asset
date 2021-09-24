@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca8eb9f1b3f15148bfe32bc878a2adc, type: 3}
+  m_Name: 11_Sky Restaurant
+  m_EditorClassIdentifier: 
+  assetBundleName: sky_restaurant_ab
+  id: 11
+  nextRoomId: 12
+  amountOfItemToUnlockNextRoom: 10
+  name: room_name_9
+  maxItemCount: 22
+  circleSprite: {fileID: 21300000, guid: 863f79b5a12602d469ee4c646ea71c0f, type: 3}
+  description: room_desc_9
+  startDialogs: []
+  completeDialogs:
+  - content: room1_end_dialog_1
+    size: 0
+    avatarFlipped: 0
+    speakerData: {fileID: 0}

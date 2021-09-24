@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1406954778
+CRC: 886327727
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -34,4 +34,13 @@ AssetBundleManifest:
       Dependencies: {}
     Info_10:
       Name: phongtam_ab
+      Dependencies: {}
+    Info_11:
+      Name: room_11
+      Dependencies: {}
+    Info_12:
+      Name: room_12
+      Dependencies: {}
+    Info_13:
+      Name: room_13
       Dependencies: {}

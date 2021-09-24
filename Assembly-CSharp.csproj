@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_2_7;UNITY_2020_2;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;UNITY_ASTC_ONLY_DECOMPRESS;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_2_7;UNITY_2020_2;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;UNITY_ASTC_ONLY_DECOMPRESS;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -149,7 +149,6 @@
     <Compile Include="Assets\Decor\Scripts\CurrencyDataTable.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ReorderableList\ReorderableListElement.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ExtensionsToggleGroup.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSourcePlacement.cs" />
     <Compile Include="Assets\Match3\Scripts\FruitsBoxDragEnable.cs" />
     <Compile Include="Assets\Scripts\Popup\PopupType.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\Events\ColorChangedEvent.cs" />
@@ -165,7 +164,6 @@
     <Compile Include="Assets\Match3\Scripts\Slot.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\Accordion\Accordion.cs" />
     <Compile Include="Assets\Match3\Scripts\NetRequestSaveGameData.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSourceIAgent.cs" />
     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\DialogShare.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\ToolTips\HoverTooltip.cs" />
     <Compile Include="Assets\Match3\Scripts\Chip.cs" />
@@ -296,7 +294,6 @@
     <Compile Include="Assets\Scripts\Popup\PopupGemStore.cs" />
     <Compile Include="Assets\Scripts\Quest\QuestUtility.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\Segment.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSourceUtils.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\PPIViewer.cs" />
     <Compile Include="Assets\Match3\Scripts\ConfigJson.cs" />
     <Compile Include="Assets\Match3\Scripts\GameMain.cs" />
@@ -310,7 +307,6 @@
     <Compile Include="Assets\Decor\Scripts\UI\BackgroundFitCamera.cs" />
     <Compile Include="Assets\Scripts\ParticlesFollowTarget.cs" />
     <Compile Include="Assets\Decor\Scripts\AudioManager.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSourceImpressionData.cs" />
     <Compile Include="Assets\Match3\Scripts\PathologicalGames\PoolManager.cs" />
     <Compile Include="Assets\Match3\Scripts\NetRequestSaveMapData.cs" />
     <Compile Include="Assets\Match3\Scripts\ResPacketSaveMapData.cs" />
@@ -332,8 +328,6 @@
     <Compile Include="Assets\Match3\Scripts\LogJson.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\UIFlippable.cs" />
     <Compile Include="Assets\Match3\Scripts\MagicalCrow.cs" />
-    <Compile Include="Assets\IronSource\Scripts\UnsupportedPlatformAgent.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSourceJSON.cs" />
     <Compile Include="Assets\Shining\Shining.cs" />
     <Compile Include="Assets\Decor\Scripts\RoomAssetBundleManager.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\ColorSampler.cs" />
@@ -397,7 +391,6 @@
     <Compile Include="Assets\Match3\Scripts\NGUIMath.cs" />
     <Compile Include="Assets\Scripts\CollectBlockType.cs" />
     <Compile Include="Assets\Match3\Scripts\PacketDataSpecItem.cs" />
-    <Compile Include="Assets\IronSource\Scripts\AndroidAgent.cs" />
     <Compile Include="Assets\Match3\Scripts\MonoSingleton.cs" />
     <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenTk2d.cs" />
     <Compile Include="Assets\Scripts\Quest\QuestUseInGameBoosterConfig.cs" />
@@ -417,7 +410,6 @@
     <Compile Include="Assets\Match3\Scripts\AppEventManager.cs" />
     <Compile Include="Assets\Scripts\Popup\PopupDarkEffect.cs" />
     <Compile Include="Assets\Scripts\TempData.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSource.cs" />
     <Compile Include="Assets\Match3\Scripts\SmallCandyHVBombMixEffect.cs" />
     <Compile Include="Assets\Match3\Scripts\PathologicalGames\SpawnPoolsDict.cs" />
     <Compile Include="Assets\unity-ui-extensions\Examples\UICircleProgress\UICircleChangeColor.cs" />
@@ -469,7 +461,6 @@
     <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\ScrollRectLinker.cs" />
     <Compile Include="Assets\Decor\Scripts\UI\DirectUIView.cs" />
     <Compile Include="Assets\Match3\Scripts\NetRequestResume.cs" />
-    <Compile Include="Assets\IronSource\Scripts\iOSAgent.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\ColorPicker\ColorValues.cs" />
     <Compile Include="Assets\Match3\Scripts\ResPacketCheckTableVersion.cs" />
     <Compile Include="Assets\Match3\Scripts\SFXPoolInfo.cs" />
@@ -507,7 +498,6 @@
     <Compile Include="Assets\Scripts\Quest\QuestUseHeadStartBoosterConfig.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\CooldownButton.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Utilities\Circle.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSourceSegment.cs" />
     <Compile Include="Assets\Decor\Scripts\GameDecorController.cs" />
     <Compile Include="Assets\Decor\Scripts\UIUtility.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\ShineEffector.cs" />
@@ -541,7 +531,6 @@
     <Compile Include="Assets\Match3\Scripts\SmallCandySimpleBombMixEffect.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\RadialLayout.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSourceInitilizer.cs" />
     <Compile Include="Assets\Match3\Scripts\AnimationGingermanUnderTile.cs" />
     <Compile Include="Assets\Decor\Scripts\DialogueController.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\SegmentedControl.cs" />
@@ -555,7 +544,6 @@
     <Compile Include="Assets\Match3\Scripts\ReqPacketSaveMapData.cs" />
     <Compile Include="Assets\Loading\LoadSceneManager.cs" />
     <Compile Include="Assets\Match3\Scripts\MapDataDropProbBlock.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSourceConstants.cs" />
     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\GraphRequest.cs" />
     <Compile Include="Assets\Scripts\Match3Tut\TutorialView.cs" />
     <Compile Include="Assets\Test\ReduceItemCost.cs" />
@@ -563,7 +551,6 @@
     <Compile Include="Assets\Match3\Scripts\SimpleBomb.cs" />
     <Compile Include="Assets\Match3\Scripts\NumberChocolateChip.cs" />
     <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\01_Basic\Example01Scene.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSourceEvents.cs" />
     <Compile Include="Assets\unity-ui-extensions\Examples\UILineRenderer\LineRendererOrbit.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\FlowLayoutGroup.cs" />
     <Compile Include="Assets\Match3\Scripts\DropWall.cs" />
@@ -630,6 +617,7 @@
     <Compile Include="Assets\Match3\Scripts\PathologicalGames\InstanceHandler.cs" />
     <Compile Include="Assets\Decor\Scripts\DialogueData.cs" />
     <Compile Include="Assets\MultiLanguage\ByteReader.cs" />
+    <Compile Include="Assets\Decor\Scripts\UI\ContactusButton.cs" />
     <Compile Include="Assets\unity-ui-extensions\Examples\TextEffects\testHref.cs" />
     <Compile Include="Assets\Scripts\Popup\GemStorePack.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Controls\RescalingPanels\ResizePanel.cs" />
@@ -667,7 +655,6 @@
     <Compile Include="Assets\Scripts\Popup\PopupQuitGame.cs" />
     <Compile Include="Assets\Scripts\Quest\QuestLevelFinishConfig.cs" />
     <Compile Include="Assets\unity-ui-extensions\Examples\FancyScrollView\02_CellEventHandling\Example02ScrollViewCell.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSourceError.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
     <Compile Include="Assets\Match3\Scripts\LobbyIconType.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Effects\RaycastMask.cs" />
@@ -682,7 +669,6 @@
     <Compile Include="Assets\unity-ui-extensions\Examples\Cooldown\CooldownEffect_Image.cs" />
     <Compile Include="Assets\Match3\Scripts\PacketDataSpecCoin.cs" />
     <Compile Include="Assets\unity-ui-extensions\Examples\UILineRenderer\TestAddingPoints.cs" />
-    <Compile Include="Assets\IronSource\Scripts\IronSourceConfig.cs" />
     <Compile Include="Assets\Scripts\Quest\QuestConfig.cs" />
     <Compile Include="Assets\Scripts\BonusScaleAnimation.cs" />
     <Compile Include="Assets\Decor\Scripts\UI\PiggyBankButton.cs" />
@@ -725,7 +711,21 @@
     <Compile Include="Assets\Match3\Scripts\MapData.cs" />
     <Compile Include="Assets\unity-ui-extensions\Scripts\Layout\ScrollSnap.cs" />
     <Compile Include="Assets\Match3\Scripts\WebCommandBase.cs" />
-    <Compile Include="Assets\Decor\Scripts\UI\ContactusButton.cs" />
+    <Compile Include="Assets\IronSource\Scripts\iOSAgent.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceConstants.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourcePlacement.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceConfig.cs" />
+    <Compile Include="Assets\IronSource\Scripts\AndroidAgent.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceUtils.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceInitilizer.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceImpressionData.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceJSON.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceIAgent.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSource.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceEvents.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceSegment.cs" />
+    <Compile Include="Assets\IronSource\Scripts\IronSourceError.cs" />
+    <Compile Include="Assets\IronSource\Scripts\UnsupportedPlatformAgent.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Materials\UIBright.shader" />
@@ -835,6 +835,7 @@
      <None Include="Assets\Demigiant\DemiLib\Core\DemiLib.xml" />
      <None Include="Assets\JsonDotNet\Assemblies\Windows\Newtonsoft.Json.dll" />
      <None Include="Assets\Scripts\CollectGem\TextureGem.shader" />
+     <None Include="Assets\IronSource\Plugins\Android\IronSource.plugin\AndroidManifest.xml" />
      <None Include="Assets\Resources\revision.txt" />
      <None Include="Assets\Demigiant\DOTweenPro\DOTweenPro.XML" />
      <None Include="Assets\FacebookSDK\Plugins\Android\Facebook.Unity.Android.dll" />
@@ -842,7 +843,6 @@
      <None Include="Assets\Firebase\Plugins\iOS\Firebase.Crashlytics.dll" />
      <None Include="Assets\unity-ui-extensions\Resources\Shaders\UI Particle AddSmooth.shader" />
      <None Include="Assets\Decor\Materials\Flash.shader" />
-     <None Include="Assets\IronSource\Plugins\Android\IronSource.plugin\AndroidManifest.xml" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets\unity-ui-extensions\Resources\Shaders\UIImageCrop.shader" />
      <None Include="Assets\Demigiant\DOTween\readme.txt" />

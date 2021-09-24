@@ -60,7 +60,9 @@ public class GameStartController : MonoBehaviour
     void Start()
     {
         // init mobile notification
+#if UNITY_ANDROID
         GameNotificationManager.Instance.Initialize();
+#endif 
 
         Popup.PopupSystem.Instance.PlaySFXOnShowEvent += (type) =>
         {

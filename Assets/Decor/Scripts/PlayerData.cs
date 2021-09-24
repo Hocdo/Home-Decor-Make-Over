@@ -8,9 +8,9 @@ using UnityEngine;
 public class PlayerData
 {
     #region StaticConfig
-#if UNITY_EDITOR
+#if UNITY_EDITOR && !UNITY_IOS
     private static readonly string directory = "D:/";
-#else
+#else 
     private static readonly string directory = Application.persistentDataPath;
 #endif
     private static string playerDataFileName = "playerdata" + ".txt";

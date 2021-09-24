@@ -166,7 +166,8 @@ namespace Decor
                     Texture2D[] textures = new Texture2D[spriteRenderers.Length];
                     for (int p = 0; p < spriteRenderers.Length; p++)
                     {
-                        textures[p] = spriteRenderers[p].sprite.texture;
+                        if (spriteRenderers[p].sprite != null)
+                            textures[p] = spriteRenderers[p].sprite.texture;
                     }
 
                     item.SetVariant(cachedVariantIndices[i]);

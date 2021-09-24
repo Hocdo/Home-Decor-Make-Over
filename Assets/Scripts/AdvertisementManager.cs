@@ -31,7 +31,7 @@ public class AdvertisementManager : MonoSingleton<AdvertisementManager>
     string idAds = "fa8fdc49";
 #endif
     void SetAdsInterval()
-    {
+    {       
         doneAdsInterval = false;
 
         StartCoroutine(WaitEndAdsInterval());

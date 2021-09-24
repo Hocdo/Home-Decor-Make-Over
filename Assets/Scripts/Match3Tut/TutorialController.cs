@@ -28,7 +28,10 @@ namespace Match3
             OnComplete();
             view.ClearMasks();
         }
-
+        public void OnDestroy()
+        {
+            GameMain.main.isTutorial = false;           
+        }
         public void StartWithGID(int gid)
         {
            

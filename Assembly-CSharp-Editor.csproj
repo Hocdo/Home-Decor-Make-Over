@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_2_7;UNITY_2020_2;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;UNITY_ASTC_ONLY_DECOMPRESS;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_2_7;UNITY_2020_2;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;UNITY_ASTC_ONLY_DECOMPRESS;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -63,39 +63,41 @@
     <Compile Include="Assets\unity-ui-extensions\Editor\CanvasGroupActivator.cs" />
     <Compile Include="Assets\IronSource\Editor\IronSourceMediatedNetworkSettings.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\ScrollPositionControllerEditor.cs" />
-    <Compile Include="Assets\IronSource\Editor\IronSourceDependenciesManager.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\BoxSliderEditor.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\uGUITools.cs" />
-    <Compile Include="Assets\IronSource\Editor\IronSourceManifestProcessor.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\CUIGraphicEditor.cs" />
-    <Compile Include="Assets\IronSource\Editor\IronSourceEditorCoroutines.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\TextPicIconEditor.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\BezierLineRendererEditor.cs" />
     <Compile Include="Assets\Demigiant\DOTweenPro\Editor\DOTweenAnimationInspector.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\AccordionElementEditor.cs" />
-    <Compile Include="Assets\IronSource\Editor\IAdapterSettings.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\CUIBezierCurveEditor.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\NonDrawingGraphicEditor.cs" />
-    <Compile Include="Assets\IronSource\Editor\IronSourceBuildPostprocessor.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\TextPicRenameEditor.cs" />
     <Compile Include="Assets\Demigiant\DOTweenPro\Editor\DOTweenPreviewManager.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\TextPicEditor.cs" />
     <Compile Include="Assets\IronSource\Editor\IronSourceMediationSettingsInspector.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\ReadOnlyDrawer.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\CUIImageEditor.cs" />
-    <Compile Include="Assets\IronSource\Editor\IronSourceMenu.cs" />
-    <Compile Include="Assets\IronSource\Editor\IronSourcePlistProcessor.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\CUITextEditor.cs" />
     <Compile Include="Assets\Decor\Scripts\Editor\DesiginItemConverterWindow.cs" />
     <Compile Include="Assets\unity-ui-extensions\Editor\UIExtensionsMenuOptions.cs" />
+    <Compile Include="Assets\IronSource\Editor\IronSourceEditorCoroutines.cs" />
+    <Compile Include="Assets\IronSource\Editor\IronSourceMenu.cs" />
+    <Compile Include="Assets\IronSource\Editor\IronSourcePlistProcessor.cs" />
+    <Compile Include="Assets\IronSource\Editor\IronSourceBuildPostprocessor.cs" />
+    <Compile Include="Assets\IronSource\Editor\IronSourceDependenciesManager.cs" />
+    <Compile Include="Assets\IronSource\Editor\IAdapterSettings.cs" />
+    <Compile Include="Assets\IronSource\Editor\IronSourceManifestProcessor.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Demigiant\DemiLib\Core\Editor\DemiEditor.dll" />
      <None Include="Assets\IronSource\Editor\ISAdMobAdapterDependencies.xml" />
+     <None Include="Assets\ExternalDependencyManager\Editor\Google.JarResolver_v1.2.164.dll" />
+     <None Include="Assets\ExternalDependencyManager\Editor\Google.VersionHandlerImpl_v1.2.164.dll" />
+     <None Include="Assets\ExternalDependencyManager\Editor\Google.IOSResolver_v1.2.164.dll" />
      <None Include="Assets\Firebase\Editor\RemoteConfigDependencies.xml" />
      <None Include="Assets\ExternalDependencyManager\Editor\Google.VersionHandlerImpl_v1.2.165.dll" />
      <None Include="Assets\ExternalDependencyManager\Editor\Google.PackageManagerResolver_v1.2.165.dll" />
-     <None Include="Assets\ExternalDependencyManager\Editor\external-dependency-manager_version-1.2.164_manifest.txt" />
      <None Include="Assets\FacebookSDK\Plugins\Editor\Facebook.Unity.Editor.dll" />
      <None Include="Assets\ExternalDependencyManager\Editor\Google.PackageManagerResolver_v1.2.164.dll" />
      <None Include="Assets\ExternalDependencyManager\Editor\external-dependency-manager_version-1.2.165_manifest.txt" />
@@ -105,19 +107,19 @@
      <None Include="Assets\Demigiant\DOTween\Editor\DOTweenEditor.dll" />
      <None Include="Assets\Demigiant\DOTweenPro\Editor\DOTweenProEditor.XML" />
      <None Include="Assets\Firebase\Editor\Firebase.Messaging.Editor.dll" />
-     <None Include="Assets\ExternalDependencyManager\Editor\Google.VersionHandler.dll" />
      <None Include="Assets\ExternalDependencyManager\Editor\Google.JarResolver_v1.2.165.dll" />
      <None Include="Assets\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll" />
      <None Include="Assets\Firebase\Editor\FirebaseCrashlytics_version-7.2.0_manifest.txt" />
+     <None Include="Assets\ExternalDependencyManager\Editor\external-dependency-manager_version-1.2.164_manifest.txt" />
      <None Include="Assets\Firebase\Editor\Firebase.Crashlytics.Editor.dll" />
+     <None Include="Assets\IronSource\Editor\IronSourceSDKDependencies.xml" />
      <None Include="Assets\IronSource\Editor\ISFacebookAdapterDependencies.xml" />
      <None Include="Assets\Firebase\Editor\FirebaseAnalytics_version-7.2.0_manifest.txt" />
-     <None Include="Assets\ExternalDependencyManager\Editor\Google.VersionHandlerImpl_v1.2.164.dll" />
+     <None Include="Assets\IronSource\Editor\ISInMobiAdapterDependencies.xml" />
      <None Include="Assets\Firebase\Editor\FirebaseRemoteConfig_version-7.2.0_manifest.txt" />
-     <None Include="Assets\ExternalDependencyManager\Editor\Google.IOSResolver_v1.2.164.dll" />
      <None Include="Assets\Firebase\Editor\MessagingDependencies.xml" />
-     <None Include="Assets\IronSource\Editor\IronSourceSDKDependencies.xml" />
-     <None Include="Assets\ExternalDependencyManager\Editor\Google.JarResolver_v1.2.164.dll" />
+     <None Include="Assets\ExternalDependencyManager\Editor\Google.VersionHandler.dll" />
+     <None Include="Assets\IronSource\Editor\ISPangleAdapterDependencies.xml" />
      <None Include="Assets\Firebase\Editor\AppDependencies.xml" />
      <None Include="Assets\ExternalDependencyManager\Editor\Google.IOSResolver_v1.2.165.dll" />
      <None Include="Assets\IronSource\Editor\ISUnityAdsAdapterDependencies.xml" />

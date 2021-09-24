@@ -1,0 +1,150 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 16319 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2019.2.21f1\2020.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity Project/Home Decor/Home decor
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65367
+Successfully changed project path to: D:/Unity Project/Home Decor/Home decor
+D:/Unity Project/Home Decor/Home decor
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 100.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2019.2.21f1/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity Project/Home Decor/Home decor/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5751
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2019.2.21f1/2020.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2019.2.21f1/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2019.2.21f1/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56908
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2019.2.21f1/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001571 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 69.25 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.699 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012183 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Project\Home Decor\Home decor\Assets\ExternalDependencyManager\Editor\Google.VersionHandler.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+UnityIAP: [InitializeOnLoad] Facebook Check
+UnityIAP: Runtime [2020.2.7f1]
+UnityIAP: Current Build is Android:StandaloneWindows
+UnityIAP: stub FacebookStore.dll disabled
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.94 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.3 MB.
+System memory in use after: 117.2 MB.
+
+Unloading 248 unused Assets to reduce memory usage. Loaded Objects now: 2822.
+Total: 5.102500 ms (FindLiveObjects: 0.317000 ms CreateObjectMapping: 0.116400 ms MarkObjects: 3.845500 ms  DeleteObjects: 0.822800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/IronSource
+  artifactKey: Guid(3cf74074a0d1ca049a5beb429127f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IronSource using Guid(3cf74074a0d1ca049a5beb429127f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c07712f3bc2b534a690b7a2c6f3ca92') in 0.007477 seconds
+  Import took 0.062594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000690 seconds.
+  path: Assets/IronSource/Plugins/Android
+  artifactKey: Guid(7777ebc4cca382d47a7ed7a3c1c557b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IronSource/Plugins/Android using Guid(7777ebc4cca382d47a7ed7a3c1c557b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4451c5ee25d37d7b2a3cb7e7834989') in 0.019924 seconds
+  Import took 0.043965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/IronSource/Plugins
+  artifactKey: Guid(59a3bda02ef14014dbd59f34f3e66f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IronSource/Plugins using Guid(59a3bda02ef14014dbd59f34f3e66f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8bd261c1257ceab41aeb0e767d22df1') in 0.010017 seconds
+  Import took 0.027456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/IronSource/Plugins/Android/IronSource.plugin
+  artifactKey: Guid(dd0fc3f9df21c459aa56c9d17b11aa9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IronSource/Plugins/Android/IronSource.plugin using Guid(dd0fc3f9df21c459aa56c9d17b11aa9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4739e99c513415f3d11aa03460df879') in 0.005435 seconds
+  Import took 0.015505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.178337 seconds.
+  path: Assets/IronSource/Plugins/Android/IronSource.plugin/AndroidManifest.xml
+  artifactKey: Guid(cb981d8bdc5e64780902fe010e85ecff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IronSource/Plugins/Android/IronSource.plugin/AndroidManifest.xml using Guid(cb981d8bdc5e64780902fe010e85ecff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef28bed6af17accfbc6378364983e37a') in 0.035188 seconds
+  Import took 0.039521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 182.395806 seconds.
+  path: Assets/IronSource/Plugins/Android/IronSource.plugin/AndroidManifest.xml
+  artifactKey: Guid(cb981d8bdc5e64780902fe010e85ecff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IronSource/Plugins/Android/IronSource.plugin/AndroidManifest.xml using Guid(cb981d8bdc5e64780902fe010e85ecff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113dbc665f1b62ff4b3b294689273fb7') in 0.002121 seconds
+  Import took 0.012741 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 31.85 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 248 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.6 MB.
+System memory in use after: 66.7 MB.
+
+Unloading 247 unused Assets to reduce memory usage. Loaded Objects now: 2822.
+Total: 6.080700 ms (FindLiveObjects: 0.279700 ms CreateObjectMapping: 0.147700 ms MarkObjects: 4.786300 ms  DeleteObjects: 0.865300 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 31.24 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 248 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.6 MB.
+System memory in use after: 66.7 MB.
+
+Unloading 247 unused Assets to reduce memory usage. Loaded Objects now: 2822.
+Total: 6.453500 ms (FindLiveObjects: 0.329000 ms CreateObjectMapping: 0.205300 ms MarkObjects: 5.025700 ms  DeleteObjects: 0.891600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

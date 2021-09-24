@@ -1,0 +1,124 @@
+ManifestFileVersion: 0
+CRC: 87232073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6445bf148930bafbf6a41f62b014589
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3b58b4e43708147efb2459692db34d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863d9e0fd482f04aaf4568b86f2f3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44db3b986cfef5f459f3a326a63868f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e5466b5515c30a48bb24ad9bb829a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76fbd2cbdb1498440b5f72dbec7c3b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decor/Room/New garden 2/Final/13.lamp_icon.png
+- Assets/Decor/Room/New garden 2/Final/room_13_right_tree_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_table_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_sub_chair_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_chair_0.png
+- Assets/Decor/Room/New garden 2/Final/room_13_sub_chair_3.png
+- Assets/Decor/Room/New garden 2/Final/13_decor_icon.png
+- Assets/Decor/Room/New garden 2/Final/room_13_ground_2.png
+- Assets/Decor/Room/New garden 2/Final/13.wall_icon.png
+- Assets/Decor/Room/New garden 2/Final/room_13_ground_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_chair_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_wall_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_2_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_3_3.png
+- Assets/Decor/Room/New garden 2/Final/13.vase_icon.png
+- Assets/Decor/Room/New garden 2/Final/room_13_wall_0.png
+- Assets/Decor/Room/New garden 2/Final/room_13_sub_tree_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_4_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_1_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_left_tree_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_4_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_3_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_right_tree_0.png
+- Assets/Decor/Room/New garden 2/Final/room_13_decor_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_4_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_table_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_3_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_1_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_2_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_parapet_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_2_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_sub_tree_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_ceramics_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_right_tree_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_carpet_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_left_tree_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_3_2.png
+- Assets/Decor/Room/New garden 2/Final/13.top_icon.png
+- Assets/Decor/Room/New garden 2/Final/room_13_wall_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_2_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_1_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_chair_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_3_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_4_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_wall_tree_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_1_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_left_tree_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_3_1.png
+- Assets/Decor/Room/New garden 2/Final/13.chair_icon.png
+- Assets/Decor/Room/New garden 2/Final/sky.png
+- Assets/Decor/Room/New garden 2/Final/room_13_wall_tree_3.png
+- Assets/Decor/Room/New garden 2/room.prefab
+- Assets/Decor/Room/New garden 2/Final/room_13_parapet_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_left_tree_0.png
+- Assets/Decor/Room/New garden 2/Final/room_13_wall_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_parapet_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_sub_chair_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_2_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_1_2.png
+- Assets/Decor/Room/New garden 2/Final/13.candle_icon.png
+- Assets/Decor/Room/New garden 2/Final/room_13_ground_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_table_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_decor_3.png
+- Assets/Decor/Room/New garden 2/Final/13.tree_icon.png
+- Assets/Decor/Room/New garden 2/Final/room_13_ceramics_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_4_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_chair_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_sub_tree_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_carpet_1.png
+- Assets/Decor/Room/New garden 2/Final/13.plant_icon.png
+- Assets/Decor/Room/New garden 2/Final/room_13_flower_bush_1_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_right_tree_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_wall_tree_1.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_4_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_ceramics_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_ground_0.png
+- Assets/Decor/Room/New garden 2/Final/room_13_parapet_0.png
+- Assets/Decor/Room/New garden 2/Final/room_13_table_0.png
+- Assets/Decor/Room/New garden 2/Final/room_13_lamp_2_2.png
+- Assets/Decor/Room/New garden 2/Final/room_13_carpet_3.png
+- Assets/Decor/Room/New garden 2/Final/room_13_decor_2.png
+- Assets/Decor/Room/New garden 2/Final/13.table_icon.png
+Dependencies: []

@@ -269,60 +269,60 @@
 		<Value>Aiuta I Clienti A ESPLORARE E PROGETTARE UN'InCredIBILE "ESTANZA MANSARDA". ONU Luogo en Cui L'Amore Fiorisce</Value>
 	</Translation>
 	<Translation key="room_name_4">
-		<Value>Exhibition Room</Value>
-		<Value>Phòng triển lãm</Value>
-		<Value>Salle d'exposition</Value>
-		<Value>展示室</Value>
-		<Value>전시실</Value>
-		<Value>展览室</Value>
-		<Value>tentoonstelling Room</Value>
-		<Value>Ausstellungsraum</Value>
-		<Value>Sala esposizioni</Value>
-		<Value>Sala de Exposições</Value>
-		<Value>Выставочный зал</Value>
-		<Value>Sala esposizioni</Value>
+		<Value>Sky Room</Value>
+		<Value>Phòng ngoài trời</Value>
+		<Value>Salle de ciel</Value>
+		<Value>スカイ部屋</Value>
+		<Value>하늘 방</Value>
+		<Value>天空室</Value>
+		<Value>Hemelzaal</Value>
+		<Value>Himmelszimmer</Value>
+		<Value>Sky room.</Value>
+		<Value>Sky room</Value>
+		<Value>Небесная комната</Value>
+		<Value>Sky Room.</Value>
 	</Translation>
 	<Translation key="room_desc_4">
-		<Value>A modern gallery embodies the personality of its designer</Value>
-		<Value>Một bộ sưu tập hiện đại là hiện thân của những cá tính của nhà thiết kế của nó</Value>
-		<Value>Une galerie d'art moderne incarne la personnalité de son créateur</Value>
-		<Value>近代的なギャラリーは、そのデザイナーの個性を体現します</Value>
-		<Value>현대 갤러리는 디자이너의 개성을 구현</Value>
-		<Value>现代画廊体现了设计师的个性</Value>
-		<Value>Een moderne galerie belichaamt de persoonlijkheid van de ontwerper</Value>
-		<Value>Eine moderne Galerie verkörpert die Persönlichkeit des Designers</Value>
-		<Value>Una galleria moderna incarna la personalità del suo progettista</Value>
-		<Value>A galeria de arte moderna encarna a personalidade do seu criador</Value>
-		<Value>Современная галерея воплощает в себе личность его создателя</Value>
-		<Value>Una galería moderna Incarna La personalità del suo progettista</Value>
+		<Value>Bella's garden is full of creativity</Value>
+		<Value>Khu vườn của Bella đầy ắp sự sáng tạo</Value>
+		<Value>Le jardin de Bella est plein de créativité</Value>
+		<Value>Bellaの庭は創造性に満ちています</Value>
+		<Value>벨라의 정원은 창의력으로 가득합니다</Value>
+		<Value>贝拉的花园充满了创造力</Value>
+		<Value>Bella's Garden is vol met creativiteit</Value>
+		<Value>Bellas Garten ist voller Kreativität</Value>
+		<Value>Il giardino di Bella è pieno di creatività</Value>
+		<Value>O jardim de Bella é cheio de criatividade</Value>
+		<Value>Сад Беллы полон творчества</Value>
+		<Value>Il giardino di bella è pieno di creatività</Value>
 	</Translation>
 	<Translation key="room_name_5">
-		<Value>Work Place</Value>
-		<Value>Phòng làm việc</Value>
-		<Value>Lieu de travail</Value>
-		<Value>職場</Value>
-		<Value>일터</Value>
-		<Value>工作地点</Value>
-		<Value>work Place</Value>
-		<Value>Arbeitsplatz</Value>
-		<Value>Posto di lavoro</Value>
-		<Value>Ambiente de trabalho</Value>
-		<Value>Рабочее место</Value>
-		<Value>Posto di lavoro</Value>
+		<Value>Lily Room</Value>
+		<Value>Phòng của Lily</Value>
+		<Value>Chambre de lis</Value>
+		<Value>ユリ室</Value>
+		<Value>릴리 룸</Value>
+		<Value>百合房间</Value>
+		<Value>Lelieruimte</Value>
+		<Value>Lilieraum</Value>
+		<Value>Camera di giglio</Value>
+		<Value>Sala de lírio</Value>
+		<Value>Комната лилии</Value>
+		<Value>Cámara di giglio</Value>
 	</Translation>
 	<Translation key="room_desc_5">
-		<Value>Experience the office of a creative designer</Value>
-		<Value>Trải nghiệm văn phòng của một nhà thiết kế sáng tạo</Value>
-		<Value>L'expérience du bureau d'un designer créatif</Value>
-		<Value>創造的なデザイナーの事務所を体験</Value>
-		<Value>창조적 인 디자이너의 사무실을 경험</Value>
-		<Value>体验创意设计师的办公室</Value>
-		<Value>Ervaar het kantoor van een creatief ontwerper</Value>
-		<Value>Erleben Sie das Büro eines kreativen Designer</Value>
-		<Value>Provate l'ufficio di un designer creativo</Value>
-		<Value>Experimente a cargo de um designer criativo</Value>
-		<Value>Опыт работы в офисе творческого дизайнера</Value>
-		<Value>Provate l'Ufficio di un creativo diseñador</Value>
+		<Value>Sweet charm in lily's garden </Value>
+		<Value>Sự quyến rũ ngọt ngào trong khu vườn của Lily</Value>
+		<Value>Sweet Charm dans le jardin de Lily</Value>
+		<Value>ユリの庭園の甘い魅力</Value>
+		<Value>릴리의 정원에서 달콤한 매력</Value>
+		<Value>莉莉花园里的甜蜜魅力</Value>
+		<Value>Zoete charme in de tuin van Lily</Value>
+		<Value>Süßer Charme in Lilys Garten</Value>
+		<Value>Fascino dolce nel giardino di Lily</Value>
+		<Value>Doce charme no jardim de Lily</Value>
+		<Value>Сладкий шарм в саду Лили</Value>
+		<Value>Fascino dolce nel giardino di lily</Value>
 	</Translation>
 	<Translation key="room_name_6">
 		<Value>Modern Bar</Value>
@@ -463,6 +463,34 @@
 		<Value>Linda rosa quarto das crianças</Value>
 		<Value>Прекрасная детская комната розовой</Value>
 		<Value>cámara bella rosa por bambini</Value>
+	</Translation>
+	<Translation key="room_name_11">
+		<Value>Keiko Room</Value>
+		<Value>Phòng khách</Value>
+		<Value>Salon</Value>
+		<Value>リビングルーム</Value>
+		<Value>거실</Value>
+		<Value>客厅</Value>
+		<Value>Woonkamer</Value>
+		<Value>Wohnzimmer</Value>
+		<Value>Soggiorno</Value>
+		<Value>Sala de estar</Value>
+		<Value>Гостиная</Value>
+		<Value>soggiorno</Value>
+	</Translation>
+	<Translation key="room_desc_11">
+		<Value>A living room with a unique style is a great experience</Value>
+		<Value>Một phòng khách với phong cách độc đáo là một trải nghiệm tuyệt vời</Value>
+		<Value>Un salon avec un style unique est une belle expérience</Value>
+		<Value>ユニークなスタイルのリビングルームは素晴らしい経験です</Value>
+		<Value>독특한 스타일의 거실은 훌륭한 경험입니다</Value>
+		<Value>风格独特的客厅是一次很棒的体验</Value>
+		<Value>Een woonkamer met een unieke stijl is een geweldige beleving</Value>
+		<Value>Ein Wohnzimmer mit einzigartigem Stil ist ein tolles Erlebnis</Value>
+		<Value>Un soggiorno dallo stile unico è una grande esperienza</Value>
+		<Value>Uma sala de estar com um estilo único é uma ótima experiência</Value>
+		<Value>Гостиная в уникальном стиле - это незабываемые впечатления</Value>
+		<Value>Una sala de estar con un estilo único es una gran experiencia</Value>
 	</Translation>
 	<Translation key="more_stamina">
 		<Value>Get more stamina</Value>

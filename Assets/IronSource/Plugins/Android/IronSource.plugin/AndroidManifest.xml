@@ -15,9 +15,9 @@
         
         <!--As Requiered By Admob please add your App ID-->
 
-        <!--<meta-data-->
-            <!--android:name="com.google.android.gms.ads.APPLICATION_ID"-->
-            <!--android:value="YOUR_ADMOB_APP_ID"/>-->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9674055550946724~4694625927"/>
 
     </application>
 </manifest>

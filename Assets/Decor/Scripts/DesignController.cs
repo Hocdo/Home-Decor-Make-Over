@@ -353,11 +353,19 @@ namespace Decor
                     var activeIcon = remainingItems[i].GetIcon();
                     if (activeIconList.Count <= 4 && activeIconList.Contains(activeIcon) == false
                         && remainingItems[i].IsDependenciesUnlocked(item)
-                        && CheckPreviousItemUnlocked(remainingItems[i])
+                        //&& CheckPreviousItemUnlocked(remainingItems[i])
                         )
                     {
-                        activeIcon.SetActive(true);
-                        activeIconList.Add(activeIcon);
+                        if (remainingItems[i].previousId == item.GetId())
+                        {
+                            activeIcon.SetActive(true);
+                            activeIconList.Add(activeIcon);
+                        }
+                        else if (CheckPreviousItemUnlocked(remainingItems[i]))
+                        {
+                            activeIcon.SetActive(true);
+                            activeIconList.Add(activeIcon);
+                        }
                     }
                 }
             }
